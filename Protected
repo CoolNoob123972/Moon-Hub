@@ -1,1 +1,986 @@
-([[This file was protected with MoonSec V3 by federal9999 on discord]]):gsub('.+', (function(a) _alMpsLcByCrH = a; end)); return(function(h,...)local d;local t;local f;local a;local l;local k;local e=24915;local u=0;local n={};while u<458 do u=u+1;while u<0x37a and e%0x4098<0x204c do u=u+1 e=(e+673)%46510 local r=u+e if(e%0x24a8)>0x1254 then e=(e*0xb1)%0x4cbb while u<0x3cf and e%0x17fc<0xbfe do u=u+1 e=(e-199)%9362 local d=u+e if(e%0x10ec)>0x876 then e=(e-0x1f9)%0x8cc3 local e=51914 if not n[e]then n[e]=0x1 k={};end elseif e%2~=0 then e=(e-0x216)%0xa48b local e=78457 if not n[e]then n[e]=0x1 l=string;end else e=(e-0x3ec)%0xc06c u=u+1 local e=932 if not n[e]then n[e]=0x1 a=tonumber;end end end elseif e%2~=0 then e=(e+0x2c)%0xb5f4 while u<0x396 and e%0x2852<0x1429 do u=u+1 e=(e*674)%47260 local r=u+e if(e%0x4414)<=0x220a then e=(e+0x3be)%0x1b79 local e=17512 if not n[e]then n[e]=0x1 t=function(t)local e=0x01 local function n(u)e=e+u return t:sub(e-u,e-0x01)end while true do local u=n(0x01)if(u=="\5")then break end local e=l.byte(n(0x01))local e=n(e)if u=="\2"then e=k.YWIqeLAE(e)elseif u=="\3"then e=e~="\0"elseif u=="\6"then d[e]=function(e,u)return h(8,nil,h,u,e)end elseif u=="\4"then e=d[e]elseif u=="\0"then e=d[e][n(l.byte(n(0x01)))];end local u=n(0x08)k[u]=e end end end elseif e%2~=0 then e=(e+0x5b)%0x2b57 local e=7860 if not n[e]then n[e]=0x1 end else e=(e-0x2d9)%0xbc7e u=u+1 local e=24127 if not n[e]then n[e]=0x1 f="\4\8\116\111\110\117\109\98\101\114\89\87\73\113\101\76\65\69\0\6\115\116\114\105\110\103\4\99\104\97\114\107\90\65\66\115\108\115\113\0\6\115\116\114\105\110\103\3\115\117\98\65\74\98\75\69\70\102\87\0\6\115\116\114\105\110\103\4\98\121\116\101\80\111\95\106\118\65\87\104\0\5\116\97\98\108\101\6\99\111\110\99\97\116\75\103\115\70\66\70\122\117\0\5\116\97\98\108\101\6\105\110\115\101\114\116\86\100\97\104\99\66\111\87\5";end end end else e=(e*0x28)%0xb81e u=u+1 while u<0x178 and e%0x46e6<0x2373 do u=u+1 e=(e+830)%49409 local t=u+e if(e%0x2798)<0x13cc then e=(e-0x24a)%0xa852 local e=82854 if not n[e]then n[e]=0x1 d=getfenv and getfenv();end elseif e%2~=0 then e=(e+0x2b0)%0x69a4 local e=41176 if not n[e]then n[e]=0x1 end else e=(e-0x3e6)%0x8957 u=u+1 local e=99560 if not n[e]then n[e]=0x1 d=(not d)and _ENV or d;end end end end end e=(e+334)%10273 end t(f);local u={};for e=0x0,0xff do local n=k.kZABslsq(e);u[e]=n;u[n]=e;end local function r(e)return u[e];end local l=(function(h,l)local f,n=0x01,0x10 local u={{},{},{}}local d=-0x01 local e=0x01 local t=h while true do u[0x03][k.AJbKEFfW(l,e,(function()e=f+e return e-0x01 end)())]=(function()d=d+0x01 return d end)()if d==(0x0f)then d=""n=0x000 break end end local d=#l while e<d+0x01 do u[0x02][n]=k.AJbKEFfW(l,e,(function()e=f+e return e-0x01 end)())n=n+0x01 if n%0x02==0x00 then n=0x00 k.VdahcBoW(u[0x01],(r((((u[0x03][u[0x02][0x00]]or 0x00)*0x10)+(u[0x03][u[0x02][0x01]]or 0x00)+t)%0x100)));t=h+t;end end return k.KgsFBFzu(u[0x01])end);t(l(147,"D4j)EfJ?VtAbxo0:?j"));t(l(176," PFL)5UDIA0xOQ,y5_0UULx)CF)AA,,DQ)I),5FQI;xPyO5NOb,DU5I),I,)L5y(LLIPQOFO5)OyyF5IOIyD5LAUAP,509yFLAI,,)tUUDxAyDUO0Iy)5Q)*AU5L0)yFLAI,QDO5DQOPF)ULxI?yUF0IQALUAFOPPxFvD)FQDPQ)PI+5xO+)55xI;c))Ayy)LAUxQDFDDLU)xODLx5P)5Q05J))P0),PLFIOQ5F,DFOQ95U5OIPP50))ADLUA5,L))Iy,FyLUFOLB)5Fx0X5U^0OA),)0D,PLAA)OFFU50O)FUU)x5P0yF)POALI0tODFADPxOF05yU)xID)xyPLU)xFyA),ADO5PQD5xPf55OO)FA.k55P)5P0FyO)5LUy5L,AXQPFLDxOIP0UPxUPU550FyP,)LUy5L,A<QPFLDxOQF))5xFP)LOIPy,,)L5y+)FIAQ,L)DLxAPP))xyy0UL0,A),U0L,5LOI5QLL)IUOUPDD0xyjLLLIOA!,)AQ,P))IID5FUDOOyPyDFxIyB50xAy,5DDxOLQ5"));local e=(-11360+(function()local d,n=0,1;(function(e,u)e(e(u,e),u(e,e))end)(function(e,u)if d>162 then return u end d=d+1 n=(n+902)%15802 if(n%488)>244 then return e else return u(e(e,e),u(e and u,e))end return e(e(u,u),e(e,e))end,function(u,e)if d>385 then return e end d=d+1 n=(n*512)%27403 if(n%780)>390 then return e else return e(u(u and e,u and e),u(u,e))end return u(u(e,e and e),e(u,e))end)return n;end)())local o=k.mtEbtLAn or k.hjafveba;local ne=(getfenv)or(function()return _ENV end);local z=1;local f=4;local t=3;local d=2;local function ee(c,...)local s=l(e,"auMLv<V1#^WR>eS-SW1VRuS>M^><^ee#uL^M-RMeV<WS^<-Lv>^##uSLv>1RVeR.uuVL^Se#>-Me#VeMRRu11vW-S>L<1:W1S<u1vSve1->MvS1->kWVM<VRW<SV>ev^#VeMmSL<1RRV-SSiV^^ReVunx1#L1e-RLv#/V^S<MM<e^WSLuS<<^Le<R1vR1>ReWLMu<WWM#-}-<e#<RSRVL11RR^WMMLVW^#eLeM*vMM<W^<em4RvVVuMRL1Lv1<W#SLuSWejvS-<SRvS-M1V^LL1^W1SMue^>3<L1V-R#^--e<VWM#RSe<V#<<^WL>ez#vL>SuSVV^>>RuLv<#^>WRuMA11VMeuM1VM^WVRW#e-uW<<eV-<V^W>1S>v-MMeV#-WL-#<R-W-u^1LVbeMu1<e^#eWWvSVu#<L#Su#1VW#S^MLvv^Oe^u<eSu><M#e>#vVWeS<MLVuM>V-WzeRuV^MS-MW1uRMSVM1M-^m>^WuSvu<<,#RD1V<Wg>Wu1<7^>>>Oev1uV<##W><P5^ue1ueVu#>RX-Sv<1#v-#W>VT^LW1<RcLu#R#uS-LW#vRV-#L11uLR1SW-SWM<WScWL^1eR<-1SMvvWee>R -uMv<-^WuR1<VR>>MeV<W<e^W--MML<S^^uR1vRSe<M><>W-eVuS<WMvVW^#eL0S^eS^L1VS1^e^uSv1^u>>->LL1-vW^<RS-^LvRWu#vS#V>.RVuMVSRmSSMVV>W>#S-ev^^M>S^1eVnRvV#u--VV^Se>uWuVMH<-^v>-zW^W-LMBV#1We&W^S<ue<#^LT-LLR1#u><-<LcVR-L<;#R><RMMM<uVLevSWMvLu1vW<SPuRW^-MvMV>#<S>MV<^^1eIWVSuuW<<^FS>MVvL#MR1-MMeWS>ev<#b>L{L>>uMvP1RRVvL^ueWf1<uL#^W*9MW1WW#SSMS-MLMVVWue><W>u-RL>V#W>SeRV->MWV<W)gL1^>/-^Lg1AWv^#MV<e^#eM>#e>u-<r#R>VvMWWSRuR}eVS>-A1v11R<u^#><sBLR>vMdv-^V>-Reue#RRLS>L^1LW^S1RM-#MVVu^>u^#vR>-1MSVV^WSWuv<#v<RMSRe#M#v>#1>MV-^WSRI-<>^1>vUSLS1v#<R<-QL3VRWWSsuR<1^LeMGev1v>>R>.-RLVe^M5<R^Me4eM(MLeRRS<LVM#^>e^u-vS^VRSP>v<1MRWSVMeV1W#evu#<^vSRS:<LSLRRRSWuSVV^ReMPW<#<L#S>RZuLW^<-LM<VVW!RWu1v<#W>M-^-S11WVS^M^M<WveRu><v#JRe^<eR}^vv1-wW<WWMSw91v-#<>Rru-RveRRSLRR-RM-VWW<MVv<R^->L<1<W^1-Re-LMSV^-1<v#e>#Y^>eu<vu1>R1<v^V>>uM-S#>R--#L#1#Vj-uS1u-VLV^W-eeu#<LSeMW1q#>SWM#L>#SW#uWu-#^^W#-eLBLLS1^-#<#^ee<8>L>#-^-SeLvV1L-#vRLSSM^WeqevS#1R-e+LvVM^SSLu1<uMWVS^Se^uv^L-^LMVu^-e-uvn>V-e1--eWu>vS#^>vvV^RSMu<ERV->-4MvVuv<V##>L-S1We#uLM>^WevQ-v<1-vS^v>M-eL#Rvuuv>^Lev+#v^L4#>SeMVLV<11vSvS#ML<SSeL>1vReSWSQL>W#eV>>LR#W>MR#u<1LR>-#e-ve^#SMuv<V^<>-R1uRMe#S-MLLV1^##-eM<M#->e-R-u#LR3SSM^u#^<eL>^v<#LRS-WLvLvv###R>-1LMR<u><1#SW6-^vLH>v>#4RR-V#<e>>1LV#>>1--efuMvv1-RWv#^#evF><<##>V-<L#kW<M1SR^-v#u>-u#v<#-1VS#Me1LWe-)M#<#^L>eWVSMuW<<^hu#V1R^1SRR-MMeV#uuL-#VR^^uevh<vd1R-><eW<#1S^<M#u1LSv->jV<L1WR<-D#M>R_eL-#VR--MS#11We^^Hu<S^^eL> ML#RRLW>>^U-Le1#RLvi<W^^R-uR#LR^-#M11<W<SVMJS-LuVL^Se^<1R1SRL1Vu^SSWuV<SM^V^^ee#uL^S-<M<VM^-RSuvSeLtVu^>e1Vv1SReSLvLWVSLMLv-^#VM^-eVuuv>>SLv<SWS1<RLS^Mv<-e>--#vWSSS>L21L11MWeMR#->1->L-M-^p-uM^V^^e1LRgS1MM<eSfv#1lR>#V>e-WL<1E-^v1#S>urLL1#DRRWL--<eWue#u#S1Mu<R^VeuM>v^^WRe-#LLR1u1<W##>e-SLM11WRWuS1u1WVeMuvv##S>#JVvLMWW>-<Mv-#LeV>W1SMV+>17uLv1MWR><M^Vu^veyu#SLM<<1^M>evWR>SSuWV1WM>-u1<LuS<V^u>>Y1vM-ei^LLLN1eWve-uWW#-LLeV-Ru-Ue1LWWM>W>LML^uR^-ML-1^W<e-Sv-LLWV1WMee<RR--1LVVV<->^MLuf#M>18ev##W<v^M>#(LLSRWu#<>^LeLWMe-uV<u#>uU1}WVS>R<-#M^Vv^-vV#vRuS-L^1<WSSAM <vMW1>^Se^uv^>-^LvVS#SeRuvvR1WeV)-vu#uR<->x>V#^Se^u<<^V1e<u(v^uv<<##>L-S1>e>uY<Sv<Wu*evWuLVV#1>M-e1Se#>SM>#>>(TS-<<uRe-WSuMvW1SvuMvS#>eVR^Le#MVWRLS^uRL^1uW>S1MM<e^#eLPSvR>#R--WL<e#u-<W^u>-euluL>RWSvL<M1^Re#uSve^<ReyRvv1uR^S<M>VVW1eLu1<#veRe_vLeLW11RLS>M#^#e>uWuM#W>Mn#vL1VWWS1L&<-V!e^k#vR#R#1e^uS<>1u>MM^VW^Se-&R<LuSV)^M>eQ#^We-M<<-#MeWFWv<1-<#Wk>>U1vMRSMV<>^R>Wu#v##^>LRyuu1MWWSWuS-vLVV#WLeSV>>e-eMR1<RLSqeVv^MS1+WMeeu#^emLLV1vW-S^M><<^eV#>Me>u1<MSuLwVvW>SvM17-1ZevuM-RVR>v-<L<V^<e><M>cS1>>1uuvL#<>vWRzS1V^S^#eL6SMWWv^Se^uvWL-MMS1L<Re>uW<##>#MuvL^#VVS-^LVVSWSeWuL<-#R><R>vS1R>u-kSLvRW#SLueLe#W>LRRM>vvV>S^LRue^Se#uMvS^V>xlVQSv^#vR-SuVRW<^Muu<u^V>u,#vV1Lv>^n>:-RLV>uu#v#^R>MjW-L<1WeRSe-->vu1%WRSVV^>u-#LS#uR8WLuo<S^Revu#S1Me<R^Veu<<WWS1eev(W#e0>^M<#L>1-SLSFev>#uR>-1#%#eu-<M^{Re^Ve<_Wv<#5g^VR^S>S;><vu-^<^L>S5^#>SjLMVc^<ee>Vu1<M#eRML<1eW<^SSu<-^vSL><<1#v>M-eS>V^W1^eM1VuvSSMuL<v#>1<-RLT1-WLSRu#Vv^u##Avvv#eR^puSWV#W>Svu^<>^<e<4^5VL#<<^W>^?vL->>uWVL^?eW>uL/1-RR-RM-1Vvw#vRvS-MWR<uMv*#LRW8uLv<uWRSvM>-GL<Vv^-eWVMR<e#M11W1Se>Mu4e1Ke#ffeRu#v-#W><vS^>SLuVSSM>VM^ee#<<1#-#MV1ML>11RxSRMVWRS>e^uVve##>Lv1^>SLueS>MeV*^ReVVuWeSRLuue#tS#u/SRM-<-^We<<RRr--MLVR^#Svuuj#^^#-^RSuz-vW#<qVVv^ReeuwA11u>LR#M^11WS-R>upVL<1sWRL^^V>-HWvRMe^>SRM1V1^RSMWeS<M7<R^Veux>^2>MR-MWLLVSW^LW#veM>Mu## W#WuSvVM^1SV>#v>^u1^-eLeMWRSS-L V#<u>-uLvR#eRW!MM-1RW#^-uR<RWve&u#Bu1->L-RLz1LW>S>M*uev-V>W^SIuR<Vev-VVWWe1->L-LMSV^SSveLW^ee#SR<uV-ReS<vVM-1uWLeSu^W14vLe1#R^^R-SVV#SV^W^eeu#<LeMMSVWWjS-MuVvMe16Wue>u1^^->L1VWWeS<evL1^->1WMSMuV<u#>,S1v^SSSu>VMWMVVW>eWu<<*evLvV1W<S<MV<Mv#R>01LS#_RL#>>#sbLR1V-S<<^<VvW>e#uLvSe^L?V{RLeWMM7R1^>Vu*vR1RRRS-LVQov#1vW-SW11><ySLR#<V>euL1VWW#SLueVh#^eu^>eeu7vR#V*v<eWLeSn-v^#V>^^ReVI-vW#<u1vSL#1VW>S1MMWVc<Lv1<WS#V>^-WL<1o-MvR^<W-->vv#LRuSVML-RL>V-WWS<Vu>e-^LV#uRWWMu<-WLWVSW^SvV->V-Vv^15R#-vRS--LMVeW#L^1-ReUVL#17R^-LReFuLuV>W1L##M>5->Lu1<W^^-%UVuW^VeW-Suu><1SvLM1RW#-Me^LW^SSGW1S>uR<V^uu#1VW<eSMvuL1Se<2<<#1->1^Mev Vvu1>->VW^M>Ru#<M##>VAM>e+<v_1RRV-uM><1Sue-MW<L#S>^veWMe-e<L#Wi>#>uuS#^>u->LLVR^-S-u^<eM>V#WbeRuV^1-RLelvv11#RLSSVW>#wLMS1W>#--M#1}Rv1^>WSeM#VLS1v1#WR#-eMSVMW1eReuu1v1RV_Mvv1#RS-#LV1L<WR>M<<vM#1u^>e1uM^#SeL>V.W#e<MuvSv<RL-Sv#1WR>-RL<--Vu1LWSS^vvW>)^vv1SVR>SLV<S<1^Wth<>#>>Wq<-v<#R#W<OvV!W>^W>>VLvMRL-ev<#uRM-LMeLv<<Wue^u#v-#-^^eeJev##LUSV<^<S#F-<1vEWvEvL11Rv^#VRe-#LLeueL<u^M<>WMe0ARvV>1M#V5W0ev>#LV#u>R-eL-1SR##MR--VLuV>QSvL#WRe^<S%c^vv1-X1<VWMeVPR<<#>>L-LL}Ve^VSLMRVW^#>eqWSuuR<#^W>>}1vM>VMV<VW8>Suuvv##>^^MeVpVvu1>XLVu^d>^;-MS#<R<_#M-11vM^^RV-uM>RS)Lv^#L1LeeL1Mv^VeRMu<>^S#V>>-><WRS-VL<V<<S>#MM?-#u>VI>v1#^<v#>>1DMLe1#RLuSV^VVWeeWu<<E>-M-1vW>SLuLVVv#Ru--vV1^#^WW>1z<LR1VRuLS#>e<*Mv>u<<L#^>v--#<WL-uu^1WVLW>e1uMvee<MvV^^S>MuS<S#S>VovL^1M>:-7LuVRLW11WSS^MvRLhLvM1<veW^>u->L1RvuM<>^1>LoRuV##RWSVLLVS^RSL>>0-#<>> VvV1eR<S^e-VPWvSM>R<e^I>S-Rv<LVV##<>>-^LvV--uvW^vWRA#vq1/R>S<LuvuWuevu#SVM^<W^<ey<SW--LM<V>W<#e-:<##Q<RR<>-!Wv<>VMpuV1LeSuV<u##>d-vvvVSRM^-3-VL^>eWN^v>L>^#-SL^M##We-MV<^^->Ru#<Lue<>^u>>k1##SMe#L^^WSMWVS#uW<<^y*>VWW<>-ML<R^u>eu<S)Mu<v#->WvRW>-veVL#Wuenu<e-MH<L#S>^v<WLeSFu<u#e>R!eeSMv<M#e>#vvWMSVue<evWR#BLve1->u,zLWyvvR1#RLSS1>eLC>L-L<WMR>-RMu#-SRM1<L#SV<W#e^uvv->>L1V-WWSuu^ve^e>19ReWuSvS#^>vvuWVSvM#oRV>eLuuv(#V>h#W>W-SL^1vu<<>^v>eSeue<Lv-SeM#VL^Se^Lv<uVvVuW<e<uxvR>SMWVf^>>Mu-ve^*>1wSvuuu<v#<>s-R#LeMu1v>1^>VJVL11e>H#V>^-WL<1OI+<^#V>S{<LL1WWeReeS-RLWV-WWS<V1R>bLLVvVV1#v>V-#LLVS- v<#>R-R<u^V-#hWuRSgnLMVeW#MW#V>#A1vLMW#e-<ue-#L#V>W1SMVVRR-#SS<uR^SuR>-SLFVRWVL#1e>L-ev31#W#SLue-VLWVWW<S6<SRS-MvpM1#v-VM#<vWue>W1e-uW<<^_>RvV>DR>R^-#MeV#WL<vvLRR-#L#VVvM#MRV-uM>RvxLv#1eW1S-MRoVvW1WR<-(^S>SJMv11#>vj,S#VRRLeRRV-LMWV<W9ML#<RS-u>^61Le1#RL<S<LeM_#veu<Le#e>VFuL>eWRMSeM#Vv^Se^uvVu#>><E)LR>0RuS>M11v^Se#uLvSRq>v--LW^R><SRMVVuWMe1uLvee>>LKMu^1vW-SWMRV{^>eVu<M>#1>M-eL-1LW-S^MvS-^We<uGv>#V>u->v^u#WeS#MLW1^^evg-<>f#>*->LV-#W>S1MM1e^WeL&-v^#<R-M^L<#M>MSVMv<>S<eMBev##L>^-^L<V-WeS<Mz<R^VeeN>v1#MRe-#L<VSW^-<u-<W^<euZRv1#u>S4SLMVeW#M>uS<^^vSu!-v<#uRR1eLuV>W14MuS<#^v>SUWvvWSRWy1vRVRW^SuLS<1^M>e!#eR1SRW-vLMVWW<S5uR1-^u>>U1vM1eRW-LMS-1Wve-uW<V^C>eIVVuv-R1-LMeV#WL#{u^<v^e>WU#v 1RRV-VM>^1WWeeuR<LS>>^#1L-WWe#-gMSVVvMe>WH<MRee-cLvu1^>>S-L1V<eBe>uV<v#>-t+M>V1#SL-vM^V1^-u>u<<##R>VOvL>1#RM-mM#V<^S-^MRv-#>><gjLR61RuS>MSVMWue#uLvS#e>vM-vR1<RvSR#vVuS-e1vMv-##>1-S<<1v-vSW<<V<^ReWuu>B#1SL-eV##1WSSeMv-u^W<MunvR^>>u-SL11VWeS^ML1SV>evuuvW#V>!W1LV1u>1S1MV<e^#eLuuv^Rv>L-WL^1};^SV>-<>>1>/Xev>#Lu--^<<V-eWSSM=<-^VMe9>e{#MReo<LL1tW^S#u-<>^<SMMMvV#vR>1SLMVeW#6Lu-<^^1>-Jev<R^RRP#L>V>WRSMWv<#^L>SM^v11-RS-<LvVRuRSuMSV#^MeL=#>R1SR^-vM-1MW<SvuR<>^u>Sc1VMMWR#-1MSVeWv1LuW<<WR>Rs>vu1-R1-MMeV#RVeSue<v^<>Wg1vF^R>V-uLAV1WVee1V<LWbe>Fvvv1WL>- MRVV>uSeu1<1#e>e_LRL1^>V-UMWV>W8<MuV<u#>>1eRLe1eRL-<M^VV^--WM<<I^u>VJVL>yMRMoeLVVLW<e^uWv-RS><M?vW1VR^S>MeVMRMe#LLVM#^>e--vY1<S#SRvVVe^>SuuM<L##>e-S<^#VW--<M<V<^RS1uuv>^S>M:#L#1<WSSRMv<-^-e<uRvR^u>u->L1^M#%S#M-<S^RevuWvW#<eL-Rvv1uW>S1ML<e>#S<+S<1#vue-WR^1 WRe1MuV#^1SwIevW#LeS1^Lv1>WWS1M_-<^VSLuvv1^uReMSLLVSW^SvLv<WW<e)uMvV#uR>4^LVVeR^SLL1<^^v>-cWv1#6>W-Vv6V>R#SMue1b^LeRf^<L1-RR-<<q1-WVSSu><^^MV1D#<<>-R^{LM-qeW<S6uR<VSW>>u1vM#vR#-LMS1R-<e-MR<<e >RZVvu1>vM-ML>V#RMeSMW<v#->-m<ve1R><-uMeV1>M-Wu#Vh#S>R&ve^1W>1+<MR1<Wut^u1<M#e>#T#LS#^Rv-^MWV<WBSeLL<u^e>1vMLe1#RLSSMRVvWSeWMv<w^>>Vhu1L11R-SeL1VL^-e^LvVW#WeM{CLe1VvRS>L^1v^eS1uLe>#^>v--<W1WRT-RMVV1^>--uM<-^M>LC-L^RvW-SWM<V9MVeVM+v>^V>M!SL#1L>VS^Lu<-W^e<uuvRWVe>->vv1MW-S#Re<SWRS>=-<^#<u<-RLV1uW>-uMMVe^#eRpSv^#veu/VL<#uWRMVMu<>^1eMMLv#^MRSm#Lv#!WWS<1-<RWLeuuRv1#LReu#GVVSRVSvMu<WW0eO}RvW#u>R-1LMVeW^SLvS<-^veSdWWL#ySV-VLu<eW1S-ueV1^Le;_^Vv--RWALL4VeWV1Ru>V^WV>eu#vLMMR^-vM-VWR1SwM><V^<>>?1vM#->e-Lv(V^Sve-uW<<^OeRYV<u1>>1-ML-V#WLS;u^VM#-eWi<vu1ReV;4M>1<WMe-u#Se#SeR1^L-#WR<^<MRVVWue>Lr<M^S>#CVLS1^Rv?uL1V<RMeR<V<u#>>1EMv>1#>LSSL^VvRueWu<V<#Revxuv>11RLSev#LV^SS1uv<G#W1uByLR#-Ru->M1VM^eeRuL1S^<>vs-LWeLR_VVMV^uW4e1MMveS^>Lu-L^WvRLSWL<V*-1eV^Wv>#1RL-evV1LRSS^MV<-RWWuul<W#V>-->vM1MWe-1MLV-^^evK-vR#<-*/-LV#MW>v<MM>e^#eLMRv^^LR-hRL<1MWRkVM><>W1eMuRv#uRRS-^v=V-R>S<M)<R^SeuL>vW#M>--#^uVS<uSvv-<S^<SMhRR<#u_^-1VM1uW#-<uS#>^v1^jW1<-uRRA#Lue1W1V-ueVWW>>Su>vv^LRW-<L=#RW>SuM-<1W<>eW1vL^Pe<-vvLVWW1SNuR<VWLeW=1<11eRW-LMSV^RV-^uWVR^J>ejVvu1>R1-VMe1RWL-vu^<V#-eWe>v%#eRV-WM>1WWMZeMS<LWk>^#SL--1R<M+vMVVRLe>ML<Mk5>#)<VP1^>1S-MWV<WreRMVe^#>e^gMW-1#>VSSM^V#^-SWu<VM#R>1Fu<>^MRM-eM#1u^S1uuvv-WM><uMLR1VRu-vM1^MR^e#M<vSS1>v<uLWW<RvSRL#Vu Re1<-veR#>1-SvR1vSMSW>-VF>Rv1uu<S#1Me-e^S1L>0-SMv1M^WS^uHvR#VSurWL1#<We-RML-e^^SVu>vW^^>*-eLV1uW>-^M<<eWeeLuyv^#vR-.>LW1B>uSVML<>^1eMie<>#Leu-^vWV-W>S<LNLM^VSLs><9#Me!-#VL#^W^-Vu-Sv^<vemR1V^RR>n^LM1^W#vLuS<RRV>-uev<R>RR-VLu1>M-SMM-<#8<>Su>vv1-RR-<vHVRR#Suue<1RMee(#<L1S>1-v>1VWW<-WuRV#^u>>_1vW1eS#)>MS1RWvLeuW>M^F-R6Wvu#SR1VuMeR<WL7Sue<vWu>WL#vcM<RVMu^eV1Rvee#L<LMS>^uVvR1W>#-DL-VVWue>L1<W#eeRTL<u1^<LS-L>1hW/S-uV<L#>>1;Mv-^MRL_LM^VV^-eWu<VM^e>Vu1L>1^RMSeM#VLWLe^M1v-W8><PMLR#V##S>L^VMWVe#MVvSR^>#--v>1<LWSRWLVu>>S1uM<-##>--S1v1vRuo>M<1L^Reeuuv>#1eM#<L##<WS<RMv1M^We<MevR^V>uhSL11LWe8#L^<SW^evuevWue>j-Rvu1uRSS1MM<eW4eLLS<v#veu-W^L1BA-SV<uVI^1Sv.eR1#L_R-^Vv1LWW-1M5#S^V1R6>11-LRegWLLe^W^M#u-V>^VequSvV^<R>-1LM#eRVSLLu<^W1>-W^v<^MeV-Vv<V>W^SMue<#W<SV0^<^1-R>-<L(VRR#S1u>Ve^M>-A#vL1SR^_vM-1eW<-VuR<#^ue>eSvM#-R#->MS1>Wv,-MM<<WM>R^fvu-^R1MMLWV#R<eSM<<vmS>W+1VM1R>^-uvLV1WMeeM#eR#SeRxvRu1W>#-PMR#uWuS>u1Vv#e>^{L<S#MRv--MW1LWy<RuV<u^M>1uvLe1#RL-MM^^vWeeWM1<OS^>V<nL>W1RVSeLWVL}^e^Vev-RW>^8Nve1V>LS>LvVM^--WuLVu#^-e--LW1<>T1LMV1L^>v^uMVF##>L&<L^#vW-->M<Vu^R-VMWv>^1>M}RL#-LWSS^MW<-W>e<uEvR#W>uM>vM1MR-S##u<SSRevL-vS#<eM-RWu1uf<S1<MVu^#S<wS<R#v>>-WL1^MWR-^Mu1W^1eM5e<#*RRStRLvSuWW-#Ms<RWeeuu>v1^vRe-^LL#SWWSvM-<WWLe}#RvV#u>L-1vvVeW#SLMM<^>vSV_W<1#0u^-V^SV>e1SVueVW^LL^0^^e1-SW-^L71eWV-Lu>Vv^M>-MWvL^uR^LLM-VWW<-YWL<VWL>>1^vM^ER#-LL-V^Rve-M><<^u>RMV<>1>>1-MLRV#MLeSu^VL#-e>Q<vt1RRW-u<>VRWMS-u#Ru#Sv#pvV-1SR<%MMReuWuL<u1#M^u>#u<LS#RRv->MWV1>MeRM^<uWM>1+MLe##LRSSLRVvuueWM#<9#R>-muv>11>vSeM^VLRSSMuv<-#WeL{KV11VRuzLM11v^ee#uL<)#^-vu^LW#1Rtv^MVR1^>e^Lvve^R>LvuL^1vW--WWeVpWeeV#Lv>^W>M-eLR1LRSS^LV<-^Re<LFVu#Veu->v<1MR#S#ML1M^^SV/-vW#<>u-RVV1RW>-^MMRR^#MSwSv^1<R-HWL<#MWRS#Mu1>VWeMuSv#^uRSM<LvV-W-S<LL<R^VeuQSv1RMeV-#vVVSU1SvWS<W^1-MpR<W#u>>-1LMVeR#VRuSV>^vvuOW<^#IRRuLLu1eW1-<ue<^^LSSuLvv^YRWXLL5^1WVSuL#<1W<>ew#vL#6R^MvL1VWR#S=1^<VW>>>D^Vv1e>>-L1LV^Wve-MWee^OeS}VRL1>>R-MMe1uWLS-u^V1#->R8<V31SRV,MM>1<WME^u#<LW<>^u1L-1WR<-MMR^VWee>MW<MSR>#1eLS1ReVS-LSV<W-eRuV<u^>v-{M<T1#M<SSLeVv^-SRu<Vu#Re^XuLe11eM-uM#1v^SS1uv1R#W><u#LR#^RuS>M1Vv^e(#M#vS^>>v<eLWSVRXSev#VuREe1v>ve##>LPS>u1v>MSW^1V!W-eVuu<v#1eL-evR1LW-S^vvV#^WSVu%<^#VSe->L11LWe-RML<S^^eVi-1W#^>B.SLV>-W>u^MM<-RWeLMMv^#VR--WL<#_LLSVLv<>7^eMMuv##L>M-^v<V-ReS<Mu<RRVevH><##M>R-#LSVSW^S^u-Ve^<ebPRv1#uS>JvLM#kW#vuuS#W^v>--Rv<^uRR.^LuVSW1{M-X<#W<>Su1vvWRRW-<L>VRRWSuu><1^v>eL#<<1S>e-v#eVWeVSKue1#^uSuN1V11eR#-LLS-uWv-LuW>1^DS3JVvu#>R1hvMe1>WLe-u^1vWW>Wu1v2#^RV->M>V1W#eeM><L#S>^E<L-WW>1-?L-VV--e>RL<M#eR^qL<h1^>#S-M>V<>wWSuVVv#>e<*MV^1#RL-ZM^1^^-eWu<<M#R-Vu>L>#>RMvRM#^e^SeRLVv-W}><LFLR1VRu->W-VMRMe##<vS^->v--Le1<>LSRLRVu^ee1LMVL##eV-Sv11veRSWM<1M^RSRuuv>#1>v-eV##/WS-SMvRe^W!>u veW#>uuML1^#WeS#MLVSMuevMvvW-1>!uuLV1uWeS1L<<eWeeLB-v^Wv>R-Wv#1TW>SV>e<>^1S1se<e#LRS-^L1V-eW-#Mi1s^VM-+>#S#MSe->LL#LW^v<u-1R^<3qs-vV^VR><LLM-VW#SLI-<^W1>-u-v<#MRRuV-eV>RRSML+<#^S>S2^<<1-eO-<LlVRW1Suv>V<^MSL{#Wu1S<v-vM-1^W<-vuRV>^u>S:1VM#^R#i#MS1>WvARuW<<^^>Ruevu1>R1-vMe^#W#eSL*<vSe>Wvvvl1ee#-uvvV1R_eeu#<L^S<udv<V1WM1-EvLVVWu-uu1V1#ee-JLL-1^evA^MW1WWJSSuV1e#>>1uWLe#-RLSSM^VV^-iWM-<{WM>V<-L>S<RMS-vWVLRVe^LUv-#W><u.>L1V>#S>^^VMR<e#uLV1#^e^--<u1<RuSRvVV#^>S>uMvS##V--SL^#WW-!uM<VY^Re^uu1>^1>MuvL#euWSM1Mv#-^Se<M1vRS1>uueL1WMRuS#LW<S-<ev^#vW#<Ru-RvR1u>LS1Mv<eR#^-.S<-#vev-Wvr1;WRS>Mu1v^1eM7ev^#LSSxMLv#1WWvLMn^^^VeuMLv1^#ReuXLL1%W^lvMM<WW>e*M8vVWeR>-1veVe>uSLuS<^^V>-LW<-#oev-V#-V>suSMu-1W^LS#j^1^1-RW-<vF-LWV-Wu>>^^MS1A#vL#eR^_RM-#LW<SuuR1VW<>>uSvM^MR#u-MSV^RVe-LL<<^,>Rb#vuW>>S-MvVV#tueS>V<v^uS>_<<W1ReL-uM>V1RMV<u#V>#SLR?v<^1WR<2<MR1eWu-<u1<L#eS#xSLS^0Rv!vMW^uWKeRMV<uW<>1!MLe1WRLuSLvVvR#eW1L<JWS>V8L<S11>>SeM>VL^Se^Mve1#WeSDbWe1V>RS>M11e^eS-uLV1#^><--<W1#R!hMMV1V^>7LuMve#e>Lu1L^1vW-S>M<^zWMeVMWv>S<>MMLL#1<ejS^LS<-R^e<u(vR^Vv^-><H1Mu-S#Le<S^^SS%-Vu#<e^-RL11u>>:uMM1v^#S#7S1<#vR-u<L<#^WRSVMu<S^1 Mu<v#^>RS<1LveVWWS1vM<RR(euo-v1#MRel#RRVS>MSv^u<WW-eoxR<e#ueL-1vRVeW^SLLSVu^vSV,W<W#PS1-VLu1>W1-Rue<#^LeyP^1v^#RWOSLH>^WV-#u><^Rv>eMMvLW<R^-vM-1WMeSGLv<VyL>>MuvM1e>1-Lv<V^Ree-uR<<RqSLHV<#1>>>-M<^V#WLSMu^Ve#->W6<vM1RSVGeM>#=WMLRu#R-#S>RMVL-^vR<uvMRVVWuS>^-<MWV>#1<LS^LRvS-M-V<R1eRM-<u#e>1MM<M1#>WSSLSVv>ReWu<Ve#Re-}uL>11RvSe<#Vv^S-MuvWe#WVRowLe^#RukVM1#-^ee#uL<Suu>vu#LWS1RBQ<MVVuRue1M^veWu>L--L^^vRWSWL>V5RyeVLev>#1el-e<u1LWSS^MV<->WeVuxVv#Vu-->>>1MW-}WML1#^^-ez-vW#<eF#LLV#WW><^MM11^#eLu1v^^RR-uLL<1uWRiVLu<>WSeMMMv#W-RS-^v^V->LS<M%<R^#euL>VM#MeV-#^uVS<?SvMu1>^<SWtR1##uR>-1vM-<W#->uS>R^vS^rWv<^MRR!eLu#<W1SLue1#^>>SMPvv#yRWWuL&VRW^SuL<<1^M>e2RvLWS>L-vv#VW{LS6M^<V>ue_t1<R1eu^-Lv-V^evSLuWVS^XM1*V>W1>R1SLMe1-WL-1u^<V#-SWeuvo^LRVX#M>1MWMeeLM<LW#>^!vL-1RR<M;vLVVRRe>1<<M^R>#{L<^1^>>S-vvV<WMeRLV<<#>S4=M<v1#RSSSM^VR^--<u<<)#R>1JuV>^LRMU#M#>u^S<-uvv-1R><u^LR^uRuSSM1#M1%e#MevSWr>vMRLW1<><SRvMVu^>e1uvveR#>>-S<<1vteSWL<VB^e-#uuV^#1-u-eL#1LRS1uMv1R^Wv1utV##V>ujSL1#>WeyvML<-^^-vu>vW^->}uMLV^eW>S1LS<eRveLxSv^#VR-MWL>1/>1SV1-<>S1eMm-VW#LeR-^v,V-WWS<LnSL^VSeg>R^#MeW-#LL#WW^-Su-1V^<eu5RVV#vR>uuLM#vW#X-uS<^WM>-MVv<#7RR-#Lu^>R1SML^<#-u>SvVvv#ue>-<veVR>SSuu><1WM<<i#<-1SMR-vv>VWW<S>uR1o^uS#y1vL1ee#(eMS#LWv-VuWVj^c>RuMvu^#R1-MMeV^WLhSL<<vWR>WVLv21SRV-uueV1R>eeLv<L^C>^MvuM1Wew-xvMVV>ee>u1<v#eS<CLLS1^RVS-<W1wW{-#uVW-#>>>}ML-^WRLG>M^1S^-eWu<VAuL>VuSL>S^RM;RM#VLWVe^M-v-W1><cuLR^V>MS>vMVMRve#L-vS#^e0--<11<R8SRM#Vu>>S<uMVW##Mu-SV^1vRu(>M<1S^RAvuuv>#1eM#<L#^_WS<RMv1e^We<uMvRWu>uu^L11LWe:#L^<SRvevMVvW^%>)-RLe1u>^S1MM<e^^eLLS<R#ve>-W^L1EM>SVMuve^1SejeV<#L>l-^<vvMWWQuM{1M^V-el>v1#vReuVLLVSW^SVu-#WW-e,M^vVe-R>L#LMV->WSLLe<^R<>-ZWv<^DvL-Vv-V>u^SML><#^Leuc^VX1-e#-<LuVR>VSSu>1L^MSvU#vS1SR^+uM-##W<S*uR<1^u->XWvM^RR#<uMS1#Wve-TR<<W>>RMvvu1SR1uMq/V#>ieSLp<vRR>W*<v^1Re<-uM>V1Wveev#<V#SS#Ov^e1W>v-sMe##Wu->u1<e#e>#+LvSfuRvXSMWe1WZ-RuV<u#S>1u-Le^1RLS-M^#vWLeWLM< WM>Vz>L>11>^Sev1VL^Se^u<v-RWe^Jg<W1V=-S>v<VM^e>^uLVR#^SL--L>1<eYRSMV1-^>SSuM1^##>LOSL^^vW-SWM<VM^R/VM?v>W1>M<RL#^uWSSRvV<-RRe<<MvR#V>um>R-1M>eS#^<<SRWevC-<1#<eS-R<V1uWeS1vM<-^#-uQSVQ#v>W-WL<#WWRyVMu<>^1eLke1#^LRSu^Lv>eWW1uMk<R#1euMWv1WMRe-WLL#S1>SvLS<WW>eoL1vV#u>u-1<LVeW#SLM;<^>vS^EWVV#Gu^-VL#V>W^8vue1W^LmVs^vv1->W1eLU#>WV<Lu>1^^M>eMMvL^eR^u<M-VRW<5?MV<VRK>>uSvMW^R#-LLvV^><e-uW<<^M>RLV<S1>e#-M#RV#S^eSuR1V#-S>,<1e1RRV-uL>S-WM-Su#><#SSR.vL-#{R<T-MR#1Wueeu11M#S>#MMLS^qRv-WMWV<RueRL1<u#>>1lLLeW#>vSSvWVv-eeWVJ<:#RR1hu<R11eLSeMWVLRSW>uvV-#We>46V11VRu&^M1#v^ee#uL<2#^-vp>LW^1R6v^MVWe^>e^LvveWR>LuML^1vW--WWeV{ReeV#Lv>WW>M-evR1L>SS^vV<-^Re<L4<u#VSu->vS1MR#S#ML1R^^-VQ-vW#<>u-RVV1eW>x^MMRR^#ev!Sv^1<R-uWL<^MWRS#Mu1>VWeMMSv#^WRSM<LvV-WSS<vL<R^Veu3Sv1RMe<-#<VVSD1SvML<W^1-MkRVW#u>v-1LMVeR#VRuS1>^vvu9WV^#%RR)VLu#eW15<ue<^^LSSK-vvWPRW0>L51VWVSuMe<1R<>ep#vL1-R^Mvv^VW>#S91^<VMW>>.1LL1ee^-L<uV^WVe-LWM#^JSe*V<#1>SL-MMe1#WL/Mu^<v#->>,<1K^<RVu<M>><WM1vu#<<Ry>^M^L-^WR<-=MR1VM^e>LR<M-->#M#LS1^RSS-v>V<>veRu1<uW>Sp:M<-1#>WSS<<Vv^-Suu<1v#R>VouLS11SMqVM##1^SL1uv>##W>1MMLR^RRu-eM1VM^eS#^RvSWe>v1uLW^WRrSRL>VuRSe1LVve#^>LuSLS1veuSWL>VQ>1eVuu<V#1SV-eL#1LRxS^<vVu^W-^u3W^#V-V->L^^vWeUeML^-^^evg-<W5e>Cu-LVSLW>;>MM<e^^eLLIv^W#R--RL<^fR>SVvL<>WSeMu#v##L>v-^<#V-WWS<Mu<R>Ve>Z>VR#MuR-#R<VSW^e<u-1>^<-v&Rv##ue>>WLM^XW#-WuS#<^v>-jev<W<RR-VLuVSW1uMML<#R#>SV1vvSMRW-1<MVR>>Su<M<1^M>eu#>R1SeS-vWuVW>RSyuR<S^uS-21V11eR^-LvSV>WvbMuWV>^h-1 Vvu#RR1u1MeV#WLS(u^#v^v>WMWvXe^RV<vM>V^>veeLS<L^#>^7vL-#WLe-Z<tVVuLe>Le<M#eeM7LVu1^e^S-MRV<>7S_uV1v#>>#tMS^1#RLS-M^#^^-eWu<<L#R-VuVL>^>RMvRM#e-^S*^u#v-W-><VuLR^1Ruu>MRVM>Me#V-vSuM>v--MR1<eLSRvRVu^Se1LMu^##S1-S<>1vRWSWM<VW^R->uuv>#1>L-eV#1#WS%-MvRe^W<uuZvR^<>uM4L1^#WeSWML1SWLevLvvWW#> M1LV1uRRS1v^<e^#eLuDv^Rv>1-W<>1bC^SV^1<>^^-vIe14#LSu-^LvV-RWVeMC#M^VvL0>V-#MRe->LL^LW^PRu-<R^<-qb-vVWVR>uWLM^^W#SLL^<^RR>-kWv<#MRRMVvuV>>SSM1R<#RM>SoRVV1-SM-<12VRWVSuM>e-^M-vk#R<1SSu-vM-#LW<h<uR1e^u>e 1VM^^R#u#MS#>Wv)RuW<<WM>RMevu1>R1-vMe^#WSeSv/<vSe>W<VvX1ee#-u<vV1>veeu#<L^S<upvVV1WM1-h<LVVWuS-u111#eS-TLL-1^ev-WMW#WWse>uV-e#>>1uvLe^-RLSSM^V1^-BWu#<)RM>V<-L>^>RMueM>VL><e^1<v-WR><LbL-1Ve#S>#LVMMVe#uLL-#^S^--Vu1<RMSRvVMe^>-euM1M##>S-SL^#1W-uMM<Vi^Re1uu1>^#>MM<L#euWSvSMv<-W#e<LVvRWS>u-SL1^MR#S#vW<SRSevLRvW#<>R-R<-1uW>S1Mv<e>#SetS1M#vue-W^-1UWe7#Mu#V^1SRNev##L>S#uLv^#WW<1MA#<^VeuF-v1W^ReMuLLV-W^&vL#<WR>e4L=vV#>R>-1vRVeeuSLuS<^^<>-LWVu#USv-V#-V><YSMuev^^L-<z^Ve1-R>-<<HLSWV;^u>1>^M-^h#vL#LR^uSM-VWW<SMuR#VWu>>LuvMeRR#1#MSVR>Ve-v<<<>R>RPVvu#>L--M<1V#u<eSvv<v#-e^C<V#1RSb-uMeV1>MSVu#1R#SSS:vVR1WR<-SMR^6Wue>u1<v#e-#/RLSWLRvveMWuvWHeeL#<uR1>1vVLe1#RL-SRuVv>^eW#1<yRV>V4uvM11eWSe<MVL^-e^LvVL#WSe; V/1VeeS>M11^^eCMuLvS#^>V--VW#uRwu<MVR-^>SeuMv-WW>LM^L^WRW-SWM<14MLeVLRv>-^>MM#L#1L>#S^v><->ve<uuvRWVe^-><-1MeMS#v-<S^^SS;-1v#<>X-RL#1ue>->MM#1^#LuDSVe#v>uu>L<^RWRS>Mu<>^1SM^<v#WeRSVRLv^WWWS<Me<RRSeuLVv1#LReu#v<VSeuSvvv<W>ueY/R<M#uSV-1LMVeWWSLvSVe^v-^3WWL#4uW-VLL#SW1Xeue<^^L>SG^<vG1RWu-LieeWVi>u><1^L>eLnvLW#R^-<M-#W>uSTvL<VRV>>LLvM1eRe-L<#V^Wve-u><<>se1QVVR1>u<-Me#V#W<6lu^1-#--<0<v.1R>V1^M>^uWMv-u#1S#S>^ZVL-WMR<uWMRV1Wu->Mg<MR<>#M#LSW<RvS-M>V<>WeRuV<u#S>1LMvS1#eeSS#1Vv-1eWu11M#R-u*u1d11RMSeL#SR^ScLuv>u#W-Jf3LR#RRuuvM1#>^ee^uLVS^<>vM1LW^WR?u1MVVuWue1L>ve##>LA%L^Wv>#SWv-V9-^eVu1v>#^Sv-eVL1Le-S^Mv<-WW<eu}1<#VLL->VM1MWeSSML#V^^-S&-vR#<SO--LV^^W>/>MM#^^#eLM<v^WSR--WL<1MWRuVL><>>ueMVRv#R-RS-R<VV-e<S<<L<R^Veuu>>-#MS1-#W<VSevSvu-1v^<-#_R18#uRe-1<M1LW#wRuS1S^v-RlWv<#WRRMYLuV>W1Svue##Wu>SLLvveeRW<eL2Ve>#Suv1<1e%>ez#vL#Svu-v<^VWu1S=vV<V^u>eG1VW1eSM-LM-V^>v-1uW1e^t-BBVVe1>R1-RMe^MWLeSu^<V#--WuuvIW<RVv-M>#uWMe-LW<LR^>^uuL-1WR<}KRLVV>Re>#^<MR#>#XLv-1^e>S-<vV<WueRLV<V#>S-iMVM1#RSSSM^1<^-cvu<<Z#R>1+uV>#1RMu1M#>u^Su>uvv-1R><M#LRWhRuSSM1#M18e#L>vSWS>vMRLW1<RRSR<uVu^>e1uvveR#eS-SVv1vleSW^eVN^e-#uu1##1ee-eL#1LRS1uMv#W^Wv1u211#V>u{ML1^RWeuLML<-^^-vu-vWWS>:M&LV^eW>S1MV<e>LeL7Sv^#VR-MWL#1geVSV1-<>MWeMG-VW#LSW-^v^V-WWS<L,SL^V->I>R^#MS^-#LL#LW^Neu-#<^<eu;RVV^1R>M7LMVSW##-uS<^WW>-L<v<#?RR-^Lu^>>vSMv#<#-u>SW1vvW-RS-<<RVRm1SuLe<1>MeuA#VS1Su<-vR#VWW<euuR1-^u-1I1vv1ee#R-MS^LWvO#uWVT^+>RuVvuW#R1-MMeV^WLbSM><vRR>WVLvFW^RV-uvdV1>>eevv<L^p>^Mv<v1WS_-o<vVV>ee>u1VV#e-<mLLS1^RVS-<W1>WBn#uVW-#>-u=ML-^WRLu>M^1>^-eWu<V4uL>VMSL>S^RMuRM#VLRLe^L-v-R1><muLR^VR-S><MVM>Ve#L-vS#^e1--V11<R0SRM#Vu>>SMuM1W##Mu-S^R1vRu}>M<#S^RS^uuv>#1eM#<L#WOWS<RMv#e^We<MVvRRu>uM^L11LWeT#Le<S>vevL#vWRu>7-RvS1ue^S1MM<e^WeLLSvW#vS>-W^L1(K#SVML1S^1!gKe<W#LRS-^vv-1WWuMM?>e^V--t>v1#VReMLLL^RW^S<u-1WW-e%LVvV#MR>WLLMVeRRSLvR<^^v>-.ev<RT>W-V<SV>{<SMLW<#>LeM+^1u1-uR-<<uVReVS<u>#v^MM^_#>>1SR^S<M-^<W<weuR<#^uS>eWvMW^R#-vMSu<Wve-LV<<RS>RlVvu1-R1MMv#V#eueS11<vWM>WL<vv1RSv-u#eV1>Leev#<1#S-1/v^R1WLS-fMR<1Wu(#u1#7#e>WXL<Sv<Rvu>MW^uWCSVuV<uWL>1LuLe1#RLS-M^^vRMeWvv<oS^>V^uL>11>^Se<<VL>ee^uVv-WWevJAV^1VeeS><LVM^eS^uL1S#^>v--L>1<SGtuMV^u^>L<uMRV##><M6L^W<W-uVM<VT^RSV^^v>R1>MV-L#WvWSS^Lu<->#e<vhvR#1>uu>v:1MeRS#Mv<Sv<evy-<S#<-o-RLV1uW-S1<M1L^#,LPSW1#ve--WV<1vWRuVMuRe^1-LCe1##1RSM^Lv>RWWVSM;<R#1euLWv1RMRe-WLL#S1<SvvS<W>LeBuVvV#ueV-1VLVeW#SLu-<^>veWEW1V#(u^-V>SV>W1S1ue#1^L--=^vV1-eWweLm^RWV&-u>#L^M>e?WvLRUR^-vM-V>W<u{Lu<V>L>>V<vM-RR#-<<XV^e1e-ML<<^N>RuV>^1>S^-M^-V#eVeSu^V>#--W%<1M1RR1-uv>1<WMGeu##u#S-<XvL-#SR<MMMRVVWueSu1#M^1>#L<LSe1Rv#<MWV1>MeRv^<uRV>16MLe##LRSS<RVvuueWv#<m#Re#%uV>11SvSeM^VLRSSWuv1-#W-LbFV11VRu;VM1^v^ee#uL<9#^-vBMLWW1Rxv^MVR#^>e^LvveRR>LXLL^1vW--WVVVC>eeV#Lv>RW>M-eL-1LeSS^<V<-^Re<LY<>#V-u->L11M-<S#ML1L^^:vh-v>#<>u-RLV1SW>S1MM<S^#eLBS#-#vR--WLR1/WRSVMLV1^1eMye^v-MMu<WWER-uVvV^^>j9#eLu=v1#MRe<-^veR SSVM#<W^<epvSWSSMMS<#^<SuOe<<MlVb^v>-/W^<S>u>V-^VeSuWSvMV<#^L>SVqW<SRM<v#WXeUzRv<uS<-^M>eX##R-LMV<<^ee^CSvvu><e^u>>h1<v<LR#-vMSVRWve-uW1<^u>R91vu1eR1-VMe##WveSuW<v^+>WwVvw^Reu-uMeV1WLeeuR<LWS>e6vv 1WRV-HLuVVRu-Mu1<L#e>e?LLS1^Rv-uMWV<WEe>uV<u#>>1yMLe1#R<SSM^VvWuuRu<<Q#RM#1,M^u1LMeWSv--RS>VRv>-11#u^><RVL<uV>uvuSL^^W>SVS-uMe1LWVeWMM(R^<vSL><1--E^MvSLSRe^-v^>WV>u#&##1V^uL^vL<SR--L^LuV<M^#>R--v1L8We-^>LY#L11MWe<R##eM->vl1#RWS1M-<>W#e<W>SRMM<e^#S<Rvv^#vR-->L<1IWR-#1M<>^#eMYSv##LRS-^SVV-WWS<MM<R^1eu&>e1#MRe-#LvVSW^Svu-<W^<e6uMvV#uR>-^L^VeW#SLVS><-<v#V-R1-LReiuLuV>W1MS#>RR-vLW<^RkSrLL<WWMVeWSSuu><1eWvM1<WvS>M#<e^LV>WSSiuR<VS#Me1LWeerM#<#^L>eW1e-uW<<^;>R3V1uR>R^-RMeV#WLMu#uR<_uMRV#RvSgM#-LL2V1WMee1-Rv-RMS&vvV1WR<-XLeW#Wue>u1<^#e>#tL<S1>RvS-MWV<W{e>uV1uW^>1ZMLe1#RL-3M^#vR<eWu<<c#R>Vj1L>^1RSSeM#VL^Se^u1v-RW>^I9LR1VR<S>M>VM^e-OuLvS#^><--LW1<R3SRMVVuWMe1uMve#WSL-SL^1v-#Le^^><->vMVvR>S>LvVWWRR>u>L>^v>v6>vM<MW>-vM>V-1eSuu-L<^M>>-Sveuu<v#<>g-RWMSKsevR^<eudWL>1>RK#V>R-WL<10uSvR^<R-8LLR1eWW-Mu-VR^#1uRuS<Mw<ReSv<#yR1>^MMV>L<1MW^Svu->u-VLe1Tv#RWR>-1LMe<u><1#S>>>S-SL^R1SuLMMv^#e<uRvW^MRW3#vuVSRVSMM^VLWveJuv<<vWRW*uLWL1^^RuSWVM^M^^e1uVv-##> =-1^W1eSM><#^M^#-WM1#-R1^/eVFVvu1>>^RLMeV#WLSBu^<v#-e>JRv*1>RV-VM>V1WM-eM-<L#->^m<L-1SR<qMLSVVWve>ue<M#e>#rLvV1^R<S-MeV<WheRuVV1#>>1_MLe1#R<SSM^#Q^-eWu<<u#R>1QuvSueRMSeM#VV^Se^uvVueR><=uLR11RuS>M1VMv-e#uLvS#R>vl:LW1<vXSRMVVu^ee1uMve##>L-SL^1#W-SWM<VMWMeVuuv>>-LV1uW#RWuL<eMVWe^We<uPRL-WL<V>WWW>e>u1^<R-uryM1VRL-^M#1=^#SVu-v>^v>D&1vu#MWS-MLLM#^#e-u#u<#W^ATvLR#uR>->Sev^^^Suu-vV#S>v=WvyLWW>-WMMM1W=>-uM<MvSWW-WvM#GW1S-M<VRWu^Rye<R#L#1qsvvVRv1#WRR-VLue#uVvL#u>R+1v41MRMSVR>-^LIVRWVv#1e>v-1>euQvL1SR^}V-nVWW<S,uS<V^u>>u^<W1eR^-LLMV^Wve-LWV^^w>>DVvM1>R#-ML-VRWLSuu^<V#->Wr<vc#uRV-MM>VWWMeeu#<L^1>^5vL-1WR<-MMRVVR1e>u1<M#S>#QvLS1^vvS-MWV<WueRuV<u#>>19MLe1>RLSSM^VVSueWu<<K-LLW1<W>SWS>u><1e<--<lvMRV-LL^V#R}e#MV<-#>evp%v1#u>MSSLM1LV#e#u-<#<<WW--L><-WSSeM-L<V#ReuMv-Vee<-eu11<R^-YLbM>W<evu1<1<LW#-eLW<#>CS#>LqpL11MWev-#v>R-SeVu^vW#<>2V1W<eMu:<W^V>-puvu1<vR#RR--WL<R#u-<W^uWL->vVNe<C#LRS-^vVLJWWS<MI<S^Veu;><^^-Re-^LL1wW^Svu-1W^-eIZ>vV#MR>-RLM1->MSLMu<^^<>-cWv<#s>W-VLMV>WWSMue<#^LeV%^vv1-RW-<LMVRWVSVu><1^M>S4#vv1SR^#vM-VWW<SuuR<V^u>>k1vM1eRW-LMSV^WVMMuW<<^GLu-LSu->WvWS>^##^01S^^vuvRVVM<MeuRLVeSS#KLVv^#L#RR-1Le1CWvS>e<V<#Seu#S1>^1L-v^VvMLMRu^Lve>SVpu>?>#RVeu1^#L^S--LLeL<V^Me#yRL-#11z-vLvV#LS#LRMSeM#eVgLve11RR-LL<VMWWe1ML<,M1VV^ee#uLV,M->v--LW11RzSRMV1LSee1uLve#^>L-SL^1vVuSWM<Vc^eeVuMv>#1<M-eL#1LW-S^Mv<-^We<uAvR#^>u->L11vRvS#ML<SS,vV16>{SSLv1vL#1<W>S1MM>v-^vh1LvR#eR--WL<>1uW<##>>-m1LL1.We#v>M-^LvV-R>#RMy<>^VeLp>v1#Mee>WLLV-W^S<u-<e^<SE-<vV#MR>-#LMVeW#SLWS<^^v>-4Rv<#DRR-VLuV>W1SVue<#^Len<Vvv1-RW<eWve-uV<v<V#V>uL-V^RWW>M}<eWLeMuWvM^{>^-VLSVWRuSRM><#^>eeeMvM#^>MR-u#1<W-S1MVvVWM>WQ#L1Ve#L-MMR11RLeSM#<W^>eReuvW1^>VrMMS1VVS^Ru#<u^ee^*vvS#9>Myu-VV-RLeWRV-LMWV<WOvM11RS-u>^_>Le1#RL<W^#><cLve#^>M-vLvV#LS1SRMSeM#WRuMve#v^VS-L^qmvv1VRuS>L^->^ee#uL<u#^>v--v>#VR S>MVVL^>e1uMVe^#>L--L^1<W-SSM<1MRMeVuvv>##>M-eL#1L>VS^M#<-^Re<ukvR#Ve#->L#1MRuS#ML<S^^e-+-vW#<>=-RL#1uW>1#MM<e^#evbSvW#vR-#WL<1?WRS1Mu<>^1eMDev##L>M-^LvV-W>M^Mr<R^VL^#JRR-MLULMVM^euRv<^V##->L^1-WS-VuSV>W<eMuWvV#e>1J#Lv1#R^WSuSV<^S^R-Hv<#MW<-vLL1<1RWSE#<WW1Rv5^vVVv>>-v->1<WvS1M1ML1ue>uvv-#VRS-MvMV>Rz1-R>-LMSV^8Rv6#1RW^MeMxVvu1>--VVWue#SWvL#e<V^^>WP<vIS1M<<M^4eWuVv-#u>u-<>^/>L-1WR<)MS>VVWue>uR<M#e>#u<v^1^R<S-M>V<WkeRLVV}#>>#wMLS1#RVSSLR1W^-eeu<<u#R>V4uL>1RRMSSM#VV^Se^uvv-^e><(tLR1VRuSSM1VMW-e#uLvS#W>v=!LW1<vPSRMVVu^ee1uMve##>L-SL^1#W-SWM<VM^-eVuuv>SSMLVW^e1<R#S^Mv<-,Vvv1uW--^L<VSWYShuvSWvv<S^^ev11RS-^LrVS1rWfeR<1#Le/B>L#1bRM-MSe<eWveeeW<##MeL>VM<#<W->SM#VM#V>LW>S>MT<R^Vu^#(RR-Mcv<eW1VSRMSvu-<WW1VWsRvV#uRS-1LMVeRW-RuS<W^ve=CWv<#(eR?<LuVeW1SLue<>^LS6uSvv#MRW-#LQVRWVSuMe<1^V>eU^vL1SR^-vLSVWWVS)u-<V^u>>F1vS1eR#-LMSV^WVe-uWSV^x>RtVvM1>R#-MMe-#WLeSu^<<#->Wn<vU1RRV-u#1V1WMeeuW<V#S>^:vWee-M>-MM-VVWue>VLR1-LL>k<vV1^RvS-1WevuLvv#WRW-RL<Cvvu1#RLSSV-eL&evSu1<##R>V;u^Ne>MWVu1R>>u#LSuV<L#W><_3#DSvMV<^MWRV1-uMe^VLW;#RLSL>1WR!SRMVR<y<vR1SRM#RV><Se1<L-.!1-^^-^SeVuuv>#1>M-eM#RMRPSSMv<-^WuR#MW>-LMV-Sv11MWeS#V<R-->L-1VR>-vL<V^^WRvuR<L^u>->Re<uWv^#vR-L>WvSM(-vR^L^-8VLS1>RWRV>J;QLvV-WWM##->e-Ru##uR{#<>WS4-1QeiL^u6<^^^1ev7RvV#uML<#^-eMWWS^uS<^^vuM1>WWSvMvVWLvV>W1SMue<#^Lb>v^vV#WRW-<LlR-CR<^^dWS8vMS1#RLSLue-VL<VWW<S9<S><-eLR1^1<1->M-LMSV^-#vv^M>^SLMSV1WeSuuR-vLeV#WLeSVeR^_1LS<#RvSeM<<>^uWWuuv^#1><>u>>AvL-1WR<-sVReKSueSM0<M#e>#<1WL-uM#LR#R>1G<v1u^WMR-M^1Uve##MLMeM>Vv^-eWu<<9#R-WvuLS1SRMSeM#>VZev1#MRvSeL^fMvu1VRuS>1WeV-Sv>##>u#>>v--LW1<RoSR<VWu^-VLB#><W^S6u>S1RLRu-eM<VP^Ru^#LRuS#LVVM^>^LuqVMvvWWCLvL11^1-RM-<eLWRVV:MR0L>><UR-vSve^S>MReR<uM-&euVu<-^SeLiSv^e1M#1v^WWMSLS#L1<>^1eMVuWe-RLMv>W#Suu^<;#<W-H#LM1WRW-MuSVW^#e>{><eMuVv^<e&TR^WSVLvVR1vSMu><1#e>1^Ve^_Wv<#_gM<RW<R-T><v^L>u-VLLdRvW1-RW-<1u>SuWvW^MR>^veLg#vL1S_><eW^>-e1uvue<e^u>>D1^MS^u^V>^LeRu1SMuW<<^E>RhVvu1>-1-vL<V#WLeSVM>MbMLSVVWSeSuR-LLLV1WMeeV R>-<Lu1RW/-LR1-SMRVVWuLU1>>W6uM=vvWWSMuR<e^1>W+Sv-u^LGSL^WVuVV/-^<MeMWV<WueSu<<?#Ru^VWRVe>Rv-MM#VL^SMS<#R#-1-1qM<u1VRuS>V^>LI,vL1W>N-#L^Ve^S>^MMv>^vevh>L##vRM-VMV11LR1WW-SWM<RvCWLe1#R#S>><<VuLM>#L/uLeu#e^e#uhvR#V>u->L1RvSeSRMv{1-W<veML><>---ev!1uW>S11<>>4ev<1uWSe1MmV#W#1MRvSVMu<>SSvu1-RL-VMS<W^1evWe?<M^<VO>SLueu#>uR--WLLVSW^MVVV<>W=eF&RvV>eMR<W^Le^-#v-1-eM-^vut>ve#;RR-V#vS{(#<V^M>RSLuvm>vv1-RW-<L7VRe1MuuS<R^M>e)#^1SLLuV#LMVWW<ShuR<VeuMSv1v<1eR#-LMSV^WvL-<W<1^v>R:Vvu>Wu#<-^MVWWVeSu^<v-SLyVRvM#uRV-uM>R10Lv-1e>u_M>>dvL-1WR<-yWRWVSueSM <M#e>#v1R8eWuR<V#R>15>vsu^oReS<^Mu1<-^1VMeM>uS^v1vLLVv^-WWv.L-1#LWW#WM1#R1WM<L<MeHMMVRMW>^yV>uVVVvWve#uLvSe>L#VDWSSWMLM<M#V1^>e1uMWT-uLeVLV>WVRu-^M<VJ^Ru##NRSSRM1V-#Re>M#vS1v>#uMLW1>vS#V>u->L11MVev1VLVu1^#vMCMRuvRe>L1<1LRMS1MM<eSVvM1uR<SeM-->Le1pWRSVV1>R:<vVVpRu-eML->LvV-WWS<Mh<RSMuuD-v1#MRe-#LLVSW^SvMM<W^<eQ4RvV#u-<L1L<^uv^^VLS1RRV^Mv^v1#WRR-VLu>GF><W^u^R*MLW1#RVRMR>}VLBVRWVMS#R>>n<LMvWR#-MMeVL^e^RS#v>#vR^->>S8evM1eR#vV^1SLn^uf<M<1^^>RUVvu>-uWVv^M>euuM<#SRe^MLSM>u#-W<L#>/1WVWvSLu#<L#Su>VeR^e-SVMvMS>L-MMVu-W#SMWevMvu1^RvS-MWV<WKJ1<V<u-u>#JMLe#W-RSSM^VvW-eWu<<5WR>SduL>11RMSeveVLRC-uuv<u#W->tALR1VRu-<M1VM^eeWuL<C#^eVuWLW1VRi-RMVVu^>-1uRve#^>L--L^^^W-->L^V ^SeVu-v>#1>M-e^S1LW-S^M1<-^>e<MM<-#V>L->v11MWeS#vLV#^^eVd-v>#<S<-Rv##<W>SRMM#<^#eLQSv^^RR-->L<1vWRS#MuVS-^eMukv#WeRS-^Lv#-WSS<ML<R^^euNev1^v>v-#L1VSbGSvu-<W^<e#fRv^#uRS-1LvVeRW-vuS<e^v-^_Wv<#*eRzVLu1jW1SVue<^^LShJ-vv#vRWxiLwVRWVSu^D<1^V>e%WvL#/R^rV^uVWWWS=v<<V^u>>M1<V1eRe-LLLV^W<e-M>VM^qeuAV<^1>R1-MMe1VWLSLu^<V#->>2<<M#LRV-1M>^uWMeeu#1L^R>^qWL-#9R<-uMR1#W^e>uS<MRu>#rLLS1^M#S-LDV<WMeRu#<u^SM^PMvv1#eeSSM^VvR-eRu<<1#R>e8uLe11>v !M#VR^S-uuvv-#W><(>LR1eRuSSM1Vv^eSWMVvS^u>vM^LW1<RGjRvmVuWve1uWve#^>LuALe1vR#SWLeV ^ReVuu^V#1>W-eLW1LR2S^LVV<^WeSuY1<#V>u-><1#vWe-uMLV1^^e<8-<>##>HG<LV#^W>S1MM<eWVeLu1v^#VR-->L<^E>#SVMR<>^^eMv1v##LeV-^L-V-WWS<Mj<R>VS>h>vW#M-e-##uVSRR-Mu-VV^<S CRvV#ue>^RLM1^W#S-uSV1^ve-u1v<#LRRL#Lu1#W1uMM^<#^1>Sv^vvR#RW9<LLVRWWSu<S<1^<>euWvv1S><-vvLVWW<SOLRVO^ue#=1vS1eR^-Lv=#LWvS>uW##^4>RqV<LRiR1&lMe^RWLeSu^VV^W>WuvvJWSRV-uM>V1R<eeMv<L^e>^jVL-#W><-mM-VVWee>ML<M^-SLXLvW1^>#S-MWV<>t-uuV<e#>eL+MLS1#><S-M^1u^--#u<<x#Re#<ML>#<RMURM#VL^SSR1ev-^^><uSLR1VRuS>L<VMW^e#MMvS#R>vQ-L>1<RvSRLLVuW#e1vM<S##>1-S#v1ve#SWL11>^RSMuu1>#1>M-e<##1WS-<MvVR^WeVu;<e^->u7^L1><WeS#ML1+SRevuevWeV>U-RLV#LRMS1Lu<eR^eLASv^^Ve1-Wv<1!->SVMu<>^1e1de<v#L>S-^LVV-RW5kMI<-^Vevt><L#M>-^SLL1WW^uvu-<W^<-_SSvV#eR>)LLMVSW#-<LL<^Wu>-<Rv<#qRRT#vvV>R<SMLv<#^L>SuR<I1->^-<#uVRWVSuMSVR^Mee0##-1SR^-vM-VRW<S>uRVV^u>SK1<M#LR#-1MS^#WvSRuW#<^v>R9WvuWMR1M}Me^#W1eSue<veL>WLLv%WRv^-uLuV1SMeeMT<L^SSv6vvv1W-1-DM-VVRL-uu1<S#ee>bLLS1^ev-LMW1uWbS1uV<M#>e^_^Le#<RLMVM^Vv^-S>u><4^^>VuWL>11RM--LRVLWee^<Wv-#W><mb^(1VReS>LVVM^-e#ML<^#^>^--vV1<R>SRL#VM^>SLuMVu##>L-S<^#-W--VM<V>^Re1uu<S^#>M7WL#1WWSS^Mv1uWWe<uSvRe1>u->L1#vR^S#LM<S-uev!-vW#<MR-RvM1uRRS1Mv<eW#eV(SvS#v>>-Wvu12eRHLMuVu^1uede1u#Le3->Lv1RWWu<M*<R^V-uuWv1#SRe7vLLV-W^-VLR<WWMeO<>vV#uR>;^LLVeRVSLL<<^^v>-u>^V#_>W-V#MV>W1SMM-Lv^LeSX^#11-RW-<LF1#WVSeu>V1^M>-U#<L^NR^-^M-^^W<S>uRV#^^>>uLvM#LR#-LMS#^WWe-MV<<^>>RwWvu^>>W-ML^V#W-eSvv<v^-e>:<v<1RRW-uL#V1eMvSu#<##SwVtv#e1W>1iMMR1MWu-lu1<M#eS#u#LS#<Rv-RMWVVWGSeM#<u^^>1Z>Le1#RLY2LvVvWeeWu-<w#R>VuL<<11>uSeLMVL^Se^uvV##Weu8lvW1VRLS>L1v>^eeeuLWM#^e2--v>uRRj-1MVV1^>e1uMVe1L>LFWL^#)W-L^M<#CWueVuev>^L>Mv1L##LRVS^M^<-S^e<u>vRRVe^->L>1MRMS#L<<SWRS-7-<V#<ev-RLV1u>>->MMV^^#e-:SvW#veu2vL<1eWRSeMu<>^1Sv<Sv#^uRSvWLvV-WW-11u<RW<euVvv1#MRe-#MvVSR<SvMS<W^1e9uRL_#u>u-1v#VeRvSLvSS>^vevtWV##;X>-VvuV-W1S#ue^W^LeM3^<V^uRWzuL&1-WVSuu>11^R>euvvL#WR^-<M-1>RRSGM#<V>^>>b1vM#-e<-LL>V^Ree-uW<<WMe<0V<*1>-e-MMeV#WLLLu^VC#-e^H<vM1R>V6MM>VeWMS^u#<-#SeRu-L-#VR<jvMRVVWu->M><M^^>#p-LS1WRvFuv1V<WeeRue<u#>>1uvL-1#>uSS1WVv^-eWM1VL#Re<(u^v11RMSeM#>S^SS<uv<S#W>1rtvR#vRu-MM1V-^eSvuL1SW<>vI<LW>JRyuvMV1LWSe1uSveR#>L-SL^^v>MSWLuV{W1eVuMv>^^>S-ev<1L-LS^Mv<-W>S1uD<^#VuM->L11MR-u>MLVe^^5^l-vW#<eMz1LV#uW>L#MM<e^#eLuSv^^2R-;WL<1MWR-VL1<>^eeMuIv##-RSPRv#V-RVS<<B<R^VeuM>vW#M>^-#L-VSWWSvLuV-^<ee2R^1#uR>-1vvR-W#-uuS^1^v>-7W<1#<RR:<LuReW1SMueVW^#>Su^vvRLRW-<LiVRReSuM#<1WM>eIWvL#S>>-vL<VWevSiM1<VWL1Ml1vS1eRS-LMSV^>vRuuWVu^)e1_Vv<1>e1ReMe1vWLSWu^1-#-eWF1vq#uRV-<M>1LWMS-Lo<L^W>^PWL-1WR<umLvVVWee>ML<Me>>#MLvS1^>yS-LVV<>MeRMV<1#>>esM#>1#R-SS<^Ve^-SFu<#e#R-#5uvSvVRM-^M#11^Se^uvV-^-><l>LR#MRuSeM11vRMe#M&vS^L>v--LW#1RuSRLvVuWVe1uMve^WeV-Sv#1vR^SWM<V)^RSHuu<##1eu-eLW1LRS-hMvV<^WM^u <1#V-uVeL11#WeSeMLR4^^SVM#vW^u>3;-LV1uW>81MW<eWveLuWv^#<R-Q>v#1HR#SVM#<>^1eMu-vS#L>>-^#<V-WWS<LMVR^VSnY>^-#MRe-#LL1uW^-su-V^^<eM R<V<#R>-eLM#LW#S-uS#^Wu>-uJv<WLRRv1Lu^>R1SMMv<#eL>Svvvv#-Wv-<L1VRS#SuM <1Wv^>g#v-1S>e-vM-VW><-LuRVM^ue#31vL1e>W8VMS1VWvS^uW<<^Fee}-vu#WR1->MeV#WL-fM#<v^S>WD-v:1RRV-uLSV1WSeeM1<L^5>^uvvR1WR>-BL1VVWee>v1<V#e>-7LV-1^RSS-L>DRW5S1uV#u#>>10M<e<RRL-WM^1b^-eRu<VM#e>V}SL>#kRMSeM#1<R<e^MMv-eR><?)LR##RMS>LVVMW>e#uLvS^Re>--vW1<muSRMVVu^>e#uM<^##eL-SLR1vR-%VM<V1^Re^uu<##1evWLL#1-WSu^Mv<-^W-<-LvR^M>u;#L11LWe-WM><SWVevVwvW#<>Tpeve1uRWS11M<e^#eLMq<S#v>S-W#V1cWRSVLL11^1SMheVM#LRS-^Lv#uWW-uMyVR^VeLD><1^^Re--LL^eW^-_u-V>LReKu1vV#1R>-1LM#e1WSLMW<^W)>-iSv<W3#V-VLeV>RLSMv#<#WLeeJ^vR1-RS-<L>VRR#SVu>VL^MeL:#vL1Se^->M-1VW<S>uRW<^uS>uvvM#^R#--MS^DWvS-M*<<^1>R<<vu##R1MMv^V#WWeS<V<ve#>Wu1I-1R>M-uv,V1WMeeL#V1#Se<dvvR1WRV-{Le#uWuS^u1<>#e>#sL<,^dRv-eMWV-W4eRuVVL^R>1uuLe#MRLSSM^VvRWeWMu<m^W>VtLL>#1>VSeM-VL-Me^MUv-RWLVoHvM1VRVS>vuVMW--LuL<W#^e#--LW1<eqqLMVVe^>SLuMvS##e<yVL^#uW-LMM<Vd^RS#uWv>^<>Mv<L#1LWS-RLv<-W^e<<#vR#V>u-><L1MR^S#LM<S^Revu-Mu#<>1-Rv>1uR#S1<MVV^#eW*SV>#vuF-WV<1>WRSeMuV-^1c+{e1#uVRSduLvW-WW!uMnVRRueuuvv1>vRe->LL#(R^SvMR<WW^eI+RvVWu>1-1LSVeRvSLu-<^WVe>)W<M#;><-VLuV>R^-WueVV^Le#/^vv1->>-RL,1WWVSRu><1^M>e1LvL#WR^DLM-V>W<-)M-<V^^>>uLvM#^R#MLL#V^W>e-vR<<^W>Ru#v>1>>L-M<eV#WLeSL^VM#-eVd<v>1RR1-uLS1LWMSWu##T#S>^Ev<u^LR<-SMRR1Wue>u1Vv>u>#uMLS##RvS-MW11RLeRMV<uee>15MLe1#>WSSL<VvW-eWu1<%^Re<Iuvv11R<SeLvVLR*eeuv<R#W-<7:LR1VeuSeM1VS^eSvuLv-#^eV9SLW#MRCL>MVVu^>S^Vvve^V>LvSL^1vW-->M-VnWWeVVMv>#1>Mj-LW1LRSS^LS<-^We<umVL#V>e->v11MW-S#LLVe^^e>N-1^#<>>-Rv#u1W>-LMMVL^#eL0SV^<VR-BVL<1>WRSWMu1>VMeMu^v##-RSMvLv1-RVS<M#<R^Weuu#v1^v>^-#L-VSW-Svu-<WR<SLCR<M#u>#-1#uVe>#-SuSV<^veRsW^S#p>RuuLu1vW1LuueVv^L-S9evv#1RWLMLHW>WV-LSR<1^S>eu>vL1SR^uvL^VWRuSGM1<V^M>>u^<e1e><-L##V^Wve-M>Ve^Ke^YV^M1>R1-ML-11WLSeu^W<#->WU<vm^LRV-eM>1VWMe-u#VL^e>^K>L->SR<->MR^VW<e>u-<MWM>#LuLSW^M<S-LMV<W<eR1u<u^S>WyMv^1#>1SSM^VvR-SEu<<>#ReMsuLe11>v-SM#1K^SSJuvv-#We1?1LR#vRuLeM1VM^eSWMMvS^#>v<1LW1<R&SRM^VuW#e1Muve#W>LZSML1vR1SWLRV_W1eVvu<k#1>W-evR1Le>S^LV7<^WSuu7<u#V>u-><1vvWe-vMLVW^^YX:-VWM^>o61LV1eW>S^MMVeWWeLuVv^R0R-KVL<W7RRSVMW<>e1eMuSv#^L>5-^LeV-S>S<Mv<RW#S^)><L#Meu-#LLVS>^->u-VV^<e>jRv1#u>SqSLM1WW#SeuS<^^vSu<Rv<#SRRHcLuV>W1-v#V<#WM>SuLvv1-RW-<L<VRRMSuMR<1^v>eu#<>1S>M-vLRVWRuS_vRVR^ue<_11L1e>M-Lv=#MWvSRuW#<^*>RJVVu^#R1-SMe1vWLe-u^VV^R>WuMvh>#RV-uM>1^-veeMV<Le->^7vL-#>>L-dLWVV>ue>u1<M^-eS*LvS1^Y<S-MWV<W!S1uV<e#>e19ML-1#>L-<M^Ve^-eeu<<>#Re#W1L>#LRMueM#VL^S-^-1v-^V><(>LR11Ru-SM^VMWWe#VvvS#^>vuu<<1<RSSRV<Vu^>e1Mv<>##eM-S#W1vW-SWL1V<^RSVuu###1>M-eL##-WS-<MvV-^We1uI<RWL>uD<L1WuWe-vML14L-evuRvW#R>j-RLV^u1SS1MS<eWveLuMv^Wv#W-Wvu1mR1SV<1<>W1SeHe<u#L>M-^vlV-R>S-M?V1^Ve1m>v1#MeeDMLL1WW^-cu-W^^<-YT-vV#eR>,LLM>LW#-LM-<^^e>-<^v<#>RRMVv1V>RdSM<W<#RM>SuRuL1->V-<vvVRWVSuL>1u^Me^U#v-1SRW-vvu#vW<SeuRVs^u>>y1<v#1R#iuMS1LWve-uWV1W#>Ru<vu#VR1-MMeV#W1eSM<<v^S>W:1vy#RRW-uL<V1-VeeMv<LRSLW2vv#1WRW-5v#VVRLSWu1<S#ee>%LLS1^ev-SMW1uW)S1uV<M#>e^C^Le#<RLL<M^Vv^-S>LM<&^^>Vv#L>11RM--L#VLWee^<Rv-#W>< rv#1VReS>LVVM^-e#MLM<#^>e--<%1<R>SR<VV>^>SEuM1Q##uv-SV^1-W--LM<1L^R,vuuV><^>Mt^L#1^WSLSMv1-<-e<u>vR^M>uu1L11#^VS#Lu<S^^evu3vW#^>E-RLR1uW>S1MW<e^#eL0SvS#vR--WvJ1(WRSVMuVu^1eMOev##LRS-^Lv1vWWS<MsV<^VeuA>v1SuRehvLL1>W^S<u-<WM<e7TRvV#MR>-1LMVSW#SLuSV1^v>-cWv1#LRR-VLueW7><^u-<>^L>Sd^WRS?M1<WLM1MWVSuu>^W/uLR1VW#SuMe-VL^VWW<SPV-RRg^vPvWRuS^M1V<VuV>Wve-uW<<^rSRVe#u1SRS-MMeV#-V<M1S>v--M-V^vM#uRV-uM>WWuuv^#1><>u>>AvL-1WR<-UMRVVWueSMu<M#e>#<<RLS1K1<v^>eRk^LS1R<L#S>1mMLeS1Mu-uM^Vv^-eWu<^?-%kVJLL-11RMSe^1>^AveRuSv-#W><v1WrSW.v<u^^e#PVLR1#<g#e>v--LW>^u<VL^WVu>>e1uMve##uL-SL^1vW-SWM<V}RRW#uuv>#1>M-evV1Lev_1Mv<-^WeWuUv>#V>e->LR<MWeS#MLVL^^e<+-vSV<>s-RLV#-W>S#MM<e-#eLXSv^#<R--WL<1FMVSVMu<>^#eMOev##L>#-^LvV-WWS<MN<R>Vee:>v1#M>R-#LeVSW^-uu-<W^<efQRvV#u>S->LMVSW#SWuS<^^vS-MVv<#uRR-1LuVeW1-vMR<#^<>Suuvv1-RWG1^uVRW^SuMu<1^M>euWvS1SRe-vL1VWW<SEuR1p^u>ed1vV1eRW-LLS#VWve-uW<^^l>>rV<L#*R1-MMeVWWLeSu^1v^S>W%<vI1RRV-SM>1^W1eeuW<L^1>^OvL-1W>1-*MRVVWLe>u^<MWe>S?LLS1^RvS-LqV<>7S>uV<u#>>1?Mv61#R^e1M^VV^-eWu<<u#R>^5uL>#SRMSeM#Vv^Se^uvv-Wu><A.LR1#RuS>M1VMRve#uLvS#>>v--LW1<WuSRMVVu^Se1uvve^WVW-SL^1vR<SWM<VO^-RVuuv>#1-u-eL^1LWSL^Mv<-^We<u)vR#VSu>SL11MWeS#MLV>^^-WMevW#<>+uSLV1MW>-uMMVu1#eLnSv^W1R--RL<1v#RSVMu<>>VeM=Sv##LuS-^LvV-WWS<Mf<R^Vv>!>v1#MRS-#LLVSW^SVu-<W^<e,_RvV#uS>OVLMVeW#-uuSV<^v>-Mvv<#8RR-VLuV>W1-vMW<#^v>Su+vv1-RWu<L<VRW1Suue<1^L>euWv<1SRR-vLWVWW<SHMeW1^u>-.1vW1eR#-Lv;RWWvSLuW<e^q>RfVvuVeR1-LMeV>WLS2u^Vv1^>Wp<vc1-RV-MM>V1LMeeu#<L#->^0vL-1RR<-3MRV-Wue>u1<L#e>W!#LS1^Rv<-#R>SuMvSu#<^#>>1+M1-e^MV<L1^><uuvSu1<L#R>Vxu#<SW-LS-M-VL^Se^V1>LS-L<1 W!eWRL-VM1VM^eu>1>>uS>LLVeW#eWuL<-M#VR^>e1uM^DS^LuvuW#SkuR<L#^><^eeWuuv>#1u.<SW<e#RO-vMv<-^Wu>1<R->^M^V<WLeVu-ve^u<S>MevE-vW#<u5-RLV1uW>S1MM<e^#vL3Sv^#vR--WL<1+eu#SMu<>^1-1Hev^#LR--^L#v-WWS<M(#4^VeMz><^M#Re-#LL12W^Svu-<We>eTi>vV#MR>-1LM#e>2SLu-<^^<>-uLv<#le<-VLMV>W^SMue<#^LeRn^vv1-RW-<LMVRWWSeu><1^MS-?#vv1Se^>VM-V-W<SvuR<S^u>><1vM#LR#-<MSV^Wv--S><<^V>Rh>vu#vR1-#v&V#W#eSM^<v^r>W,Rvn1-^V-uM>V1RMeeu^<L^MW^5vL-1We1-(M>VVRL#Mu1<1#e>WkLLS1^RveLMWVRW{e>uV<u#>>1u^Le1-RL-YM^Vv^--Wu#<7^M>V #L>1-RMSeM^VLWve^uWv-^u><M4L-1VR1S>MeVMWVe#uLVV#^>W--vu1<R_SRMV1L^>e>uMve##>W-SLe#uW-SWM<#K^Re1uuV>v>>Mq1L#1>WSSeMv1uSRe<u>vR#^>u->L11M^SS#Me<SW<evuuvW#RW1-RvC1u>RS1ML<e^^eLuMM^#vR--W<v1,W>SVM<L>^1eM0eV##LR--^Vv1LWWSSMAVM^VeMN>veVuRe-eLL#1W^S<u-<>^<evSRvV#uR>uKLMVSW#S^-e<^^v>-uvv<#uRR-#Lu1w#1SMue<#^e>ScWvv#L^W-<LgVR>SSuue<1Wv1Lj#vL1SRS-vM-VW><W<uR<V^u>>A1v#1eR#W<MSV^WvSuuW<V^i>R^Vvu1>R1-LMeV#WLeSu^<v#->S}<v&1RR#-#M>V1WMM<#>>1-Su2V^RL1>R--IMRVVzevR1#RVDCL>1<W1S1uR-uMSV<W,eR1eRM-^M>TvR^1#RLSS^ue#uLvW###WRW-<1L^eSSSf<v^ue1UVvS1V>v-eMW1M^SS<u-VT#>eDuu&V1VRe-V-LM-1>eWuSu><<>18uhV1-WS-uLuMeW#eVu<v^1Y^M(^ ^vM>uSW-#1uVWSWY1uSV<^1euEevVRse#-<v1V#W1MIv-#<RLe-5v#<WSeV-#MR^1Wu-#Vu#^eLSvM<1^^>eMu#<SVeW^-Lu1VMW->WpLL-1>SW+RvRVW>M-1uL#>e3-1--#_R--VReAuLLVSW^-VR^<W^<e!AevV#uR>q^LWVeW^SLMu<^^v>-MWvV#bR>-VLMV>W#SMM-1<^LeuF^v#1-RW-<Ls1LWVS<u><#^M>e9#vL^<R^-<M-VSW<STuR<V^v>>J1vM1eR#-<MSV^L<e-uW<<^u>RF1vu1>v1-MMeV#WveSu^<v#->Wb<vt1eRV-uM>V^WSeeu#<LGuMS1#WMSVuSVA#ee<xMvS1R<v>S>#mLLSe-u<e>>WS<#e^1RM1u1^V1#MMWLvv-ISuV0vu->1euS>ve#uMuWvS}MV<^#ee<RSvQ1RRS-SRMW=RRVLVe##v1v-Le<#*EjWM<SvS>eW-<^eW1>MML<1-11WRV->M-VLWR1vRLSWM<VrWe1>uuv>#1>L-eL#1L>?LWMvVK^We1uhvR#V>uWSL11MWeSWML<-^^ev^-vW#<>,->LV1uW>S1MM<e^#e1jSv^#v>uHuL<1GWRMS^<e:g1u^1MR>#<>#-^LvV-uV<v#uR-B^v<1SRZ-xMv-W1-VSW^Sv#1>S6^v01S#ER;SRV^^LSveVvW#1>e->vvV>RW-LM&V#^veRu<<V#M>V{1->V>RLS>S^LR^^e1uWvV#S>oJgLvveRue-uRV=^v>SevMS1>>L-VL#V>R<-C-^<1^ReMuMqS#1RV-^L^L<^vSRM>Vv^D>eW<SMu^<v#-LuVVWeSNRV-^M>V1WMS-e^<L#S>^!VL-1WR<9Mv1VVWMe>uR<M#e>#MLv<1^R<S-MRV<WueRM#Vj#>>W+Mv=1#RLSSM^V>^-eRu<<L#R>VtuL>#WRMSeM#VL^SeRuvv-^L><)lLR11RuSeM1VMMee#uLvS#W>v--LW1<R_SRMVVV^>e1uM<%##>L-SL^1vM-LRV<VMWVeVuuv>>eMRVMWve1-ev-1W>#--v>uM<v#V>u->#SSuu-<L^V>S-WL11vv>#^>(-RLVe#Ie<v#1<-W<eLgSv^>1LvV>W1e<u^<WVvRe3vL11-W^#L>L-^LvV-R>^WM&<R^Ve<o>v1#MeehLLLVSW^Svu-<e^<-.u>vV#uR>-1LM1MW#uLL#<^^v>-B>v<#uRR-VL<V>W1SMuS<#^L>S5^vv1-RW->LQVRWVSLML<1^M>e<#W-e-LM<^WueeW#S0uR<V^u>>Q1vM1eRW-RMSV^WvM1#->M-uL^1<WWSTR^-#MeV#WLMV1SR<-RLSVevM#VRV-uM>RLuuv51^R-eSL<V<R#e-M1-MLvVVWue><WRWSSLWVvWuSeu^VuM>V^W;eRuVR#SeLvV1Le1-RLSSM^1VSueWu<<l^M>VCuL>^1R-SeM#VL^Se^u<v-WWeV)_LR1VRuS>M>VMRe-uuLvS#^>v--v=1<ew-WMVVu^>e1uM<f##-LuLL^1vW-SSM<VM^ReVuSv>#1>M-SL#1LWSS^Mv<-^W-^uKvR#V>L-eL11MWeu#M<<-^^ev(-W-#1>u-RLV1uMTS^ML<e^#eL1>vR#<R--WL<W<WeS1Mu<>^1XVO-<^#LRS-^#1RV-SL#V-^ee>L(v-#W><MYLR1VeuS>M1Mu<R^<eI(RR^#LRe-1LMVeu1S<u-<^^v>-1-v1#uRR-VLu^vW^SLue<#^LMWqRv<1-RW-<1#VeW1Suu><1>#>-X^vL1SR^<#LuVRW<SwuR>#^L>eh1vM1e-M-<M-V^Wve-vV<1Wu>RGVvu>--SvV#tR1S<Mv1#^>e1LMve##>L-SL^^vV^WLeeu#<Le<>R!<L-1WR<V7MeV1Wue>u1#W#->eKLLS1^Mv<?^Le1uLeeu1<u#>>1V^L-1^RLSSM^^VWueRu<<m#R--JLLe11RMSe<-V<^-e^uvv--L>1uuLR1VRuL-VSRV-kM1<<^vS#uR<VRuS>?1vM1ee#uLe^uLve##>LM<LR1<W-SWM<^u^ee1uuv>#1MS--L^1LWSS^veVu^We<uXvR##>M->L11MuWSWMv<S^^ev1&vWLW>N-RLV1uSWS1MM<e>MeL*Sv^^V1--WLV1.>RSVMu<>W^S1revW#L>1-^LvV-R>-vMc<S^V-< >v1#M>-{eLL1MW^-Lu-<W^<SMuuvV#VR>--LMVeW#-<M-<^^W>-Cev<#iRR?#v^V>WSSMMe<#^L>SuRyv1->M-<v>VRWVSuMSV-^MeVd#v11SR^-vvu1vW<SWuRVS^u>>O1<v##R#-SMS1vWve-uWV1We>RuMvu^vR1-MMe1WRueSMV<vRL>W!<v7#e>v-uLWV1><eeu#<LWo#^PvvS1WR1-FMRVVRL-=u1VM#ee^+LLS1^>V-1MW1VWfS#uV<u#>e^uVLe#WRL-uM^Vv^-S>MR<!^S>VzvL>11RM--LuVLRMe^M^v-#W><uM<v1V>VS>LRVM^ee#M<5S#^eW--L>1<R{SRL#V<^>SSuM<!##>L-SvR#WW-gMM<VR^ReVuu<S^L>MuVL#1SWSS^Mv1u^-e<MWvRWv>u->L1#vR#S#LS<SW<ev8-vW^1>L-R<M1u>RS1MM<eWW^LBSVV#v>?-WL<1hRe-VMu1W^1e#6ev##Le%_>Lv#SWW-uM&<R^VSLu-v1WMReu1LLVSW^-VM,<WRVeKMWvV#uR>z^v1Ve>WSLM><^^v>-u>vW#meS-VLeV>W1SMM-u#^L-Mw^VL1-RW-<vM1MWV?Vu>1V^M>eE#<<1-R^uWM-1#W<S7uRV#WM>>MSvM#^R#-LMS1RWSe-vM<<W->R=Vvu#SR>-M<VV#>MeSu^<vWuS<;<VW1R>--uM>V1Rv^eu#1S#Se<mvL-1W>1-<MR^MWu-Ru1<M#eeWuRLSWVRvPSMWV<W&SeMu<uRW>1Z1Le1#RLo2LMVv>SeWMu<D#R>VuLv<11SMSeMeVL^Se^MVVR#W-V*}<u1VRuS>L^RL^eTWuL<W#^>v--LWSRR,SRMV^L^>e#uM<-e^>L--L^1WW-SWM<1M<ReVuLv>WM>M-eL##<>MS^M1<-WVe<uIvR^#>V->LR1MRLS#ML<SWRSR=-v-#<eR-RLV1uRSpMMMVL^#e-FSv^#veuX-L<11WR/<Mu<>^1SvMWv##RRSu#LvV-WW-1S;<R^-euM<v1#MReQWL1VSRLSvMR<W^<eQue<1#u>1-1v>VeW#SLL91u^veROWVA#:RR-VvL1RW1S-ueVv^L>Sw^<V#RRWALLt#WWVSuu>V^^R>eu1vL^eR^-vM-1>V<StMR<V^V>>N1vM#->e-LL-V^R3e-uW<<WMe<=V<L1>eV-MMeV#R<S1u^V1#-S^X<vU1R>#-RM>1RWMSRu#<L#SeR7SL-#-R<->MRVVWuSSLY<MWL>#MMLS1^RviuSWV<R1eRu1<u#>>1uv<M1#>RSSv#Vv^-eWM1<W#Re-Uuv#11RMSeLW1<^S-LuvV^#W><QYve#MRuN1M11#^ee#uLVA^R>vuRLW#uRySRMV1LW-e1M-veW1>L-SL^#VV-SWvLV*^>eVuuv>^^>S-e<11LRLS^Mv<-W>e#ucVR#V>e->L11MR-)MML1-^^-Ln-vW#<eMB#LV^LW>9VMM<e^#S<u^v^W1R--RL<1&WR-#L1<>RReMu^v##LRSER-vV->-S<MV<R^VeuuSVu#MSL-#vuVSW^SvLu1{^<-1TR<M#uR>-1vv11W#DRuS1L^v>-bW<1^<RRu-Lu#VW1SMueVW^^>SLLvv#RRW-<L=1eW1Suv1<1Ru>e*#vL^}1^-v<RVW>vS)uR<VWLeMU1V-1ee1-LMSV^RVSMuW#L^Ke1)Vvu1>>^QSMe^1WL-eu^<v#-e>uSvrWRRV-MM>V1WMS-Me<LR->^uSL-1WR<_MLRVVeLe>ML<M#e>#GLRv1^RvS-<>V<WMeRM#WM#>>#jMvL1#RLSSLRMv^-e>u<VR#R>V2uvS#1RM-+M#V-^Se^uvVu#>><_vLR^<RuS>M11vR^e#u#vSW#>v--LW#1ReSRM>VuWMe1uMve^W>>-Svn1vRRSWM<VrWee1uu<v#1e>-eL#1L>xW^MvV#^W-Yu_vR#VeL%eL11>We-vML<S^^SVuWvW^.>AuWLV1uW>-^MR<eWveLMev^#vR-l>L118R#SVLR<>^1eMu-<>#L>>-^vNV-WWS<LMV>^VS,5>ve#MRe-#v<MSW^-vu-1<^<ezlR<#^VR>8#LM1^W#SLuSVRWc>-u>v<#<RR-VLu1SWRSML3<#^^>S7^vv^u>e-<vvVRRMSuu><1WvS#o#<#1SRS-vM-VWR1SWuRV>^uSRH1vM1e>WRLMS#gWvSRuW<<^ZeeMLvu^vR1.#MeV#WL-{MR<vW#>W_Rvi1RRV2LL2V1R>eeMv<L#S>^uVv^1We%-KLuVVWue>M^<##eSvbL<v1^RvS-L>1MW{-#uV<e#>>1cMv-L#RLc>M^#L^-eWu<VM^1>VMhL>1#RMSeM#1<Rve^Lvv-WL><P LR##><S>v#VMW^e#uLvS^R>1--<>1<>-SRMVVuWSS-uM1*##>v-SL^1v>uFMM<#v^R-uuuv>#1evReL#^#WS-<Mv<-^WS1uvvRW>>u.WL11MWe-WLl<S>AevuevW#<>_%eLR1uevS1MS<e^#eLMF<v#vS#-W<v1%WRSVLLV^^1->6ev^#LRS-^vV#1WWu{M!1<^Veuo><^vMReMvLL1WW^Svu-V>WLelL#vVW.R>-1LM1-RuSLv><^^<>-PWv<^MR>-VVqV>><SMue<#W<Su8^1v1-eR-<LUVRR#-eu>##^Me-m#vL1S>RuKM-^>W<SLuR<V^u>>1evM1eR#M<MSV>Wv-uVR<<^u>RuVvu1>R1=vS<V#W<eSML<v#->Wu1<u1RR^-uMSV1WMeeMWVe#S>eHvV{1WR<-FLe1<WuSuu11L#e>#EL<O#MRv-<MW1fW2eRuVVL#S>1Z^Le^^RLSSM^VvRWeWu<<;^M>V:<L>#^<^SeM#VLRRe^uvv-^>V1KcLR1VeLS>M1VMW--vuLvS#^e1--LW1<>M-<MVVu^>SSuMve##e<uWL^1<W-q1M<VE^ReVuev>#1>M--L#1<WSSeLV<-^We<RevR#1>uhSee1MRMS#LV<S^^evs-WL#<>V-RLW1uW>S1MMR<^#e#ZSvS#v><-Wv1u1WRSRMuV-^1eM.evSVMRS-^Lvu#WWSVMw<e^Ve<S>v1#MReWuLLV-W^SVvu<W^<eg7RvV#uR>9^SeVeW#SLM<<^^v>-u>Vu#8RR-VL#V>W1SMM-1L^L>-l^<11-RW-<LK1eWVSuu><^^M>Sf#vL#VR^-vM-VRW<STuR<1^u>>x1vL1eR#-LLl1LWve-uW>u--M>VWRv-jM^<R^R>-WvSLu^<v#-e><vv%1>RV-MM>V1WMeeMM<L^8>^nvL-1WR<-3vVVVWMe>u^<M#->#2L<^1^R<S-MRV<WueRuV<<#>>12MLS1#RLSSM^Vv^-eWu^<F#R>VtL1<11RMSe^ye1uMv^#1#^R^-v1M^>See-<L^TeVH<ve1<>L->M^1u^eSvuS<-#R>-u98<1<R>-<-M<##^>1,1LM1WWM>WLiv/R^S#MRVRV1>8uLLV#<e#e>LW1-ve#e>u->L1RWMu<>^LW<-Sv#uuvS#<>E-R^eeMu^v>MvV1^#eLlSR<-LM%<SW#Svuev-#->L^1eWQev##LeJRWLvV-WWS^Mh<R^VSLuRv1#LRe-RLLVSW^kvLR<W^Ve+T>vV#LR>&^vSVeWRSLu-<^^v>-xW<^#}R>-VLvV>W1SMueVv^L>So^vv1-R>-<L(#<WVSuu><#^M>SA#vLnSR^-vM-VRW<SCuR<V^u>>r1vV1eR#-LLEVeWve-uWR>-uL#VRvLRSR1-MMee;u1<M#^>1>^-^LvRMe>Meu-^Le8uVv<#eR<QLL>V^RueeMv<S^->Rj-<Nv<R<->L<LM^TRS_RV^#RRXu<v^<e>RRe-V1MW-eeMN<1^Seu>Sv11VR^-^-<<u^eeRMuL<^e><W;S0uvv-#Wwe1vW-SV-#<u^RVvW1e#uLvS-<LLV4^SS#Mv<e#->-_Le1uWve##>Luo-W1vW-SWM^V0^ReVML<v#1>L-eL^1LWSS^vv1v^WeVu9v>#V>v->v^1-WeSRMLVQ^^ev/-vW##>i->LV1vW>S1MM<eWLeL&Sv^#vR-->L<1rRRSVMu<>^#eMkSv##LvS-^LvV-WRS<MP<R^Veui>v1#VRe-#LL1lRLSvu-<WjuL-V>WW-vL;V^^ReRD-S<Vv<^^v>-1MR^-vMRV^VR^ReV<v1S>->uL<1MR#S1M-<1W<eS,R<L1->VCbvuVeRu-MS1<1^Se1evv-##RR-#MeVWWWeSu><W#-eV+eve#u#v-eLW1vW#-uMWMu^W>^_>v>v#>u-)LL1LVSS1MR<MMSVSWMeeu#^R0MLe1v#Ve-M^-MM-VVWue>1SRL-WMe2Lv11^RvS-L>--W;eRuV<M#>>15Mv-#RRLS-M^V#^-eWu<1;W1>V(ML>1#RM-FM#1<W<e^u1v-#>><P&LR1VR<S>MRVM^Se#uLvS#^>#--LR1<RvSRMVVu^>-LuMve##>L-SLR1vW-1RM<VE^Re1uuve#1>M#eL#1LWSSWMv<-^We<uZvR#V><->L11MW-S-ML<S^^u>#LRS-<f1VrWW1LR S1MM<e--Lv1RWS#V>^-WL<1(u1<<#M>I;WvV1-Ru-uM<-R1-V-WWS<##>-_Wvu1-#uRuS>VW^vS<e1vR##>S-ev<VeRR-vMuV^^<e>uV<1#L>1:#-eVeRvSeSWV^WWeWu<<R^Veu>Mvu#MRMSvM><>W^^WA1v<#&>(*VLV11Rue-M<ML^u>-u^<v#6>#-Lv<11WL-TMR<#WiV^W>e-uW<<WM#>?Vvu1>RW-MMeV#R<-1u^<<#->>4<v!1ReV-MM>V#WMeSu#<v#SeRuuL-1eR<-vMRVVWue>Me<M#S>#jVLS1^RvS-LLV<WHeRuV<u#S>1zMLS1#RLSSMWVvWgeWu<S*#R>ViuLe11RMSeM#VL^Se^u#v-#W>< Mv#1VRuS>VWe1w-vW1#R>-ex1V)W1eWMMv>M#V<^>e1uMRvS^LzVLLR1-W-SWM<WVyvLR1eRFeVM#<LWue#M<SRMe<-^We<V1RW-#M>V-W1eLuEveMvVL^^ev6-<>WV>O->LV1LW>S1MM1eRueL{-v^#<R--SL<^9RVSVMM<>^#eM;Sv#^L><-^L<V-WeS<M&<R^VS<n>v1#MRS-#LLVSW^Svu-<W^^eBORvV#L>^-1LMVeSR<#^/>R-^Le1S##SuM#<RWL>eW^SVue<#^LL<VWRuSvR>-SL7VRWVL##R>^-ev31#WvSuuS-VLWVWW<SrVuR--VL#VR^uSL9S<>^LS*W<SvuW<<^HeeM1vu1eR1-vMeV#WL-SuR<v^+>W7VvJ1SRVuuLSV1WLeeu^<L#->^uv<V1WRV-+M-VVWue>u1VW#e>#ILL-1^RvS-MWV<W=eRuW<u#>>1gvv11#RLSS^<eL0kLS##>v-eM-V-WL1^RVSeM#VL%<LW#uRv#>>>(xLR1V-^VH^ReMSvLe#1<2S^>v--LWeeMv<-^VeveVHVvuR-S^LWM>WQeeML<M^W>Muyv^1VRSSWLuVRW>e#u><e<M>Mx^vML-#--<MS<e^ReRu/<1^M>v>#u#1SR1SVMvVv^^SOuRve<u>W-^L>1>1#>#MSV1^Vevuvv^#^eu-^Pu<RR1-1LMV#1Re7MLuv1L>--1vL#+1<-vuSVVWVeuuRve#->S^<e#pRvV#u>SR#LMVeW#SvuS<^^vSuu1v<#uRR-#LuV>W1sMMu<#^v>SKWvv#MRW51v>VRW^SuMO<1^M>eo#<W1SRW-vLMVWW<S)uRVR^u>>31vM1eRW-LMSVeWve-uW<V^_>>lVvu%>R1-MMeV^WLeSu^<v#->W6<vv1RRV-uMSVRWMeeu#RWS-LVV^vujvR<-FMR>Su<<(#1><>1-1LMW<SMM1VL<#>>,^v-1S>VSSL>1<WMSWuV<e^1e#ivv##^1SSSL<VSVR><uR<^^WeMp<vR1<R>R^-eVMVRe^S^vS#R^^>S}#1<RLRW-#LuW)W#S#uS#^^#>eLev^#VRW-WL11yW^Suve<veM->vev:RuRRM#<-V#Wv4-M9##>veuL#1v1-R--^<S^^W1SUuW<W#S-epV1AWSRV-^M>^We1)ev^<v^Le%LvvV#uRLg<L-<WWMSzu#<uW-3>v<#C>u>RLL<RLV1^WWS<Mg>1d<LM1nRW-VM-VuWue<WRSRu-<W^<u#1-RW-u,L<>WVVeRuSLuS<^WVV^&Wv<#!RS-VLuV>R^-Vue<^^L>-%^vv1-eWn1L?V>WVSMu><R^Me-:SvL#uR^-VM-VWW<S9u-<V^<>>&#vM1eR#-Lv1V^W<e-uS<<^,>RgV<M1>R1-MMeV#W<eSu^S<#->W/<vu1RR1-uM>-1WMeeu#<v#S>^svL-1WR<-mLSVVWue>u^VG#e>#gL^AeSM<Vv^Le1l<vS<SRM-WMRVSWM1WR1SSM^VvuLv^#vR>#eeuJuL>11-S<>#R>vjWM^#gRQPLMW1MLe1WRuS>M1e^-Svu#1<h#e>v--LWe>uu<##RVLWKe1uMvee>LMVeW<1V>0SWM<VlSRLR#LR^S#LKVMWVS1>SLe^v1-SSvv1-R1##>^->L11M-V<V^VeM-WvM1MW-#1>1-RLV1u-><L#LeV-ev<#uvR#RR--WL<eLuW<v#->u-WvVu*v##LRS-^LvV-^WMvMMVL^Veu?>#SS1Luv<WMSLu>v^Mc<W^1e^;RvV#u-e<WWVeVuSvv^MRS-#euh-v<#nRRVLW SuuWv1u-<R^L>Sb^RMSvLu-1LvVRWVSuVWR#--LMEWv^1SR^-v1->Ru1v<#^>W^Lev81vM1e-W<v^uevuvvn1e>m^0SW{Vvu1>>^^#MeV#WLSMu^<v#-e>WMvg1>RV->M>V1WMeeMv<L#S>^PVL-1RR<.MM>VVWue>u><M#e>#MLv#1^RvS-MWV<W^eRLV<R#>>1/MLe1#RVSSv^VS^-eWu<<Y#ReMzuL>^CRMSeM#V<^SeRuvVuLu><4cLR#<RuS>M11vvLe#uLvS^u>v--LW^<#MSRMVVu^>e1MMve^W^S-SLW1vR<SWM<VQ^RS-uuv>#1>v-eLW1L>NSeMv<-^We1u4vR#VeL9WL11MWeSWML<S^^Yvu1vW#<>l->LV1SW>-^L<<e^#eLuEv^#vR-MWv^1pWRSVLM<>^SeMu-SS#LRS-^LVV-WWS<vbMe^VeuU>v1#M>R-#<LLLW^Svu-<W^<eWcRv#WLR>-^LMVeW#SLuS<^uR>-pWv<#MRR-1Lu1SRuSMue<#^<>S5^vv^u>#-<LuVRWRSuu><1RMeVK#vv1SRW-vL#VW><S1uR<1^u>ef1v<1ee#-RMSVWWvSIuWV#^.eRMmvu1>R1ivMeV^WLSMue<v#->W(<vO1>RV-uR>V1WMeeu^<L#S>^/<L-1WR<--MRVVWueSMM<M#e>#v-Wee>u<<R1Weuwu<v1R>L#->1jMLe1#RLSSMeWvWueRu<<c#Ru-wLvL11RMSe1S># uve#L>uRe>1z<LR1VRu<^^Ve1u_Leu<<v#^>v--1eRRMMv>^L>V^SeRuMve##MW<-WVe^RuSeM<VI^Rvv1V>L#^eM-eL#1L-V<S^u>__#vv1^W-e#L(VRWR>MsS<W^1V,^Wevl-vWee>MlvLV1uW>MW#WRShWLv1uReS^Lu->L#1YWRSVV^><wRevuvv##LRSv^W e_MLvW^M>S^#eM2>v1#Mu1-RLLVSW^Svu-<W^<e.GR<e#uR>-1vv#LW#SLuS<S^v>-XWV<#1RR-VLuV>W1SSueVW^W>SpWvv#LRW-<L #RW>Suue<1^L>euGvL^heM-vLuVWRvSPuR<VWLeS.1v<1eRW-LMSV^RVSRuW<^^YeWoVvu1>R1-VMeV^WLSMu^<V#->WRRv=1RRV-uM>V#WMS-Mv<L#->^FWL-1WR<uJLuVVWMe>u#<M^<>#MLvV1^RVS-MWV<WWeRLV<L#>>W+MLe1#RVSSv^V-^-eSu<<_#RevsuL>##RMSSM#V1^SeRuvv-SL><l8LR11RuS>M11v1Le#uvvS^Y>v--LW^<R^SRM1Vu^ee1u-veW#eV-SLW1vR*SWMVVDRRS>uuve#1>L-evL1L>S-^MvVI^WeVub<v#Veu-SL11LWeSSML<S^^evuRvW#<>B->LV1uW>S1MM<e^#e1FSv^#v>u6uL<1jWRMS^<eA.1u^1MR>#<>M-^LvV-uuvV#e>4^#eR(>v1#MM^V1^veMu><#^u>LALL1&eV<#uR>-1^WSuu><L^u^L>L-S#iWVSvMe<-^1SZuWuB#uRe}^-e1>RL-vM><#^<^^uM<V1e<1^W>e0#vL^?1W-vM-VWW#SmuR<VWLe:,1vL1eRW-LMSV^>vSRuW<V^c>>FVvM1>>^--MeVRWLSMu^<v#->WY>vf1>RV-vM>V1WMeeuW<L#S>^ZvL-1>R<-ELLVVWue>u#<M#S>#KL>S1^RvS-MRV<WweRuV<u#>>1}VLe1#RL-*MeVv^-eW1>Ru-#MRcLvV11RMSe^veM--Le#1>L->MSVSWM1#R#S>M1VMS<v>#1RSe9M^1LL>R^RgSRMV>^u7vR#M>j>M-MMeWRe<MVu##>>^O-LS#VWS->L<VMWWeVue<1^#>vx#v^LSWS-<MSMR1>eVuvveV>R1>#Le1eROSSMSVvWWeVM<<2#1>^->}M1RWW-1LL<-W1^-uS<<^V>S-WL1 e<m#LRS-^vVLxWWS<Mi<e^Veu/><^^MRe-^LLV-W^Svu-1W^Wez8>vV#MR>-WLM1-R^SLMu<^^#>-2Wv<#m>V-VLMV>WWSMue<#^LSup^vv1-RW-<LMVRWVSMu><1^M>Ss#vv1SR^#vM-VWW<SuuR<V^u>>41vM1eR>-LMSV^WVSLuW<<^{LMV1WSSuR^-^MeV#WLMV#e>#--uuVWRv1e-v-uM>V1XW<u#>>Lqu+LLLVSS>uVV1<^>eiW<h1->1S-Le1VWLSRu1<S^#e^b<v^#W1-S-LVV-V>SRuRv-^v><uuu&v<1-S6u^v^VW>1Su<W#^>>%>w##VRS-SMWVLW-eRu<SSLuVM^ee#1-ReSWM#1MWSS1u^<^#eVuW<e1uMve^W<e-SL^1vRLSWM<V,We-luuve#1>L-eL#1L>SXLMvV}^WeVuJve#VeLnvL11<WeSRML<S^^evMvvW#^>x->LV1uW>S1Mv<e^^eLuMv^#vR--W<u1DWRSVMu<>^^eMoee^#LRS-^L<V-WRS<MnSR^Veu5>v##MRe-#LLVSW^SvM<<W^<e:,ev-#uR>-11<e<p^<<1-R>h#Lv1>v1#1RR-VLuR>uLvL^VReY<vuhRve1-RW-<1WSzuL<uV>>VO^LM1Wv<#^R^-vM-RVuvvL1>>MSuL#V#RRSMMW-<LMV^Wve-#uRV-eLBZ#v^1>R1-M1<eeuOL-#1>L-#MSsVv11RRV-uLSLeWMeSu#<##S>^iv<-#eR<-uMRV1WueSu11M^F>#:vLS1WRv-LMW#<WVeRu1<u#e>1ULLe^#>#SSMWVvWfeWuR<6^RSM9uLe11R<SeM#VL^SSMuvv-#W>Vi/LR1VRuS>M1VMWue#uLvS#RuV--LW1<u#<-^Weuy-uuvu1>-WMv1<V1eRu#<S#ee<-evR#vRu-^M<V>WVS1uL<1^##e-evv1e1W>#MWVhWV><u#<u^ueu-MM#LS#>SSMvVW#^e>u<<<^<RVS>mM1RWWSeMeM^11e^,-<<vV#S>1M<1#Ru-uLuuSVV^-wEuVvS^M^#e#I>v1#MG<V>W1eS-5v^^L<>^^eG9RvVS#ueVv^1V-RMSLuS<^F)LSVRW^-LM-V#^WeWNSSMM<<#^L>SuRt<1-RW-<LvVRWVSuMSVe^M>SO#vV1SR^-vv-1#W<SuuR<1^u>S{1<v^uR#-VMSVWWve-uW<<^->R%1vu1-R1-MMeV#R8eSu^<v#->WQ1vP1R>#-uM>V1WLeeu^<L#S<^7vL-1WRV-YMRVVWue>u1<M^u>#bLLS1Re<S-MWV<}#v-#W>u--EuLuV>S#uvVu^e>^juvL#L1SSSL<VSVRS^uLVv<1R>uvMv#W#L>RLW<^Le#FRuS>M1>S{>L^11>u-eLVV#W#e>RMS-MVVu^>LS1LRWSe><4<L^1vW-LM^^evKRue1V>8#1>R-eL#1L>o#LMv<-^We1upvR#VeLu^L11LWeSRML<S^^-vu^vW#V>!->LV1<W>-^Le<e^ReLZ-v^#vR--WL11&W-SVMM<>^1eMde<S#LR--^L#V-WWS<MsVW^Veu(>v1#MR--#LL--W^Svu-<R^<eu(RvVuuR>-1LMVSW#SLuS<^^v>-.Wv^#DRR-VLL1VW1SMue>v4MM-VeR1-LM><S^SeMW#S#u><1^Mu<1>R1SSb_<^WLV>W^SsuR<V-#Me1vW11-u>-LMSV^}><L#S><+L:<L<1cSSu#V^<R>-j><M#u>^-uL-1#W<Seu^V0^WeR!1vR#>#u-uL#1uVSWW-1<<^^^1ejvM1>#8R>M>V<W%W-u1<vV2>ReVLS1RRV>4MeL^^SWeuVM1#S^V>-LSv>RM>L-SVV1vWWuVv-<W>ve1X>1VR<R>-WM-#vSvM1<<^W>R--vv1#1LRR-vvV#-RSRt-LMVVu^>S^eLve##>L--L^1vW-->LMV*^>eVuvv>#1>Muev>1LW-S^M<<-^>e<MMvS#V>v->LR1MWeS#MLV-^^e<X-ve#<>2-RLV1VW>S1MM<e^#e<4Sv^W2R--WL<1uWRS1Mu<>M1eMbev##vRS-^LvV-WWS<MF<-^Veu:>v^#^Re-#LLRVue<##-Wu-WvvIeV1#uR>-1^WSuu><L^u^L>L-S1WWV-LM-<R^Le<u<uN#H>1mj-e1RW<-VS^V^#1RMuSv^VW>#>M>-G>vL1SR^<R^Ge1QWSMM<<V^u>>1LRueSu>VVWMeRmeve#u<<^#>R Vvu#S1#-MMeV#W1eSu^<vWuS1t<vu1RR^-uM>V1>M-vu#<v#S>W9vvx1W>1-#MRV^WueSu1<M#e>#)vLS1WRv-MMWV<W:eRuR<u#>>1AMLe1WRLSSLVVv^-eWuV<h#>>V7u>>11RMSeM^VL^Se^uvv-#W><EvLR1VRuSSMRVM^ee#1WW--VM^,u#R1<RASR#Se<u=v1#<#1R1-M1%^WSRee<u#SevhLvR1L>u-WM1V-^RSMu><e#^>eXSAL1LRW-L-.Le^u>RMlM-#>eMFuv^1u1^S#M#VvWMeeMVuv^^>>0WLS#uRu-LM-M^WMeuuv<v<c^ef^L<1MRe-VSLMRVv>1>-u1<_Ru>^eLuVv1#MReVvWM>-.e<1^L>>-SLS1Mv###R>-1LMR<u><1#SWk-^vLpWve#&RR-VvLMeW1SMue<R^L>S(^<V^uRW-VL_V>WVSuu>11W1>ew^vL1-R^-#M-1>W#SXuS<V^L>>Z1vM1eez-LM-V^W1e-uW<<^3eL=Vvu1>R1-MM-V#WLS>u^<v#->RP<vu1RRV#uM>V1WMeSu#<L#S>^&vL-1WR^-4MRVVWLu^u1<M#eLN11RMS^M1M^<^^vuML>#e1--LLz1VW<Seu<VL^>>^uuLe#vRS--MRV-R?W<u<<>^<^M-MvR#LR-.ML-1WVW>^uv<S^,eMuuvRvMRRSWMeVeV^R>u-<W#eeZg#e^uVve##>LV<^WSuuvS>M>VA^ReV<^>.-RLMvv^eS1Rh-LMv<-^Wvu1-W>SWLv1!W^eRuRv-MLV1^^evF-<>u->Z-RLV1<W>S1MMV-RveLz-v^#VR--WL<^/>LSVMM<>^#eMunv#^<><-^L1V-WRS<MG<R^VS<)>vR#MRS-#LLVSW^-Lu-<R^<evxRvV#uR>->LMVeW#SLuS<R^v>-^Rv<#mRR-1LuVeW1SMWe<#^L>SHWvv1-RW-<LNVRWVM)u><1^M>-uVvL1SR^v1^#SvEWML#W>vsvvg1^WLSVMVV1Lj1MWve-uWW#-LLeVRWVSW-SV1^VVRRSSuL-uv^>uLR<1-1eRe-uM>V1-#vV#RR>- L<V^vu1SR<-UMRRv!Mv^1><<#e>#nLLS1^RvS-MWV#W9eRuV<u#>>1SM1>1WRVSSM^Vv)eL-#><M^->V*uL>RWMu<R^>>#uVve<<RM-SMSV-W^>^uV<S^e>RIkLeu<<L#^>v--#VSvuL<V<#VLW>e1uMveeeLVVLWRReue<W^WevSSLR#L>M-lM<VMLW1WWSS^MvRMQLL11>Rv-vM#-SLR1MWeS#V->e->L-uuvS#<>x-R1Re-Mu<vMvVu^#eL6SRDS<M><-L11WWRSVMuWL->vVVGWe-<LvVM^1evW>g-MU<R^VvLVSR-SLL6VR^#SMSLuLvS>S-Wv#1-RR-LMuVWVuSMuuuM#R>#9^vMV-^uS-uSVu^YeRu<MMv-eg>uLS11WR#uSL-<L(VRu#vL^vR#.<vmVeR1R#S#MLWL>-ue<v^0>#-VL-LV#-S>MeVV^LR<uLvM#<RW-vtS1RRLS-MVVv<Re#uuv<uR<S#->Wz<#^S#u1<#^uRLELL-1eR-^u->L11MWeS#MLMVW<WLSuu1<M#euu10^-SUu^-uv#V<WheR##RLJvM#1<RAeeM1M#<#^L-M<L##>v-xLLvvRuS^M<<>^WeV>eu>#VRS-eL#gMvR1VRuS>V^>LwtvL1W>_-#L^Ve^SR#u-<1^<eL>-e^ueve##>Lv1WVe<uVv-V1e<D-vW#+RW#^>^-eL#1L-S<<#<e#--v1#Lve^v>u->L1>>-V<V#1>LuuuV1vRMSVLVVvW<SLWSuMMM<e^#v<1+>uS<LMVe^WSvS<u<<(eK->vW#uRe-<MLV>VLSvuLuv#e>WrRvv1u^L-uMwVL^MeeT-vW<-#>ge-S1RRvS#R-1LVu#V>WS<&1L#eLeM;Wv<#nRR-VuueRS1SvM<<#^L>S<MRM-MMS<V^S>SsRSvRV-xMRVVWue>V1-#-1VM^ee#uLvS#^#>#Rp^v>1eR#-L#&eSuMLM1->1:VLvV^WV1S>u-MMeV#S<v1#1R#erMe1^W^SWMv-LMSV1WMeeV1>u^KeWdvL-1WbM<-W,e^TVuS#>>VnuL11uV-R>MI<##ee?WMeSuV<u#>uVV#WL1RVR:>WSv--_^MRL#-#ee>_uL>11-vvS#R>SC<vR#L>v-#M^<vWee1u-<-^1>Ld-Le#uRuEM>1--LW1<R9SRMV<ueRe#uMv-#>>L-SL^>1u#Vv#WVMWueVuuv>e1MLV-^eSuMMSRMR<-^We<<LRW-vM-Vu^WSVRD1VR1vR<#>M->-W>v>MQ<LV1uW>L^#1>^-^v111R-S^u1<ML111WRSVMu^-dVvv1M#--#M1-RvNV-WWS<1M>Tk^LV#+^V-juOV#^vS<u1SVMW<W^<e_v>RvSvMvVVWvReu1v>#>>e^VeWKWv<#YHS<RW<R>uV<<#V>>->Le11vV#VRW-<Lreuu#<}#^W^e^s-(Wv>1SR^-v#MeMbSvV#-WMqHM-1Mvv##R#-LMSR<uLvM1R>uS)L1V1RWSuM^-<E<XuR--SW>>S1Wg^s1vV1RRV-uV-eVgSv>#W#V^&eLivL-1Wk#<#^v>>u<->VL>u-_LLG<<u1^RvS-1e>eT^vu#WRe-RMWVe<eWI-V<e^R>^SVv-1S1^#e>ShuL>11NM<>^R>>uMvM#LRe#e><.}LR1V-uVL<MWL^-S#uLvS#^u1V1WLeRMv<1^<>v71-1<<>M-WLVVeWR1VRvSWM<VT-}uW1WR^R^>v+vL#1LWSL-#^>M4Svv#M1e##>1->L11M-=MS^<R-6VL^{-SS#<>.-Rv#eLW>S1MM1R^#eL.SV^#eR--WL<1HWRSSMuVSWSeM4Sv##<RS-^LvV->uS<MO<R^#eu}Sv1^v>#-#LvVS>1Svu-<WR<e^hRv1#uRe-1LWVeRWS1uS<R^vS1yWv<#_RRVWLuVeW1Svue<W^LSjR<vv#uRWuLLrVRWV!uM#<1^v>e3WvL#VR^zVLMVWW#StMS<V^u>>Q1<-1eRW-LLKV^WVe-M>Vu^0>S&V<j1>R1-Mve1eWLSuu^<1#-eW7<<M^uRV-VM>^VWMeeu#<L1->^;1L-1-R<-MMR1#S^e>uR<M^>>#hLLS^^>eS-MSV<WveRMV<u^S>RQMvL1#>>SSM^Vv^-S<u<<v#R>>:uLS11>vQvM#V#^SS#uvv-#WS<?#LR1RRu-uM11M^eSWM1vS^{>vMpLW1<R&SRu1VuWue1u^ve#W>Lu%eH1vR<SWLvVG^ReVLu<M#1>#-eLS1LRSS^LVV>^Weeux<v#V>u->L1#MWeSSMLVV^^eVn-VW#>>zoMLV1<W>u>MMV-^-eLuVv^^LR--WL<^wRMSVM^<>^-eMuev#^<uR-^LSV-R<S<M_<R^VS<(>v-#M>1-#L<VSW^--u-VL^<efhRvW#uS>-RLM1VW#A#uS1v^v--u^v<#^RRu^Lu1eW1uML1<#^>>SuVvv^uRWM<LLVRW-SuMV<1W#>euWve1S>L-vVWVWW<S0MeVS^ue1P1#u1eR#-LvS1SWvSWuWVt^=eLNV<L^<R1-SMe1>WLeSu^VV^^>WuMvg#uRV-uM>1^WWeeMV<L^v>^QvL-1W>R-oLVVVW-e>u^<M^-e<3LvW1^-LS-MWV<>5SeuV<e#>eL&Mv<1#><<LM^1u^--Wu<<(#Re#u^L>#<RM-LM#VL^SSRL:v-^^><DVLR1VRuS>M^VMW^e#MMvS#R>v--LS1<ReSRLLVu^>e1vMVL##>L-SLS1vS#SWL<V>^ReVuu11#1><-evW1#WS-1MvVe^We<uwVR#->u6WL1#7WewMML1SLeevuevW^L>z,1LV#u>vS1MM<eRMeLu>v^Rv>e-WL<15eRSVvW<>W1e^Tev^#LS^-^LvV-R>-1MKV^^Vr#A>v1#Mee-SLL1>W^-Mu-#e^<SM,evV^&R>uvLMVeW#-<V-<^Wv>-M1v<#pRRn#^WV>R#SMLW<#^L>Sj^<-1->#-<vuVRW#SuM><^^M>S:#<W1S>1-v<-1-W<SuuR1e^u-v:1<v1-R#&uMSWVWve-uW1<WL>Ruvvu#WR1-WMe1WRVeSM#<v><>Wd<vh#e}#-uL>V1W#eeu#<LW%e>Jv<21Weu-FMRVVRL-^u1Vv#e>S%LLS1^Rv-LMW1LWHSeuV<L#>e1!-Le1^RLM#M^1M^-S>RR<O^^>VLSL>11RM&ePRVLW>e^MMv-^M><uMv^1V>ES>MWVM^ee#M<V1#^ev--vN1<R5SRL#V#^>S#uM1W##>L-SvR#<W-->M<VV^ReVuuv>#>>M6RL##<WSSRMvV-^ee<uuvRRA>uXWL1#v<LS#Lu<SW1ev,-vWW<^M-Rvv1uRWS1ML<eR#W<dS<1#v>e-WVL1JRReIMu<e^1eL;e<V#LeSRMLv1eWWSSM2#o^VSuu1v1#LRe!eLL1>W^uvMM<W^1eYuivVReR>&1vWVeWWSLv^<^^v>-MWve#!>^-VLWV>RvSMMe1v^Le7)^<^1->#-<vMVSWVS-u>^v^M>e2#VLVuR^FMM-1#W<S#uRV#WM>>uVvMWLR#-LMS1RW-e-MW<<^V>RsVvu#SeM-MLSV#>^eSu^<vWuSlh<<M1RR>-uM>V1WMSSu#Vu#SeRUvvu1W><-1MRV#WuqVu1V?#eeWW^LS#1RvM>MWV<Ww-R-^<u^W>1uTLe#NRL3zL1VvWSeWu><7#R>VuLvY11>MSeMSVL^Se^MVV<#WeV7rvM1VRuS>L^1u^eSWuL<v#^>v--LW#VRs-^MV1L^>e^uM<e^^>LFhL^WSW--#M<1MvueVu-v>><>M-eL#^L#0S^LM<-W#e<u#vR^#uM->vV1MRvS#ML<SWRRE?-<W#<>1-RLV1uW>S#MMVR^#SL!SvR#v>-uvL<1MWRu1MuVW^1Svuvv#^uRS{1LvV-WW+<L#<RWveuuWv1#LReu#LeVSR1SvMe<W>LezuRVL#uRS-1LLVeRVSLvS>W^veukWV>#9SL-VvL1^W1-Hue#-^L>S%^Vv#1RW0LLm1^WVuvu>V^^>>eu1vL^RR^-vM-1>W^S:MR<V^1>>I1vM#-RS-LL-V^WWe-uW<<^(SvxVv-1>>#-MM-V#RL>#u^<V#-Su/<vS1RSV-<M>V^WMSuu#1>#SS^eVL-##R<-uMR#WWu->e><M^R>#uuLSW<Rv-<uLV<R+eRuV<u#e>1qRLe1#R#SSM^VvW>eWu<<P#R>RiuL>11R1SeM#VL^SeSuvv-#W>>t7LR1VRu-uM1VM^ee^uLvS#^>v&vLW1<R.-vMVVu^>e1u1ve##>LZ9L^1vW-SWMWVk^ReVuRv>#1>M-eLe1LWSS^M-<-^We<ub<3#V>u->vL1MWeS#MLLM^^SMQ-<W#<>u-R<V1>W>-<MMVL^#-<qS<R^#R-&WL<W#WRSVMuVS^WeMuSv#R1RS-^LvV-R>S<LM<R^Veu(>v1^ve^-#vVVS>>Svu-<W^<eLKR<v#u>--1LvVe>#W#uSV#^ve<=W11#H>eMVLu1eW1uWue<#^LSfIRvv^uRWLMLwVRWV=uL1<1Wv>euWvL#VR^FVLRVWR#SKLW<V^u>>u^<>1e>>-LLvV^Wve-M>1u^CSBHVVc1>R1-ML-#vWL-vu^<W#->WK<vZuLRVNLM>1eWMeeu#<LeR>^uLL-1WR<-uMRVVe-e>MV<M#e>#dLLS1-u>S-L^V<vMeRu1<u#>>1KVue1#RLSS>RVvWTeWu<W^#Re<_uvW11RMSeM#^-^SS#uv<u#W><&jLRZVRuS>M1VL^ee#uLv-#^>v--v#1<R,SRM#V#^>e1uM^ -1LuV>^Se1MLS>M>V9^ReVV1R<-WMR<-Wve#W-S^MVV<^We<ul#S>>LL<eWve1WSS^M<V1^^ev ->u-vLMVVW^SuBevW#1<-W<eLPSv^>1LvV>W1e<u^<WVvRedvL11-W^#<>u-^LvV--^vR#V<eW_euD>v1>LLMV>WM>9u#<##:>S-WeMu:vV#uR>V1^<>Suvv-M+<S^v>-UW#SSeu><e^VVSW-SMue<#eRvL1VW<SeM^<S^vVeRLSuu><1SvLM1VW1SLMRv1WL>-u<<k# RW^Le<X1vM1e-R<R#-eRJ<vM#SRWFM>RMSvu1>R1-M1eV#WLeSu^<v#->WbRW#1RRV-uL8V1WLeeu#<L^MW^dvL-1WR^-kM>VVW<R>u1<M#ee^PLL-1^RvL-MWV<WGe>uV<u#>S1evLe1#RLSSM^1u^--WeW<C#R>VCuL>1#RM-LuuVLW*e^uvv-#R><AVLR1V>#S>M1VM^-e#uLvS#^eR--LW1<RLSRMVVu^>SSuMve##>1-SL^1vW-5uM<V3^ReRuuv>#1>MuvL#1LWSS-Mv<-^We<M1vR#V>ujLL11MWeS#uv<S^^evuuvW#1>i-RSe1uW>S1MM<e^#eLuMM^#vR--W<>1DW>SVMuW>^1eMdevW#LRS-^<v<>WWS<Mb<R^Ve-}>V1#<Re-#LLVSW^-=u-#WWRe}0RvV#WR>->LMVe><SLuS<^^1>-zWv<#(>>-VLMV>WRSMue<#RLS1:^v<1-RR-<L#VRRVSeu><1^Me#j#vv1S>RVRM-VWW<SVuR<V^uS>GSvM1eR#-LMS1BWv-uue<<^u>R.>vu1>R1uMLSV#WveSuW<v^V>WM<<M1RR1-uMeV1WVeeu#V##S>R(vv11WR<-hMR11Wueeu1<L#e>WYLvS#LRvS-MWV^W4e>uV<u^R>1oMLe1eRLSSM^^vRLeWu<<Z#e>VlvL>#^<#SeM#VLW#e^uvv-^)WSA)L>1VRMS>M#VM^Se#uLV<#^>v--LW1<RCSRMVuL^>e1uMv-##>v-SL^cvW-SWM<Vu^ReVuuvS#1>M-ev-1LWSS^MVVV^We<u2WuS-LvV<^^eSuMSWMR<S^^evVvRWeRM<<SWWS=uSS^M<<e^#eL1>WS-R>u-RL<1mWRvoMLVu^1eMKe#S-MMuVSW11uRMS<M7<RSVvX1-R?-VMVV1WuV-W^SVM><W^<ewvSRR-LMS<>WtSuSRvv#RRS=VL7&>vR#ZRR-V1vRMu^vL#WRe^<e^G^vv1-4><S^1eLuWL1#uRWkVL>1Wvv1-RR-SM-VWW<vV#e><-Su^V#RVS-MuVRLxVRWve-uWWv-S>e -vu1>R1V^^>eW.S<u#^R<-MM-*1vu1RRV-u#<V^W>eeu#<LeWL#1LWWe!uW<L^-e<uLeSu><M#e>#v>WReWuR<vM>V>W=eRuVW1-uMW1VW>SWSV-HLLVv^-eW<V><--L<<LWRSRuLVu#eV<WSe^uvv-eMLWVe^>SvMr<<#RRv0>v1#1^SSWLV1LL>1VR&SRMVR^^SSFuMve##:VVV^WSVu+ve^^><Cee#u^v>#1>Mv<WeSPi-<1^L>#-Se<<#vR#V>u->#11MWeS#ML<S^^evM-L1#<>T-RLV1u>MS1vM1V^#eL*Sv^#veV-WV<1uWRSVMuV-^1e^wev#^SRS-^Lv1{WWS<MF<RRLeucev1#vRe-#LL#SRLSvMt<W^Ve{u#vV^ue:-1LMVeR^SLu-<^^vL^+Wv<#ZRS-VLuV>e1Svue<#^L>-m^v-1-RWc>LpVRWVSuu><1^MSeu^vL1SR^-vM-#KW<5iLJ<V^u>>j1vM^uR#=<LVV^W<e-ML<<^?>RMVvV1>R#-MMSV#WVeSu^Wv#->>U<vk1RRV-uv>^<WMe-u#<<#Se-0v<-1RR<-MMRV#Wu-(u11M^M>#4<LS1RRv-<MW11RPeRu^<u^S>1hMLe^#>uSSM>VvWMeWu#<5^e>-%uvx11>TSeM#VLRSSfuv<L#W>^_dvL1Veu#RM1VV^ee>uL<1#^Sv+<LW1^RQS-MV1u^>-1MVve#>>L9ML^#^W-SWMeVAW;eVu<v>#1>M-ev<1LRMS^M#<-^-e<u&V##V>V->L11MWeS#vL1V^^e^2-v-#<eV-R<V##W>S>MMVM^#S1.SV^#eR---L<1<WRS>Mu1>L1eMuMv###RS;#Lv#uR^S<MV<RWveuy>v1WM>1-#L^VSW-SvM1<WR<SWrRv>#u>M-1LRVe>#SSuS<-^ve<!W<<#+eRp^Lu1MW1S#ue<>^L>Suevv#VRW-^LPVRWVSu#^<1^#>e?SvL#<R^-vvWVWW#SyMu<V^u>>b1vv1eR^-LMSV^WVe-MWVM^X>RQVvW1>R#-ML-VRWLeSu^VM#->W:<VD^1RV-uM>V1WMS<u#V<^^>^w<L-##R<-6MR#VWee>u#<M#S>#KRLS^^>vS-MRV<WueRu-<u#>ee)ML-1#R#SSM^Vv^-*uu<<u#R>1=uLS11>MR<M#VL^SSMuv<r#We1bLLR1VRu-WM1VM^e-#MvvS#^>v--LW1eRt-eL^Vu^ee1uRve##>LuSLR1vR9SWMVVIW1eVML<V#1>v-evV1LWSS^vv1V^We1u*ve#V>^-><1#MWeSWMLV%^^e^G-VW^->7-eLV1LW>SeMMV-RveLuuv^^MR--WL<^{1eSVMv<>^WeMu<v#WLgu-^L1V-WeS<M^<RRVS^5>vW#M>_-#LeVSRRKuu-<S^<eSjRvV#ue>-eLM1uW#S1uSVu^vS-MVv<#vRR-WLu1<W1&MMu<#^1>SXevv#uRW-<L<VRW1SuMj<1^v>e+#v-1SRR-vLvVWW<S4uRVu^u>eU1vL1eRW-LLS#VWve-uW<W^3>>tVvu6>R1-MMeV^WLeSu^<v#->WD<vu1RRV-uMS1uWMeeu#^1-1L>V1WSS#ML<<#SeWWuSMu1<M#e>#-LLS1^RvS-MWV<Wm-RuS<u#>>1zMLe1^RLSSL-Vv^-eWu1<q#>>Vhuv<11RMSeM#VL^Se^uvVV#W><37LR1VRuS>M1VS^ee#uLv-#^>v--LW1<R9SRMWVu^>e1uv<u##>L-SW{e<u>v-M1VW^ReVuuR#-VMLVuWRS1Mr<M^M>V^>e>u!vR#VJ^12WRSM-vve^1V4S>evl-vWSeLvV-WVSvSVuV<u>--^vWL>R_SeLLVMWWeMMQ<^#V>S-Wvu1RR>S#M>VeVMeMu^<Mv-WM-1LS1<R<S^u.<RW<e1u^<##v>>>vuu1^W-SSueVR^Re>uVuAVV>S-V-S11WVS^M^M<1MeWujv-1S>>->Le11V^RuSWL>W<evWVSWu><1^Me-WMvL1SR^-VM-VWW<-MML<V^M>>8#vM1eR#uLL#V^W<e-uR<<^L>Ru#<<1>RW-MLuV#WLeSu^V1#->SF<vu1RRV-uM>1SWMeSu#<1#S>^BvL-#bR<-sMRVVWueSu1<MuS>#sLLS1WRv-bMWV<LheRuV<u#e>15MLe1#RLSSM^V#^-eWu<<MeR>V(uL>e-MVVu^#eVe#s#vL>uSRL>MSWMe-M<<v^>>vuMvR1#>9S>LLVeWSeWuS<-<v>vpRvvvu^V-vM>V^^SSeuSve^Wev8MuS<M^vR#-vM>#<SMue<11^W#>1vRvu1RRL-TV^^#eRuRu116>eO#vMVv^LWW-MMRW>WMe>S^M><e^#eL1WR#S<MLVeW^SMuv<v##<S^ReMAev#SWu-VV^^1uRuS<Mf<ReSv<#4R1>^MMV>LL1VW^Svu-V><Ve(tRvV#LR>-1LM1-R#SLu-<^^1>-qWv<WJ><-VLMV>W#SMMu<#W<eS&^v11-RR-<LBVRWV-Su><#^Me%D#vL1SR^-^M-VWW<S2uR<#^u>>uvvM1eR#-vMSVWWve-WW<<^}>RH1vu1>R1-MMeV#WLSMu^<v#->>#uvK1RRV<^WxeRuM<*<M#MReLRV<RVW#u><^^->SuVLS#>><-MLWVVWeS1M#<v^#e^>SLS#<RSRR-1vvWMSVSvue#->^>Sv11VR^-^-<1:^SeeuuMM^-eLSRu21V^uSeuv<NWSSVuSvv<S>SSS:R#%#<RSu11u^L>L,1<>^SRRevF>vWWS-u-V1M#Le#-vMRVS>veuv%Vv^<R1-1vV#1>#-5uR<V^LS6MVv&Wue^DMV-WSRWeR<v^#R->1v##1RS#1>v-RLV1uuLv##->M^WeWdSv^#v}1VSW^SK-MvR^<<SWueMrev#S-Me<W^#SMuS<1#^>^-eeuu<v1#MResW>eVSW^SvML<W^<e&ue<R#uRe-1LvVeW#SLLSVS^veFGWvV#mRS-VvL#uW1S<ue<^^L>S.^vv#>RW-^LTV>WVSuu><1^V>eq^vL#MR^-vM-VW>uSHuR<V^u>>A^vM1ev^-LMSV^W<e-uR<<^P<R+Vvu1>R#-MMeV#WLeSu^<v^L>Wk<vr1eel-uM>V1+W<u#>>L?udLLLVSSeuSVM^veRuvqW#vR1-RLeLMRue>MV<#^We^WMe-uV<u#>MSVLWWeeR<-<M^Vv^-MM#^>v-REeVVRz1^R>SeM#VLKWv#1<RL-eL^1MWvSvu#S>M-VM^ee#M<=-#^>v--LS1<RxSRL#1^^>e#uMv-##>L-S<^1eW-SRM<Vu^Re^uu<SWM>Mm4L#1vWSS^Mv<-W^e<uuvR#^>u->L11M>9S#ML<S^^evuuvW#<e^-RLV1uWeS1ML<e^#VL4Sv^#v>+-WL<1rWRSVMu<>^ReMzev##<_L-^LvV-uM<^^v>R5^)RLR1V-vuSV-Vue<uM<##1>--1v<1SWR-Lu-VVWPSu%e<u^M#1-1LS111v>^uS<R1S>e,>vS<v#1evvvVWR#S+M>vW^Se1u<vv#1R>Ev->1<WvS1M1ML1#>e3WM#^OR#^LeHz1vM1eu-<v^R>SWVSVuW<<^wuL1WR<S>-S<1WuVWWeeSu^<v-RL^VVWvSSMWVL^<e<c^eeM)<L#S>^uVI*1WR<-(M-VVWue>M^V<#e>^2Lv*1^RvS-vW1MW0e>uV<M#>>W+Mv-#vRL-uM^V<^-eWu<<8W&>V+ML>1WRMSeM#VLW-e^uvv-#W><,MLR1V>WS>M1VM^Se#uvvS#^<v--LW1<RuSRMVVu^>e1uMve#W>L-SL^1VRRSWM<VlrSLR#<W--LMRVe^WSMx-<R##VuRSe<u/vR->MMS^e1-M^WWvR-1S#V1v#-L1vu<>uRMLuuM>eveS-^<W#SMSRuSeLLVV^WSM>Rve#W>W-#eMuuv##LRSnReWV-WWS<Mu<R^VeuuS^##MRS-#L<VSW^Svu-z>^<enjRv##uRe-1LM-eW#SLuS<W^v>-XWv<#NRR-VL<V>W1SMu-<>^L>Sn^WRSGM1<WLM1MWVSuu>^-QVvu1##WSLMe-VL^VWW<S(#1><-ML:1WRVS-MuVu^<VRe-e-uW<<-#L-1WRuS--uMu<>eW=v<<v1RR-#LSVeR<eeMRVv^ue^8<v>#V>1-LL11#VeeeMv<e<WR{S-Mv<-^^SSL<V>W>S+SLLW#Re^euyev<RSSeLB1;V>>LuvVMM^V>^-eWu<VMv>>VJuL>1WRMSeM#1<^-e^u<v-#R><IoLR^VR^S>M#VM^Se#u<vS^R>#--Le1<RvSRMVVu^>e#uMvS##>V-SL^1vW--vM<Vo^ReVuuvS#1>Mu?L#1LWSSWMvVj^We<WzvR#V>u-eL11MWeS#ML<S^^e#8-vW#<>M--LV1uW>vS#L>W-ee<u#v^#vR-VVWveu,-<^^<>S4+v)1vvWReRS-^Lve1uS<^^C>SeF6oLRRWS<M-VuWLSM8R<p#SeM>LLL1WRLR.MS<#W^^>-e<u#1>--^vu1eWVS>S#v^^veSu_<M^u#<eWLV1#R1-LNMVW^M^#e1uu<<##>M>-9-vL1SR^L>WLeSu<M1#8>W^uevj1vM1e>WRvMSV^WvSuuW<<^xeey^vu1eR1-LMeV#WL-SM<<v^.>WqVvX1-RVtLMSV1W<eeuR<L#S>^2v<W1WRV-HMSVVWue>u1VM#e>#pLLS1^RVS-MWVSWkeRuV<M#>>#JMLe=#RLSSM^V<^-eWu<<H#R>Viuve11RMSeMWV1^Se^uv^eSRLMV<Le1-RuS>M1WLGwv>1>>vSWL#Vv^S1VR}SeMWVu^>e11^WS-<M#K!Le1vW-SW^^>-xWvMuL<u#1>M-eW<SMML<>#^VuWMe<u(vR>#MM<-WMSMGSvR#SVwWWevs-vW>WLu1%^-Su>><R^u1eeRL-11W>S-e-vS#<1MW-SVMu<>SRvu1>Rv#<>u-^LvV-u#vW^1<e^>eu_>v1eMuSVW^#e>ueSVM1<W^<e/<vRv-vLP<#Wle(keS<M><^^v>-<>WW-uLQ<-WLeuuWMW1S>V-1LWVSvV#1RW-<LnRM,R<<V^>V(1vPVev<#^R^-vM-RVuvvL1>>MSuL#V#RRSMMW-<L<V^Wve-1e>v-SL^VRWv-sR^-^MeV#WLMS#<R<o#M-11RL1Reu-uM>V1RvR<u#<L#S>emvL-1We<-<MRVVWue>u1VL#eS#!eLS1^RvS-MW1vW2-RMv<u#>>1tMLe#VRLSSvvVv^-eWu1<G#e>VuLL-11RMSeMSVL^Se^MVV^#W><n3v11VRuS>v11o^ee#uLvS#^>S--v><FR}S>MVVW^>e1uMve^u>L-SL^1VW-S>M<1MWWeVuuv>#>>M-eL##<>RS^Mv<-^-e<uFvRRV>^->L11MRWS#MV<SWR-u%-vW#<><-RLV1ue>SWMM<e^#ev:S<u#veuWwL<1zWRSRMu<>^1-Me-v##LRS-^Lv1uWW_<S<<R^Veum>v1^MRe-W<<VSWRSvu-<W^<e!4R-1#uR>-1LvVeW^SLLH<S^v>-sWvW#%RR-VvL#uW1SLue<>^L>Sz^Vv#LRW-VLTV>WV-Mu>11^R>ed^vL1-R^cLM-#W>uS0u><V^M>>qSvM#e>^-LMSV^W-e-uR<<^mS#AVvu1>R#-MMeV#WveSu^<v^S>Wz<v41e>u-uM>V1SSv>1RRv-Wu^1&WX-LuWVMMeVWWue>u1R^SSL<V#vq1>RvS-MWeL <<Mu#<1#>>1sM#ARSM<v-^V>^WuSuu<<0#Ru>VV^-SRMu<-<RV<^-e^uvv-Sv>1NuLR1VRuvvM^1M^ee#uL^V-SLuVgW#Svu^v-1#eKlRvRVMWS-WL1{{LW1vW-SW1SVMWMeVuuv>e1MS<SRue#MQ<>M1<-^We<u_vR#V><L>L^11WeS#ML>R8#v^#MW-#1>L-RLV1u-v<7^VVC^#eLUSv^#vR--WL<1MRvSVMu<>eWLWVSRWSvMuVe^^SuWW->M6<R^VSLMMv1#MReUvLLVSW^!vM#<W^<e_ARvV#SR>b^LSVeW^SLML<^^v>-MWv>#OR>-VLMV>WWSMM-1)^Lein^<M1-RW-<vM1<WVSvu>VM^M>e}#<<#WR^-#M-1#W<S+uR<V^V>>;#vM#uR#-<MSV^<We-uW<<^O>RK1vu#S>S-MMSV#W1eSu^<vW-eS <vu1RR1-uM-V1>MSeu#<<#S>^jvvV1We<2#MRV^Wue>u1<R#eS#uvLS1eRvS-MWVRWzeRu^<u#e>1xVLe1WRLSS#MVv^-eWuV<+#R>VuLuM11RLSeMWVL^Se^Lv<-#W>V!fL>1VRRS>v11#^ee^uLv-#^><--<W#1RjS>MVVM^>SVuMVe#R>L--L^1<W--MM<1+^-eVuMv>#R>M-eL#1LRWS^Mv<-^Re<uOvR#V>u->L11VWeS#MLVmWPev_-vW>eLvV-WVR#uu<RMv1S^#eLISRu-#LLVWW#WWeWu<^uRe*WvV1MWWS>M>M1^1eSu1uv^MR>3e?qVuWRRLMh<-V#eS-RSVM^<W^<eO11R<SMM4VWWVe-uu<u#<<R^#>-&Wv<S1u>VL^VV>W-SMue<#W<#-Y^vv1-Re-<LHVRR#SVu><#^Meu/#vL1Se^-#M-VRW<SuuR<1^ueS&#vM#&R#-<MSV^Wve-LL<<^u>Rg^vu1>R1-MvbV#WLeSu^<v^u>W%<v-1RRV-uMeV1WLeeu#SL#S>^kvvx1WR<-zMRVVWue>uR<M#e>#E<<-1^RvS-^Me^uvvR#^#RRR-V1M^SSRM1<L#R>eGe7#1#R--#-<1L^eSSSu<MVReL_1v^<1WLeM>1f1LR1VRuLv^ReVNeu-1#>M#R>#--LW1<u1v>^L>V^SSuuMve##M-Ve^We#MM<S^1>^g^Leuu<v#1>M-evWLvWSS^MvVL^We<uy<e^T>u-eL11<WeS#ML1SR7evu8vW#V>:-eLV#LR S1M<<e^^eL:Sv^#v>1-WLV1XWSSVMu<>^1eWIev##LRS-^LVV-WW->M=<R^VeM3>v##MRe##LLVSW^S<u-<W^<e)lRvV#uRS-1LMVeWWMMuS<^^vL<-1S<2,W#RM>e#>^v#M^ev<v-VWM^Luu-LWSMS>E1V#^>L>R--Rvu1vW#-Oe^V^^Me<^M#+^RvLveV#M1M-ueL#SKSW;<>v>>RWe<1e#1WM:LL1e1<W^Ve>0-vL#R<V^R>W=<v SSuRV<#-eLkRve1W>MS-LRV#L-1SR<-5MR1#v1e>u1<M#->#yLLS#Rn<S-MRV<WueRuV<u#>1^{MLe1#R<SSMWVv^-VWu<<%#R>1huL>11RMSeM#VLWMe^uvv-#>m^n;LR1Vu^Vs^ReMuKuMvM1e-RM<1VV#e>u^<-#SeV-Sv>#<RM-WMVVeW1S#uv<#^^#S-Sv<1S1ReNM<VM#<evuL<<<R#SS#LW#1^vS^MVvvW>eve><<#v>1x1FL<uR>-vM-VV^SeMMMv>^/<-WMeL)Sv^-9MS<R^^SLu-<##W>W-Sevuvv##LRSvuW#SLuWM>#<>-^#e<%>v1#MMv<^WPeLW^S>u-<W^<SM>>vV#uR>-^LMVeW#-<MV<^^<>-?Sv<#nRRuVvSV>W#SMuS<#^V>SuRVq1-Re-<LuVRWVSuu><R^M>Ss#vV1SR^-vM-1IW<SquR<V^u>SK1vM#vR#-LMSVWWvS:uW<<M!>R?Vvu1eR1-MMeV#WLeSu^<V#->Ws<vM#1RV-uM>eWt1<u1RR--1L^VVWSeRM1<vMe#^Wue>u1Rv-VL>-FeS-^WuWR>V#<#e1R^VLSv#VLMMMWu#LLeRS<7)Vu^<L<R#-vLWVeWuS^eM<}^&VLWMe^uvv-^>VRP!LR1VRMS>M1VMW-M^uLv-#^>V--LW1<RN^eMVVu^>e^uMvS##>L#SL^1vW-SRM<VJ^ReVuuv>#1>v-eL#1LRGMWMv<-^WvL1^L#MVvuS^-LmS>ee<>LeS#V^jWRVW1MVX1RMLMev#W^ee1ex?L>#MR<S^LuuW^><evRVVwSu#LL-M-WS#wLWRR<e_#-^1#<W9v#<MVe>S(MWMM<VuW1eWoS<VL->u-VeMu1vV#uR>VW^1SufRv-#1>^-VLSVRR1SvRR-WLuV>W1-v>L<#^L>SlRvv1-RW(1#uVRW1Suue<1^M>e.#-<1SR^-vLuVWWVS(uRSV^u>>*1vL1eR#-LMSV^Wve-M%<<^p>Rd#v#1>R1-M1<e>u1vSVZR^ZL>>F^vr1RRV<##eev.1e-<#<L#S>^V>RLSSM<VLV<^<eFv>1#><IuMeLuR<eSuVVM^Le^B<2W#V#g-M-RV<VeeWu1<M<R^u>-sev^#5R#-WLuV>R:e-v-#S^#e<wVv^RLR>-#VvVSW>SLve##^Reu V#1>V-e>V)RLW1<RZ<S#Re<--vL1RReSWLM<-WRe#Ru-vM<Vq^RvM#xWeSRL<1uWWe>u><bMV1-^We<u&^LS1L^V1^>Sv3>uS<^^v>-FWv<#U>eu<LeVLSR-R<#<MW-SvMLLS#MS<-#1v^RW:WR-uMu<>^1Sv>Sv##LRS-SLvV-WW-1M^<R^1eugSv1#MReu#vMVSWWSvM)<W^Ve2ue<e#uR--1L<VeW#SLuSVL^ve;:Wv##ARR-VLu1:W1SMue<#^LeYp^vv^1RW-<L.V>WVSMu>V^L#>e!#vL#MR^-vM-1>-VSAu><V^1>>U1vM1eVW-LMSV^WVe-uR<<^Q<RqVvu1>R#-MMeV#WLeSu^<v^L>WD<vQ1eB^-uM>V1/W<u#>>LYurLLLVSS>uVV1<^>esW<71->1S-Le1VWLSRu1<S^#e^(<v^#W1-S-LVV-V>e^u1VvWueS6#<t1e>L-<L!V<WvS-uWVb^u>1/1L-#W>M-M-vVeWWe#u><uWO>vD>L^#<RMR#LuV4WLSLe-<##1>W8Wi<#V><->><D#L^1vW-<V^v>u--v^#<RS-!LUVvLW1WWSS^MvW1_Sv^#5^MSRL<-SLR1MWeS##WR-ZVL^x-<L#<>K-Rv#_RW>S1MM<-^#eLoS<R#RR--RL<1vWRSVMu1>RMeMpSv##vRS->Lv#uRLS<ML<R^1euy>v1#M>v-#L1VSWWSvu-<W^<S1rRv1#u>C-1LMVeW#S^uS<^^v>-lWv1#+RR#1LuV>W1SLue<^^L>S^^vv1-RW-VLzVRWVSuu><1^M>-f#vL1SRRu<M-VWW<vu&#-VuuR^>LeS^eW<^LWS<VV21RLWvML&vR-L-eu#1^Wevee,?><M#<R^tuSW1#RL1e>M-uM>V1u<vM#>RV-WLM1vWuS^uVVM#-VVW<e>u1<M^-VS}LLS1^RVS-MWV<RMM>uV<M#>>#%MLe1#RLW_M^Vv^-e>u<<u#R>V^uL>11RMSSM#VL^Se^uvv-#W>^KZLR1VRL-VM1VM^evv#MW-SeL11LW>eSuS<MM#V<^>e1uMRvS^LBVLLR^<W-SWM<>#h-vW#uR->u-uM>W#evMu<e#^>uNLvLLSWS-<MSMRW^eLMvu1#W>LSSMS<1R>R>PM-eLe1uW>S1VWeug>vL<<WS-#R-&ML<1zWR-#SM<>^1eM9Sv##LRSNRLSV-WRS<MM<R^VeuM>VM#MRS-#LvVSWeSvLuVR^<eLDRv^#uR>-1LM1MW#SvuS<>^v>-rWv<#-RR-VLuV>W1Svue<#W->S8^vv#HRW-VLGVRLVSuu><1^L>e_#vL1SR^-vM-1GW<S_uR<#^^>>01vM><MeV6#-e1uLv#1S<1^^>RrVvuR-u-<L^->^4V<M1S>V^u>St<vg1Rue<M^^>>WvSvu#<L#Su^1lW7-LuWVM^SV#WWe>u1<MSvM^V-W^>>Mv<v#->^WMSVuV<u#>uL1uWce^u-LS^<><u#L-#1<u^M>VXuL>#^##SeM^VLWue^uvv-WWeL0dL>1VRMS>MRVMReS#uLv-#^><--v/1<ej-^MVVM^>e#uMv-##SLu+L^1<W-SRM<Vu^RSVu1v>##>M/ML#1LWSS^L-<-^We<uuvR#V>u->L11MWeS-ML<S^^eVuWvW#<>}v1W<ev3e<L1M>^-^v>1LRR#V>1-WL<1{-L<R#SReI<vu1VW>#<>M-^LvV-uuvV#e>A^#eW)>v1#M__VA^vSDCWv1^LR-D1eMuMvV#uR>v1^S>SMuv#^{>>^1>-oWv<#dRR-V1WW>W^SRue<#^Lu#1SRuS-_WVvW1eKu#SuML<1^M>euW#<1SR^-vLMVWW<S2LR<S^u>>+1vM1eRe-LvS#vWve-uW<<^%>>cVVu#WR1-MMeV#WLSMu^1v^R>WF<vO1RRV-LM>^1RWeeu#<L^<>^ WL-1WRV-EMRVVWMe>u1<M#e>#QLLS1RRvS-MWV1W>eRuV<u--M>1VW}Svu><S#ReL9sv>1^<MWe>V%uL>eWM1eW>#SL#R^<R*V-11V<#sM#LMvec>uvjMue><>-SWvR1-u-WMeSMv<1#ReLR>vv#<ve#>>L-SL^#V<<SWM<VC^>eVuuv>^^uL-eL^1LRJS^Mv<-^W#1u:vR#V>L->L#1MWe1#ML<S^^e<7-vW#<>o-RLV1uRMS1MM<e^We>rSv^#vi^V-WMSh-R<<^#>ub^evuVv##LRSL>^>eOu>vV#L>--RvLGS<M#MRe-#1-eeG>v<#RWWruLu#vWR-LRS--LMVeW#MR^L>V-<Le1^WSSvRe-WLuV>W1v^1S><-#etudvv1-RWv<^>>>u-vV#S>W^Levq#vL1S>R>WM-VRW<S<uR<V^uS>!RvM1SR#-vMSV-Wv--ue<<^u>R&1vu1-R1uMLuV#WveSuW<v^u>WM<v#1RR1-uMeV1WVeeM#<##S>WUvv;1WR<-mMRVRWue>u1<L#e>#jLLS1^RvS-MSV<WYeRu#<<#>>1.MWve^M4<LMRVS^-eWu<R>-WM1V<W-SRMv<V^V>WWy<<uvv-#WMe1vW-SVMvMV<V^u.-L^#W1>-?Me1LWMSWuMVO^^>V)SLW#uRR->M#V>WeWMuM<^^M#->Ru#1VRWR#-uVL^eWMuRvW#e>e>^vv1MRuS<?VLvVSWv-LuR#Se1>es>v1#Me^uL<u^WeRSMM##V>vluAv1V^>eOLLv1V<WLSLM1^WevSevMVu^S-WSSL!#<R}eeLV1<^--^uWL-RW-WMWVe11WVe-ue#1RLS1Tv1vWWW-M#V>^L^Ru><R^M<R^R>-%Wv<>#M-VWWuRLG><VueVH^L>S8^<VvoRW-<L0VeWVSuu>V^W#>ex^vL1-R^-vM-#WRMS=u><V^M>>hRvM#->>-LLuV^W1e-uW<<^Ne1%VvM1>RW-MMeV#WLSeu^<v#->Wi<vM1RRV2^M>V1WMeSu#<v#S>^^vL-1WR<-uMRVVWue>u1<M#e>W6LLS1^RV-RMWV<W(vS1R><S-LLVRWeeWMMv-^R>#Wu->u<<b#RM^1(M^u1LMeWSv--RS>VRv>-11#u^><RVL<uV>uvuSL^^W>SVS-uMe1LWVeWMMbR#^>>^>eRuMve##e<WvL^1vW-SRM<V7^RS#VMv>##>M--L#1LWSS^eV<-^We<uMvR#1>u->>11MWeS#Mv<S^^ev3-vW#<>4-SLV1uW>S^M^<e^#eL<<RRS<L<VLW^S^WeS-Mu<>^1M^1>RWSSLuV^^<eM2-S1Mv<R^Veu1LW#S-MM-^L1VSW^SvLuoQ^<eu?Rv^#uR>-1<ML-W#SvuS<W^veuPW<<VWRR-1LuVeW1SMue<#ML>S+^vv#kRW-<LzVRWVSuu><R^M>eI#v<##R^-vM-eVuvvu1->^A<LS1JRoSvRW-WMSV^WvM1#S>^h0uMVRR<1SRR-MMeV#*WL-#VR^^uuxf<v51RuSV<WYe1u<u1v1#MPtMW1RVeSuuSVv^LeR}L<u#WR1--MR1MW>Seu^<e^S^LiLvW#L#:S<M>VSW^S1MWL<^R>^fV/^VLR->SL<VSV^R>MW<M#Re#uMv##V1S-1MVV^W^W<--<RVWeuZWe#uRvS#^>vuu-R1<RUSRM1Vu^>e1MvVV##>v-SL>1vW-SWv<Ve^Re1uuve#1>v-evW#MWSS>MvVL^We<u(vR#R>u-eL11<WeS#ML<SWMev&-vW#<>9-eLV1u>^S1MM<e^^eLZ-v^#vv--WL<1_W>SVMu<>^1eMmev##1RS-^Lv1uRuS<M+<ReSv<#cR1>^MMV>L<1MW^Svu->u-VLe1wv#euR>-1LMe<u><1#S>>>S-SL^R1SuLMMv^#e<uRvW^MRWs#vuVSRVSMM^VLWveZuv<<vWRWouLWL1^L-8M#MWV#>LUW<LvW>^+VL-1WRRWW6R<VWieMuv<Lv^>M-uLv1v1 >-u><<WMeW_#vM<->6.#uu1WW^-uS^u-^#e>2Le-MM<L#S>^1UWSeRu^VL^-e#dWvW1S<M^<>#HLLS#R1<S-MWV<WveRuV<u^SeMTMLS1#R<SSM^VvR--Vu<<u#R>1=uLe11>v9<M#VV^Se>uvv-#W><u<LR11RuS-M1VM^ee#uWvS#^>v--LW11R0SRMSVu^>e1uLve#^>L-S>^1vW-SWMVVY^ReVuuv>#1>Mm1L#1LWSSRMS<-^We<<1RN-WuuV#^#SRuM<W^VV8WLev!-vWe1L<V^#^eVuS<e#R>I-ee<u<v^#vR-LeWveSu^vR#veB^^e#Oev##LM1V^^<e#u><#MMVM^Veu}>^1SSuS1u^#Ssu>SVMV<W^<e=VWW<SWMW<R^1S<WWS-uS<^^vvMV-R^SeMpVW^MSUp#vv#^Re^<e1;^vv1-cM<W^ueeuWvL#uR#jV>-uLvL1SR^vQ^S>eXVv>VR>M-Mv<V>Rv1->L-LMSV^-vvR1R>S-<Lev1W<S9u><VMe#eWLeSu^VVL<>Wq<v?#MRV-uM>V1Sdeeu^<L#S>^7vL-1W-L-HMeVVWue>u#<M#-SWKLvu1^RvS-MWV<R/><uV<L#>>ehMv%1#RLe-M^Vv^-e>u<<M#RSVeLL>1#RMSeM#V#^S-^SVv-#R><6uLR1-Ru-MubVM^-e#uvvS#W>vJALW1<R<SRMVVu^>e1uMve^WW#-SL>1vRLSWM<VxRR-Luu<A#1>M-eLe1L>S-MMvVL^We^u}v>#V>u,eL11VWeSeML<S^^evMMvW##>8-RLV1VW>SRL<<e^#eLMLv^#<R-s;v#15RMSVLV<>^#eMOSv##1^S-^LvV-R-S<Mu<R^VMWh>v-#MR--#LLVSW^Leu-VL^<e1ARvV#uR>W^LM1<W#S<uS<W^ve<S^v<#LRR=VLuVeW1Svue<>1L>S)^vv#-RW-VLn#R1#Suu-<1^M>e%evL^S-S-vLMVWW#SOM<<VRueu.1v<1eRR-LLuV^Wv-MuW<W^f>e3Vvu1>R1tMMeVRWLSLu^<<#->Wuvv 1SRV-vM>V1WM-eLv<L^M>^_vL-1>R<u_LWVVW<e>uR<M^<>#MLvV1^R#S-MSV<WLeRu>LW#>>e8ML-1#RvSSMRVv^-e-u<<F#R>1IuL>11RM-MM#VL^Se>uvv-#W><<-LR1WRu-MM1VL^ee#WLvS#^>vyBLW1<RnSSMVVu^>e^uMve##><?#L^1vW-Lu#WevSSLR#L>M-(M<VMLW11WSS^Mv>V-RvM1<ve^,>u->L1#v-VS#M<<S^Revh-vWW<e>-RL#1uWSS1ML<eWWSRHSv>#v>u-WL<1qWRS^MuVJ^1eL5ev##LRSQ#Lv1uWWS^Mr<e^Ve1uWv1#vRe8BLLV-W^Svu-<S1<e4HRvV#^R>-#LMVeSQSLuS<^^<>-X>v<#p-1-VLLV>W^SMue<#^L<S?^vv1-RR-<LqVRWVSuu><1^#>e2#vL#!>L-vM-VW-1<<#^W^-VLS1eWRS)ue-<L1V^Wve-VMRW-uLe1WWLSuu#VVM-V>WLeSu^WR-!LL1^vM#vRV-uM>WWxWLS#WRv-uLeV^Ru1>>L-cMRVVSvvv1#>vSSMR11WLSR-<<L#S>WAveeue<u#>>1v<W>SVMu<L#>e#WU-#u<<}#R>VVuL>1#RMSeM#VL^Se^L#v-#>><&LLR1VRu-MufVMWue#uLvS#W>vJMLW1<R<SRMVVu^Se1uMve##>#-SL^1vRMSWM<Vw^ReRuuv>#1>L-eL#1LWSvMMvVv^We^ujvR#VSu>SL11#WeS#MLVM^^eW11vW#R>A%VLV1MW>S1MMVu1#eLESv^#-R--RL<1v#RSVMu<>W<eMBSv#WL^J-^LWV-WWS<M<<RRV^Vk>ve#M>L-#LVVSW^<#u-Vh^<eMiRv##uR>W^LM1MW#S<uS<W^vS-<Ev<#<RR-VLu1uW1YMLw<#^#>S{Svv#<RW-<L#VRWeSuMT<1^M>e.#<<1SRS-vLVVWWVSjuRVh^ueun1vM1eR#-LvS1WWvSvuW<W^c>>+VVu^uR1-1MeVeWLS4u^1v<v>WXWvA#*RV-1M>Ve#Reeu-<L#->^6<L-1SR<-JL*VVWue>u^<M#e>#.LvL1^RvS-MeV<WDeRuV<V#>>1ZMLS1#RLSSM^V^^-eWu<<k#R>V9uL>eVRM-MM#VW^SeWuvv-uW><J,LR11RuS>M1Vv^ee#uL<u#^>v--L>1^RnSRMVe#-evb#Vv-^V>L-SL^RWu#<##^WV&vv##v>;>WMWVVWve1R;-^Mv<-^Wue#<R#S1M-VRWZeV--<1^MeMS^L<#uRS#V>S-RLV1uW>^SMM<e^#eLYSv^#veuW)L<1uWRS1Mu<>^1eM^1v##vRS-WLv1&WWh<L#<R^1eus>v1#vReGWLRVSW>SvMM<W^<eQ{R<1#uRe-1L<VeWWSLuS<W^veBpWvV#FRR-VLuV-W1SLue<^^L>Sx^vW#MRW-VL.1VWVSMu><#^MeuS#vL1SR^--M-VRW<Sv-R<V^u>>&#vM1SR#-L#SV^W<e-uW<<^7>RHV-#1>R#-MM-V#WLeSu^Sv#->W <vu1RRV-uM>V1WMeeLV<L#S>^*1L-1WR<-cMRVVSWu>u^<R#e>#qL#ReWuR<e^Le^u<L-1R<L^X>1fMLe>>u#VV^eVVW<eWu<<A-vLVVMW<S^M<S-LMVL^Se^<1RP-#y#V-W1SMuW<z#>VvW<e#uLvS>RM<1M^-><uu<e^WVM^>e^uWve##>L1MW#S1ML<>#S>SKMe#u#v>#1>MVLWWSMuRLRVRWu^>e>u;vR#VuvVuWRR<u><W##V4^>evO-vW-LM<1ML#11W>S1MMWTg1L-1eRRR1>M-WL<1mWRSVMu><e1evM<v##LRSL>W^SMuS<v#eWR-SvW1-RNS<uSVv#LShu#<v#v>>i^L^1=R^#L>z-1LMVeP-vv#RRS^1>-EWv<#9RReVW:W>W^-oue<#^Lu11>##SvMe<#^<e^bWvM#W>RSuLL4W<W1SR^-v1*eeu#v<##R#-ev<v#RySvMe<-#-eR-Wvv#V>v-LLv1WRW1S>u-MMeV#-V<M1W>V+LM-11#1-)u--LLSV1WMeeV#RR/1L>VeWMeRMuvb^ee<uuvu#^>V-VMe1Vv}^^RvS-MWWRH>vv#vR#W>)>1WWeSvMM<1^e#v;LL-#^R<SSLWVVWrWLeMLe^v>vu1LS#V#^WW>1yLLR1VRuL<^WWLWke#uLvS#^>v--^LR<RM-MMVVu^>Me11R7->LM1;V>1VReSWM<V3SMLR#<^TS>L<V_^eSuuMvW^MeLtee1MVvR#V>uLeWWS<uM<<#<>WuMM?1#R#SWMuVe#>eVu#<V#<>Vg>v>u.vS#vR--W1#e-u1<<^L<SW>eMiev#>VMV<WW#R>UR<*#<WS_-vv#DW>S-sW<eWVSu{WvR#v<>^Se0BRvV-#MRV^^eS7u#vv#uRS^1>-lWv<#YRR-VLuV>W1<^ue<#^L>S<^vv1-RW-<LgVRWVS1tL<1^M>e%>vL1-R^-<M-VS#<S9uR<V^<>>p#vM#u^#-LMSV^uWe-uR<<^quRKVvu1>R1-MMeV#>LWLu^<v#->WN<<u1R>#^1M>V^WM-Wu#<L#S>^-<L-1WR<-MMRV#WuSM-S<M#e>#HSLS1WRv-?MWV^#qeRuV<u^1>10LLe1>^LSSM^Vvu<eWuV<G#RuVkuL>11RLSeM#VLWvvuuvv-#WLRKnL>1VRuS>MRvM^ee#uL>v#^><--LW><RASRMVVM^>e1uMVeve>L-SL^1vW--RM<V7SReVuLv>#1>M-eL#1L^-S^Mv<-^>e<uMvR#>W#->L11M>MS#Mv<S^WevuLMW#<>4-RvR1uWeS1MVLe^#eLASR-#v>_-WL<>:WRSVMu<e^1eM;eV#<<RS-^LvV-WW-1Mk1RV#eu:>v1#MRe-WLL1>eRSvM7<WR<e!P>vV#uR>-RuMVeW#SLLS<^^<>-ZW^<#)RR-VLMV>W1SMLeMW^L>Sk^vv1-ev-<<5LeWVSuu><1^M>-.#<uR!R^%RM-#WW<SuuR<V^ue%S1vM1eR#uLMSVWWvSL-W<<^l>R1>vu1eR1-M1eV#WLeSuR<v#->WMRS#1RRV-uVMV1WLeeu-<L^MW^svL-1WSR-DM>VVRL#Mu1<M#ee13LLS1^evS-MWV<WyeRuVVv#>S1uvLe1#RLSSM^VS^-S>M<<H#e>VueL>11RMSeLuVLWue^uvv-#>><uM<11VR<S>L>VM^ee#M<<-#^>^--vM1<RsSRMV1M^>eeuM<E##>L-SL^S#W-S-M<VM^Re#uuv>xu>M_uL#11WSSSMvV-R9e<uLvR#^>ux+L1#vRuS#M1<SW<evY-vWW<eM-RLW1uRsS1MR<eWWe<FSvS#v>--WL<14Re-MMuVM^1e-Gev##Le!sMLv1VWWiLMI<R^Veu-ev1#VRe--LL1rW^-vq^<W^#ezMVvV#<R>-1^uVeW#SLMu<^^<>-2WW<#4RR-VLMV>W1SMueWR^L>S_^vV1-RW-<vM#<WVSuu><R^M>eT#vL#5R^-<M-VWW<S5uR1VW^>>)#vM1SR#T>MSV^W<e-uR<<^M>R!Vvu1>>t-MMeV#WLeSuR<v^LeVg<vQ1Ru0-uMeV1>MWMu#<##S>eEv<<1W>1vuMRVeWuSMu1<M#e>#-vLS1SRv-VMWV1WwSu-e<u^u>1vVLe1^RLS-M^V#1-eWu<<G>->VUML>1R^MSeM#VL-#e^u<v-RW>^*6L-1VRVS>MSVMW-W1uL<L#^e>--LW1<e:-<MVVV^>e>uM<###e<c<L^1WW-+#M<Vt^RS#M<v>#S>MuRL#1LWS-RLM<-WMe<MSvR#V>u->vv1MRMS#MR<S^Revu-<Y#<>v-Rv#1uRuS1LvM>^#e#ASVu#vR--W<<1<WRSRMuVu^1ee2e<W^uRS--Lv#eWWS<MdVeRueuuLv1W0Re-#LL#QRHSvM1<WRLe_yRvV#ueM-1L1VeRUSLMX<^WvS<tWv^#Pe<-VLVV>R^Ruue<e^LSMG^vv1-eW WLf1/WVSVu>VM^Me-jWvL#vR^uMM-VWW<-ML<<V^#>>M<vM1eR#*<LRV^W>e-L#<<^2>RfVvS1>R>-ML<V#W<eSM^VS#->S4<vS1RRR-uLMvVWMeeu#^u#S>Wrvvu1WR^e3MRVVWuuWu1<L#e>#<LLS1^Rv-qMWV<WG_Re><u#>>1C1Le1-RLSSvDVv^-eWuV<7#R>VuLve11RLSevrVL^Se^Lv<^#W>V:lL>1VR>S>L^1>^eeWuLV>#^>v--v>1WR=SSMV1-^>e1uM<-^M>LlML^^MW-SWM<V/#>eVuMv>#R>M--L##LR1S^Mv<-W>e<uuvR#V>>->L11MWSS#ML<SWRSW4-vR#<e#-RLV1u>>-RMM<S^#evNS<v#veu(3L<1MWRtvMu<>^1Svuvv##VRSu1LvV-WW-1MW<R^WeuMWv1#MRe-#MvVSWWSvML<W^1eQuRv-#uR>-1v>VeW^SLuSVW^v>-9WvV#,RR-VvL1uW1SLueV>^L>Sd^Vv^WRW-VLhV>WVS>u>V^^e>eGWvL^>R^-vM-1>RLS0uS<VW->>I1vM#->L-LLMV^>Me-uW<<^KR>lVvM1>RR-MM-V#RL>#u^<v#-e#C<vu1RRV#uM>V1WMeSu#<L#S>^YvL-1WRV-?MRVVWLSuu1<M#eL#VV^-S<M=S-LQV<WYeRM#-1#>>1;MLS1#RLSSM-ve^-eRu<<y#R>1cuLS11RMBvM#VL^Se^uvv-#W><u1LR1VRuSeM1VM^ee#><vS#^>v*uLW1VR8SRRVVu^>e1uLve##>L--L^1vW---M<V7^Re#u#v>#1>MVLWWSMuRLRVRWu^>SduBvR#VuuVSW.e-XS<W^>WS-WvV#Lve#<>z-RLV1uW>S1MM<-^-eLtSv^e1MvVS1#e-uevRMLVM^1eMke#R-MMWV#WVWMW>-WM7<R^Vuv1vW#-VmW<^^SeL-><e^M>S-WLe<#WR-vM-<#^^eMWW-^uS<^^vu=1eR#S<M#<#^eS<-LvR#RRe-vv(<-W^SRM^<#^^e-u-SLML<1^M>e<SW#SuMeVLWu^eW1SWuR<V^uu-1RWLS-M><#W_R.u^v#u>V>^i>RCV#MS-MW<1^W>W)-<1<W>M-VL-1uWuSe0><V^#eVN<vV#>>>^t>e5vL-1W(^<<WLeWWve>u1<M#e>#SLWeR^R1S-MWV<WTeRuV^W>>>WTMLe1#RLSSV^eLe-e>uS<Y#R>VvS^eeSM0<V^>e#%MLSuV<L#W><f6WMe1uS<uM^##^ee#uLW1-#L^u-RueWMM<OvV>1Q#v>#fRvRVSLv>^SS^ML<>#V>>jv<d1WRWSSSM1L^ee-uev>#eeLuL2LuM<v#V>u->1WeWGS<W#v>uDeL^#uv>#R>s-RLVRv-M<^#L>W-ee<uLv^#vR-LeWve>uW<#ML<-^1eM{eRVS#L<-^VWV-WWS<MAV1^Veus>v1#MRe-#<L#gW^Svu-<W^<SMrRVV#vR>-1LMVeW#S<uS1^^W>-lRv<#FRR-eLu#>R-SMuS<#^v>Su#vv#eR>-<LSVRRuSuue<1^L>e{>ML1SR^-vLWVWWVS LRM#^u>eI1vM1e>M-LvSLRWvSjuW<V^jeWdVv-#1R1c Me^MWLe-u^<<#->SS<vB1RRVuRM>V#WMS-RS<L#->^3>L-1WR<uk>1VVWMe>u#<MWM>#u<<M1^RVS-MeV<W=eRM#<##>>WpMvQ1#RLSSLRV^^-eSu<<L#R>VZuL>#WRMSSM#V1^SeRuv<-^W><K)LR#yRuSeM11vW<e#uvvS^u>v--LW^<#MSRM1Vu^ee1M1ve^Wu<-SLR1vRMSWM<VKWeS>uuv-#1><-eL#1L> PLMvVL^We#uPvR#V>uuvL11LWeS>MLVO^^Svu^vW#<>}HMLV1MW>S1W-<e^^eL5-v^#vR-YWvW16WRSVLv<>^#eMu-v>#LR--^vvV-WWS<v51<^VeM(>v##M>V-#<L1>W^S<u-<R^<ev?R<##^R>-WLM1LW#SLuS<^W->-XSv<#oRR-#Lu^>u#SMMu<#^S>SuWvv^uRR-<L<VRWRSuu><1RMS1)#v#1SRS-vLKVWR1S>uR<>^ue#21vM1e>WjRMS13WvSMuW<<^%eeuRvu#vR1-<MeV#WLeSuW<v^v>Wyev41eRVduuVV1WVeeM><L^L>^Kv^S1WRV-gM-VVWMe>uRLM#e>#!L1L1^R<S-vWL1W?e>uV<u#>>SbM<evWRLS-M^V<^-S^u<1VS1>V}ML>WVRMSSM#1l^See-vv-#W><M-LR11Ru-7Y1VM^ee#vVvS#W>vu-8>1<RuSRMVVuWVe1LMu-##>v-SLW1vRSSWLLVR^RSLuu#u#1>L-eL^1LRM>^Mv<-^WGWulv>#VSu>SL11LWeS#ML1u^^ev>VvW#V>6->LV1uW>S1RM<e^#eLz-v^#vR--WL<1QWRSeMu<>^1e<Gev#XLRe<eouL>SRS1Mv<R^Veu1LW#S-MM-WL^VSW^SvV1R--VL>1-WS#L><-1LMVeSRvR1->R-<LM1SWW-MRe-eLuV>W1LM#^R^)>LL1RR1#u><-<LgVR-M<{1-R#-Sue1vWv-1uSVVLu1MW<S_uR^ShVL^V#RHS>Mu<1MS1DWve-uWV1eM>RxVvu1SR1-MMe##R1eSu^<v#->W_WvA^R>#-uM>V1WMeeuS<LWSeSjvL-1WR<-/M-VV>uS#u1<M#e>#bLv<1^Svx.MWV<WoeSuV<M#>>1;vLe1#RLS-M^Vv^-eWu<<p#R>#wuL>11Rv-^M#VL^Sv>1^>LSeLuV^WRe#M)ve^^>V^-e-uLvS#^^<1-AWMWuS<v^^VuWHe1uMve^WV^-SL^1vR/SWM<V;WeM1uuve#1>v-eL#1LWS^RMv<-^We1usv>#V>u#>L11MWeS^ML<S^^evD-vW#<>v-RLV1uWS-6MM<e^#MW1eRRS-LMVW^VeLu:S#M#<>^1eM<vRWSvLvVMW#S#WevR#V>u->L1^MW->MR-->LLVSW^vR#+>1-WeiK-vV#uR>X^e#VeW#SLMM<^^v>-MWu1#sRR-VLuV>W#SMve<>^L>SJ^vV1-Re-<Ls-RWVSuu><#^M>e?#vL1SR^-v");local u=0;k.DoBXxWcV(function()k.RfJdvdez()u=u+1 end)local function e(e,n)if n then return u end;u=e+u;end local n,u,r=h(0,h,e,s,k.Po_jvAWh);local function l()local u,n=k.Po_jvAWh(s,e(1,3),e(5,6)+2);e(2);return(n*256)+u;end;local b=true;local b=0 local function p()local d=u();local e=u();local t=1;local d=(n(e,1,20)*(2^32))+d;local u=n(e,21,31);local e=((-1)^n(e,32));if(u==0)then if(d==b)then return e*0;else u=1;t=0;end;elseif(u==2047)then return(d==0)and(e*(1/0))or(e*(0/0));end;return k.dotiKggc(e,u-1023)*(t+(d/(2^52)));end;local _=u;local function y(u)local n;if(not u)then u=_();if(u==0)then return'';end;end;n=k.AJbKEFfW(s,e(1,3),e(5,6)+u-1);e(u)local e=""for u=(1+b),#n do e=e..k.AJbKEFfW(n,u,u)end return e;end;local _=#k.EMUAELdy(a('\49.\48'))~=1 local e=u;local function de(...)return{...},k.vfgzocCL('#',...)end local function ue()local b={};local e={};local a={};local s={b,a,nil,e};local e=u()local h={}for d=1,e do local n=r();local u;if(n==1)then u=(r()~=#{});elseif(n==3)then local e=p();if _ and k.orhIVbAK(k.EMUAELdy(e),'.(\48+)$')then e=k.hPjynwKC(e);end u=e;elseif(n==2)then u=y();end;h[d]=u;end;s[3]=r();for s=1,u()do local e=r();if(n(e,1,1)==0)then local r=n(e,2,3);local o=n(e,4,6);local e={l(),l(),nil,nil};if(r==0)then e[t]=l();e[f]=l();elseif(r==#{1})then e[t]=u();elseif(r==c[2])then e[t]=u()-(2^16)elseif(r==c[3])then e[t]=u()-(2^16)e[f]=l();end;if(n(o,1,1)==1)then e[d]=h[e[d]]end if(n(o,2,2)==1)then e[t]=h[e[t]]end if(n(o,3,3)==1)then e[f]=h[e[f]]end b[s]=e;end end;for e=1,u()do a[e-(#{1})]=ue();end;return s;end;local function ee(n,e,u)local d=e;local d=u;return a(k.orhIVbAK(k.orhIVbAK(({k.DoBXxWcV(n)})[2],e),u))end local function j(g,a,r)local function ne(...)local l,y,p,ue,b,u,s,ee,m,c,_,n;local e=0;while-1<e do if 3<=e then if 4<e then if e>5 then e=-2;else n=h(7);end else if e>2 then repeat if e~=4 then ee={};m={...};break;end;c=k.vfgzocCL('#',...)-1;_={};until true;else c=k.vfgzocCL('#',...)-1;_={};end end else if 0>=e then l=h(6,81,1,17,g);y=h(6,34,2,33,g);else if e~=0 then for n=30,57 do if e~=2 then p=h(6,56,3,36,g);b=de ue=0;break;end;u=-41;s=-1;break;end;else u=-41;s=-1;end end end e=e+1;end;for e=0,c do if(e>=p)then ee[e-p]=m[e+1];else n[e]=m[e+1];end;end;local e=c-p+1 local e;local h;local function c(...)while true do end end while true do if u<-40 then u=u+42 end e=l[u];h=e[z];if h<=121 then if h<=60 then if h<=29 then if h<=14 then if h>6 then if h>=11 then if h<=12 then if h~=10 then repeat if 12>h then if(e[d]<n[e[f]])then u=u+1;else u=e[t];end;break;end;for h=0,5 do if 3>h then if h>=1 then if h~=-2 then for r=44,83 do if h~=1 then n[e[d]]=n[e[t]][e[f]];u=u+1;e=l[u];break;end;n[e[d]]=n[e[t]][e[f]];u=u+1;e=l[u];break;end;else n[e[d]]=n[e[t]][e[f]];u=u+1;e=l[u];end else n[e[d]]=a[e[t]];u=u+1;e=l[u];end else if 3<h then if h>0 then repeat if 4~=h then if(e[d]<n[e[f]])then u=e[t];else u=u+1;end;break;end;n[e[d]]=n[e[t]][e[f]];u=u+1;e=l[u];until true;else n[e[d]]=n[e[t]][e[f]];u=u+1;e=l[u];end else n[e[d]]=n[e[t]][e[f]];u=u+1;e=l[u];end end end until true;else for h=0,5 do if 3>h then if h>=1 then if h~=-2 then for r=44,83 do if h~=1 then n[e[d]]=n[e[t]][e[f]];u=u+1;e=l[u];break;end;n[e[d]]=n[e[t]][e[f]];u=u+1;e=l[u];break;end;else n[e[d]]=n[e[t]][e[f]];u=u+1;e=l[u];end else n[e[d]]=a[e[t]];u=u+1;e=l[u];end else if 3<h then if h>0 then repeat if 4~=h then if(e[d]<n[e[f]])then u=e[t];else u=u+1;end;break;end;n[e[d]]=n[e[t]][e[f]];u=u+1;e=l[u];until true;else n[e[d]]=n[e[t]][e[f]];u=u+1;e=l[u];end else n[e[d]]=n[e[t]][e[f]];u=u+1;e=l[u];end end end end else if h>11 then repeat if 14~=h then local h;for s=0,6 do if 3<=s then if 5<=s then if 3<=s then for h=38,60 do if s~=5 then n(e[d],e[t]);break;end;n[e[d]]=n[e[t]][e[f]];u=u+1;e=l[u];break;end;else n(e[d],e[t]);end else if 3~=s then n[e[d]]=r[e[t]];u=u+1;e=l[u];else n[e[d]][e[t]]=e[f];u=u+1;e=l[u];end end else if s<1 then n(e[d],e[t]);u=u+1;e=l[u];else if-1<=s then repeat if 1~=s then n[e[d]][e[t]]=n[e[f]];u=u+1;e=l[u];break;end;h=e[d]n[h]=n[h](o(n,h+1,e[t]))u=u+1;e=l[u];until true;else h=e[d]n[h]=n[h](o(n,h+1,e[t]))u=u+1;e=l[u];end end end end break;end;n[e[d]]();until true;else n[e[d]]();end end else if h>8 then if 8<h then for k=49,66 do if 10>h then for h=0,6 do if 2>=h then if 1<=h then if-3<=h then for f=36,70 do if h<2 then n[e[d]]=a[e[t]];u=u+1;e=l[u];break;end;n[e[d]]=r[e[t]];u=u+1;e=l[u];break;end;else n[e[d]]=a[e[t]];u=u+1;e=l[u];end else n[e[d]][e[t]]=n[e[f]];u=u+1;e=l[u];end else if 4<h then if h>3 then for f=26,77 do if 5<h then n(e[d],e[t]);break;end;n(e[d],e[t]);u=u+1;e=l[u];break;end;else n(e[d],e[t]);end else if 0~=h then for r=20,67 do if h<4 then n[e[d]]=n[e[t]][e[f]];u=u+1;e=l[u];break;end;n(e[d],e[t]);u=u+1;e=l[u];break;end;else n(e[d],e[t]);u=u+1;e=l[u];end end end end break;end;local h,_,p,c,k;for a=0,6 do if 2<a then if a>4 then if a>4 then for t=30,63 do if 6>a then h=e[d]n[h]=n[h](o(n,h+1,s))u=u+1;e=l[u];break;end;n[e[d]]();break;end;else h=e[d]n[h]=n[h](o(n,h+1,s))u=u+1;e=l[u];end else if a~=-1 then repeat if 3<a then h=e[d]p,c=b(n[h](o(n,h+1,e[t])))s=c+h-1 k=0;for e=h,s do k=k+1;n[e]=p[k];end;u=u+1;e=l[u];break;end;n(e[d],e[t]);u=u+1;e=l[u];until true;else h=e[d]p,c=b(n[h](o(n,h+1,e[t])))s=c+h-1 k=0;for e=h,s do k=k+1;n[e]=p[k];end;u=u+1;e=l[u];end end else if a>0 then if-2<=a then for o=43,77 do if a>1 then h=e[d];_=n[e[t]];n[h+1]=_;n[h]=_[e[f]];u=u+1;e=l[u];break;end;n[e[d]]=r[e[t]];u=u+1;e=l[u];break;end;else n[e[d]]=r[e[t]];u=u+1;e=l[u];end else n[e[d]]=r[e[t]];u=u+1;e=l[u];end end end break;end;else for h=0,6 do if 2>=h then if 1<=h then if-3<=h then for f=36,70 do if h<2 then n[e[d]]=a[e[t]];u=u+1;e=l[u];break;end;n[e[d]]=r[e[t]];u=u+1;e=l[u];break;end;else n[e[d]]=a[e[t]];u=u+1;e=l[u];end else n[e[d]][e[t]]=n[e[f]];u=u+1;e=l[u];end else if 4<h then if h>3 then for f=26,77 do if 5<h then n(e[d],e[t]);break;end;n(e[d],e[t]);u=u+1;e=l[u];break;end;else n(e[d],e[t]);end else if 0~=h then for r=20,67 do if h<4 then n[e[d]]=n[e[t]][e[f]];u=u+1;e=l[u];break;end;n(e[d],e[t]);u=u+1;e=l[u];break;end;else n(e[d],e[t]);u=u+1;e=l[u];end end end end end else if 4~=h then repeat if 7~=h then local r;for h=0,6 do if h<=2 then if 1>h then n[e[d]]=n[e[t]][e[f]];u=u+1;e=l[u];else if-2<=h then for f=11,87 do if h>1 then n(e[d],e[t]);u=u+1;e=l[u];break;end;n(e[d],e[t]);u=u+1;e=l[u];break;end;else n(e[d],e[t]);u=u+1;e=l[u];end end else if 4>=h then if 0<=h then repeat if 3~=h then r=e[d]n[r]=n[r](o(n,r+1,e[t]))u=u+1;e=l[u];break;end;n(e[d],e[t]);u=u+1;e=l[u];until true;else r=e[d]n[r]=n[r](o(n,r+1,e[t]))u=u+1;e=l[u];end else if h~=2 then for r=11,92 do if 6~=h then n[e[d]][e[t]]=n[e[f]];u=u+1;e=l[u];break;end;n[e[d]][e[t]]=e[f];break;end;else n[e[d]][e[t]]=e[f];end end end end break;end;local h,_,p,c,a;for k=0,6 do if 2>=k then if 0>=k then n[e[d]]=r[e[t]];u=u+1;e=l[u];else if 1~=k then h=e[d];_=n[e[t]];n[h+1]=_;n[h]=_[e[f]];u=u+1;e=l[u];else n[e[d]]=r[e[t]];u=u+1;e=l[u];end end else if k<5 then if 0<k then repeat if 3~=k then h=e[d]p,c=b(n[h](o(n,h+1,e[t])))s=c+h-1 a=0;for e=h,s do a=a+1;n[e]=p[a];end;u=u+1;e=l[u];break;end;n(e[d],e[t]);u=u+1;e=l[u];until true;else h=e[d]p,c=b(n[h](o(n,h+1,e[t])))s=c+h-1 a=0;for e=h,s do a=a+1;n[e]=p[a];end;u=u+1;e=l[u];end else if 1~=k then repeat if k<6 then h=e[d]n[h]=n[h](o(n,h+1,s))u=u+1;e=l[u];break;end;n[e[d]]();until true;else n[e[d]]();end end end end until true;else local h,_,c,p,k;for a=0,6 do if 2>=a then if 0>=a then n[e[d]]=r[e[t]];u=u+1;e=l[u];else if 1~=a then h=e[d];_=n[e[t]];n[h+1]=_;n[h]=_[e[f]];u=u+1;e=l[u];else n[e[d]]=r[e[t]];u=u+1;e=l[u];end end else if a<5 then if 0<a then repeat if 3~=a then h=e[d]c,p=b(n[h](o(n,h+1,e[t])))s=p+h-1 k=0;for e=h,s do k=k+1;n[e]=c[k];end;u=u+1;e=l[u];break;end;n(e[d],e[t]);u=u+1;e=l[u];until true;else h=e[d]c,p=b(n[h](o(n,h+1,e[t])))s=p+h-1 k=0;for e=h,s do k=k+1;n[e]=c[k];end;u=u+1;e=l[u];end else if 1~=a then repeat if a<6 then h=e[d]n[h]=n[h](o(n,h+1,s))u=u+1;e=l[u];break;end;n[e[d]]();until true;else n[e[d]]();end end end end end end end else if h<3 then if h<=0 then local o,h;n[e[d]]=n[e[t]][e[f]];u=u+1;e=l[u];o=e[d];h=n[e[t]];n[o+1]=h;n[o]=h[e[f]];u=u+1;e=l[u];n(e[d],e[t]);u=u+1;e=l[u];n[e[d]]={};u=u+1;e=l[u];n(e[d],e[t]);u=u+1;e=l[u];n[e[d]]=r[e[t]];u=u+1;e=l[u];n[e[d]]=a[e[t]];else if h>=0 then repeat if 1<h then local d=e[d]local t={n[d](o(n,d+1,s))};local u=0;for e=d,e[f]do u=u+1;n[e]=t[u];end break;end;if(n[e[d]]==e[f])then u=u+1;else u=e[t];end;until true;else if(n[e[d]]==e[f])then u=u+1;else u=e[t];end;end end else if 5<=h then if 6==h then local h,s;for r=0,4 do if 1>=r then if-4<=r then repeat if r>0 then h=e[d]n[h](o(n,h+1,e[t]))u=u+1;e=l[u];break;end;n[e[d]][e[t]]=n[e[f]];u=u+1;e=l[u];until true;else h=e[d]n[h](o(n,h+1,e[t]))u=u+1;e=l[u];end else if r<3 then h=e[d];s=n[e[t]];n[h+1]=s;n[h]=s[e[f]];u=u+1;e=l[u];else if 4==r then n[e[d]][e[t]]=e[f];else n[e[d]]={};u=u+1;e=l[u];end end end end else n[e[d]]=n[e[t]];end else if h>=0 then repeat if h<4 then n[e[d]]=#n[e[t]];break;end;n[e[d]][e[t]]=e[f];until true;else n[e[d]]=#n[e[t]];end end end end else if h<=21 then if 17<h then if h>=20 then if 19<=h then for s=32,57 do if h<21 then local h,s;for r=0,4 do if r<=1 then if r>-1 then for s=23,91 do if 0~=r then h=e[d]n[h](o(n,h+1,e[t]))u=u+1;e=l[u];break;end;n[e[d]][e[t]]=n[e[f]];u=u+1;e=l[u];break;end;else h=e[d]n[h](o(n,h+1,e[t]))u=u+1;e=l[u];end else if r<=2 then h=e[d];s=n[e[t]];n[h+1]=s;n[h]=s[e[f]];u=u+1;e=l[u];else if-1~=r then repeat if 3<r then n[e[d]][e[t]]=e[f];break;end;n[e[d]]={};u=u+1;e=l[u];until true;else n[e[d]]={};u=u+1;e=l[u];end end end end break;end;local s,a,k,c,b,h,p;for h=0,6 do if 2<h then if 5>h then if 1<h then repeat if 4>h then h=0;while h>-1 do if 2<h then if h<5 then if-1<h then for e=24,52 do if 4>h then c=s[k];break;end;b=s[a];break;end;else b=s[a];end else if h>=2 then repeat if h~=6 then n(b,c);break;end;h=-2;until true;else h=-2;end end else if h<=0 then s=e;else if 0<=h then for e=43,53 do if 1<h then k=t;break;end;a=d;break;end;else k=t;end end end h=h+1 end u=u+1;e=l[u];break;end;p=e[d]n[p]=n[p](o(n,p+1,e[t]))u=u+1;e=l[u];until true;else h=0;while h>-1 do if 2<h then if h<5 then if-1<h then for e=24,52 do if 4>h then c=s[k];break;end;b=s[a];break;end;else b=s[a];end else if h>=2 then repeat if h~=6 then n(b,c);break;end;h=-2;until true;else h=-2;end end else if h<=0 then s=e;else if 0<=h then for e=43,53 do if 1<h then k=t;break;end;a=d;break;end;else k=t;end end end h=h+1 end u=u+1;e=l[u];end else if 2<=h then repeat if h<6 then n[e[d]]=r[e[t]];u=u+1;e=l[u];break;end;n[e[d]]=n[e[t]][e[f]];until true;else n[e[d]]=n[e[t]][e[f]];end end else if h>=1 then if 2~=h then n(e[d],e[t]);u=u+1;e=l[u];else h=0;while h>-1 do if h>=3 then if 4<h then if h==6 then h=-2;else n(b,c);end else if 4~=h then c=s[k];else b=s[a];end end else if h>0 then if h<2 then a=d;else k=t;end else s=e;end end h=h+1 end u=u+1;e=l[u];end else n[e[d]]=n[e[t]][e[f]];u=u+1;e=l[u];end end end break;end;else local s,b,k,c,a,h,p;for h=0,6 do if 2<h then if 5>h then if 1<h then repeat if 4>h then h=0;while h>-1 do if 2<h then if h<5 then if-1<h then for e=24,52 do if 4>h then c=s[k];break;end;a=s[b];break;end;else a=s[b];end else if h>=2 then repeat if h~=6 then n(a,c);break;end;h=-2;until true;else h=-2;end end else if h<=0 then s=e;else if 0<=h then for e=43,53 do if 1<h then k=t;break;end;b=d;break;end;else k=t;end end end h=h+1 end u=u+1;e=l[u];break;end;p=e[d]n[p]=n[p](o(n,p+1,e[t]))u=u+1;e=l[u];until true;else h=0;while h>-1 do if 2<h then if h<5 then if-1<h then for e=24,52 do if 4>h then c=s[k];break;end;a=s[b];break;end;else a=s[b];end else if h>=2 then repeat if h~=6 then n(a,c);break;end;h=-2;until true;else h=-2;end end else if h<=0 then s=e;else if 0<=h then for e=43,53 do if 1<h then k=t;break;end;b=d;break;end;else k=t;end end end h=h+1 end u=u+1;e=l[u];end else if 2<=h then repeat if h<6 then n[e[d]]=r[e[t]];u=u+1;e=l[u];break;end;n[e[d]]=n[e[t]][e[f]];until true;else n[e[d]]=n[e[t]][e[f]];end end else if h>=1 then if 2~=h then n(e[d],e[t]);u=u+1;e=l[u];else h=0;while h>-1 do if h>=3 then if 4<h then if h==6 then h=-2;else n(a,c);end else if 4~=h then c=s[k];else a=s[b];end end else if h>0 then if h<2 then b=d;else k=t;end else s=e;end end h=h+1 end u=u+1;e=l[u];end else n[e[d]]=n[e[t]][e[f]];u=u+1;e=l[u];end end end end else if 19>h then n[e[d]]=r[e[t]];u=u+1;e=l[u];n[e[d]]=n[e[t]][e[f]];u=u+1;e=l[u];n[e[d]]=n[e[t]][e[f]];u=u+1;e=l[u];n[e[d]]=n[e[t]][e[f]];u=u+1;e=l[u];n[e[d]]=n[e[t]][e[f]];u=u+1;e=l[u];n[e[d]][e[t]]=e[f];u=u+1;e=l[u];do return end;else local r,h,p,s,o,a,b,k,c;local l=0;while l>-1 do if 2>=l then if 1<=l then if l>0 then for n=46,79 do if l~=1 then s=h[d];o=h[f];a=t;break;end;h=e;p=u;break;end;else s=h[d];o=h[f];a=t;end else r=n;end else if l>=5 then if l>5 then l=-2;else u=c;end else if l~=3 then c=b==k and h[a]or 1+p;else b=r[s];k=r[o];end end end l=l+1 end end end else if 15<h then if 13<=h then repeat if 16~=h then local r;for h=0,4 do if 2<=h then if h>2 then if h~=1 then for s=47,96 do if h~=4 then n[e[d]][e[t]]=e[f];u=u+1;e=l[u];break;end;r=e[d]n[r](o(n,r+1,e[t]))break;end;else r=e[d]n[r](o(n,r+1,e[t]))end else n[e[d]][e[t]]=e[f];u=u+1;e=l[u];end else if h>=-4 then repeat if h~=1 then n[e[d]][e[t]]=e[f];u=u+1;e=l[u];break;end;n[e[d]][e[t]]=e[f];u=u+1;e=l[u];until true;else n[e[d]][e[t]]=e[f];u=u+1;e=l[u];end end end break;end;local h,k,c,p,a;n[e[d]]=r[e[t]];u=u+1;e=l[u];n[e[d]]=r[e[t]];u=u+1;e=l[u];h=e[d];k=n[e[t]];n[h+1]=k;n[h]=k[e[f]];u=u+1;e=l[u];n(e[d],e[t]);u=u+1;e=l[u];h=e[d]c,p=b(n[h](o(n,h+1,e[t])))s=p+h-1 a=0;for e=h,s do a=a+1;n[e]=c[a];end;u=u+1;e=l[u];h=e[d]n[h]=n[h](o(n,h+1,s))u=u+1;e=l[u];n[e[d]]();until true;else local h,k,c,p,a;n[e[d]]=r[e[t]];u=u+1;e=l[u];n[e[d]]=r[e[t]];u=u+1;e=l[u];h=e[d];k=n[e[t]];n[h+1]=k;n[h]=k[e[f]];u=u+1;e=l[u];n(e[d],e[t]);u=u+1;e=l[u];h=e[d]c,p=b(n[h](o(n,h+1,e[t])))s=p+h-1 a=0;for e=h,s do a=a+1;n[e]=c[a];end;u=u+1;e=l[u];h=e[d]n[h]=n[h](o(n,h+1,s))u=u+1;e=l[u];n[e[d]]();end else local h,s;for r=0,4 do if 2<=r then if r>=3 then if 3==r then n[e[d]]={};u=u+1;e=l[u];else n[e[d]][e[t]]=e[f];end else h=e[d];s=n[e[t]];n[h+1]=s;n[h]=s[e[f]];u=u+1;e=l[u];end else if r~=0 then h=e[d]n[h](o(n,h+1,e[t]))u=u+1;e=l[u];else n[e[d]][e[t]]=n[e[f]];u=u+1;e=l[u];end end end end end else if 25>=h then if 24<=h then if h~=24 then local h,k,_,p,c;for a=0,6 do if 2<a then if 5>a then if a>=0 then for f=38,63 do if 3~=a then h=e[d]_,p=b(n[h](o(n,h+1,e[t])))s=p+h-1 c=0;for e=h,s do c=c+1;n[e]=_[c];end;u=u+1;e=l[u];break;end;n(e[d],e[t]);u=u+1;e=l[u];break;end;else n(e[d],e[t]);u=u+1;e=l[u];end else if a~=6 then h=e[d]n[h]=n[h](o(n,h+1,s))u=u+1;e=l[u];else n[e[d]]();end end else if a<1 then n[e[d]]=r[e[t]];u=u+1;e=l[u];else if-2~=a then repeat if 1<a then h=e[d];k=n[e[t]];n[h+1]=k;n[h]=k[e[f]];u=u+1;e=l[u];break;end;n[e[d]]=r[e[t]];u=u+1;e=l[u];until true;else h=e[d];k=n[e[t]];n[h+1]=k;n[h]=k[e[f]];u=u+1;e=l[u];end end end end else local u=e[d]local t={n[u](n[u+1])};local d=0;for e=u,e[f]do d=d+1;n[e]=t[d];end end else if 18~=h then repeat if h~=22 then n[e[d]]=a[e[t]];break;end;local s;for h=0,7 do if h>3 then if 6>h then if h~=0 then repeat if h~=4 then n(e[d],e[t]);u=u+1;e=l[u];break;end;n(e[d],e[t]);u=u+1;e=l[u];until true;else n(e[d],e[t]);u=u+1;e=l[u];end else if 6==h then n(e[d],e[t]);u=u+1;e=l[u];else s=e[d]n[s]=n[s](o(n,s+1,e[t]))end end else if h>1 then if-1<=h then for o=33,95 do if 3>h then n[e[d]]=r[e[t]];u=u+1;e=l[u];break;end;n[e[d]]=n[e[t]][e[f]];u=u+1;e=l[u];break;end;else n[e[d]]=r[e[t]];u=u+1;e=l[u];end else if 0~=h then n[e[d]]=n[e[t]][e[f]];u=u+1;e=l[u];else n[e[d]]=r[e[t]];u=u+1;e=l[u];end end end end until true;else n[e[d]]=a[e[t]];end end else if h<=27 then if h>=24 then repeat if 26<h then if(e[d]<n[e[f]])then u=u+1;else u=e[t];end;break;end;n[e[d]]=n[e[t]]*n[e[f]];until true;else if(e[d]<n[e[f]])then u=u+1;else u=e[t];end;end else if h~=26 then for r=14,95 do if 28~=h then local h,s;for r=0,6 do if 2>=r then if r<=0 then n[e[d]][e[t]]=n[e[f]];u=u+1;e=l[u];else if-3<r then for a=18,71 do if 2>r then h=e[d]n[h](o(n,h+1,e[t]))u=u+1;e=l[u];break;end;h=e[d];s=n[e[t]];n[h+1]=s;n[h]=s[e[f]];u=u+1;e=l[u];break;end;else h=e[d]n[h](o(n,h+1,e[t]))u=u+1;e=l[u];end end else if r>=5 then if 3<=r then repeat if 6>r then h=e[d]n[h]=n[h](o(n,h+1,e[t]))u=u+1;e=l[u];break;end;h=e[d];s=n[e[t]];n[h+1]=s;n[h]=s[e[f]];until true;else h=e[d];s=n[e[t]];n[h+1]=s;n[h]=s[e[f]];end else if r>=2 then repeat if 4~=r then n[e[d]]={};u=u+1;e=l[u];break;end;n[e[d]][e[t]]=e[f];u=u+1;e=l[u];until true;else n[e[d]]={};u=u+1;e=l[u];end end end end break;end;local d=e[d];local u=n[e[t]];n[d+1]=u;n[d]=u[e[f]];break;end;else local d=e[d];local u=n[e[t]];n[d+1]=u;n[d]=u[e[f]];end end end end end else if 45>h then if 36>=h then if 33>h then if 31>h then if(n[e[d]]~=e[f])then u=u+1;else u=e[t];end;else if h>29 then repeat if h~=31 then n[e[d]]=#n[e[t]];break;end;local h,r;for s=0,6 do if 2>=s then if s<1 then n[e[d]][e[t]]=n[e[f]];u=u+1;e=l[u];else if-1<s then for a=11,74 do if 2~=s then h=e[d]n[h](o(n,h+1,e[t]))u=u+1;e=l[u];break;end;h=e[d];r=n[e[t]];n[h+1]=r;n[h]=r[e[f]];u=u+1;e=l[u];break;end;else h=e[d];r=n[e[t]];n[h+1]=r;n[h]=r[e[f]];u=u+1;e=l[u];end end else if 5<=s then if 3<=s then repeat if 6~=s then h=e[d]n[h]=n[h](o(n,h+1,e[t]))u=u+1;e=l[u];break;end;h=e[d];r=n[e[t]];n[h+1]=r;n[h]=r[e[f]];until true;else h=e[d]n[h]=n[h](o(n,h+1,e[t]))u=u+1;e=l[u];end else if 3~=s then n[e[d]][e[t]]=e[f];u=u+1;e=l[u];else n[e[d]]={};u=u+1;e=l[u];end end end end until true;else local h,r;for s=0,6 do if 2>=s then if s<1 then n[e[d]][e[t]]=n[e[f]];u=u+1;e=l[u];else if-1<s then for a=11,74 do if 2~=s then h=e[d]n[h](o(n,h+1,e[t]))u=u+1;e=l[u];break;end;h=e[d];r=n[e[t]];n[h+1]=r;n[h]=r[e[f]];u=u+1;e=l[u];break;end;else h=e[d];r=n[e[t]];n[h+1]=r;n[h]=r[e[f]];u=u+1;e=l[u];end end else if 5<=s then if 3<=s then repeat if 6~=s then h=e[d]n[h]=n[h](o(n,h+1,e[t]))u=u+1;e=l[u];break;end;h=e[d];r=n[e[t]];n[h+1]=r;n[h]=r[e[f]];until true;else h=e[d]n[h]=n[h](o(n,h+1,e[t]))u=u+1;e=l[u];end else if 3~=s then n[e[d]][e[t]]=e[f];u=u+1;e=l[u];else n[e[d]]={};u=u+1;e=l[u];end end end end end end else if h<=34 then if 33~=h then n[e[d]]=j(y[e[t]],nil,r);else n[e[d]]=r[e[t]];u=u+1;e=l[u];n[e[d]]=n[e[t]][e[f]];u=u+1;e=l[u];n[e[d]]=n[e[t]][e[f]];u=u+1;e=l[u];n[e[d]][e[t]]=n[e[f]];u=u+1;e=l[u];do return end;end else if 35<h then for e=e[d],e[t]do n[e]=nil;end;else local h,r;n[e[d]][e[t]]=e[f];u=u+1;e=l[u];n[e[d]][e[t]]=e[f];u=u+1;e=l[u];n[e[d]][e[t]]=e[f];u=u+1;e=l[u];n[e[d]][e[t]]=e[f];u=u+1;e=l[u];h=e[d]n[h]=n[h](o(n,h+1,e[t]))u=u+1;e=l[u];h=e[d];r=n[e[t]];n[h+1]=r;n[h]=r[e[f]];u=u+1;e=l[u];n[e[d]]={};end end end else if 41<=h then if h>=43 then if h~=43 then local d=e[d];local f=e[f];local l=d+2 local d={n[d](n[d+1],n[l])};for e=1,f do n[l+e]=d[e];end;local d=d[1]if d then n[l]=d u=e[t];else u=u+1;end;else n[e[d]][n[e[t]]]=n[e[f]];end else if 39<h then for f=29,71 do if 41~=h then n(e[d],e[t]);u=u+1;e=l[u];n(e[d],e[t]);u=u+1;e=l[u];n(e[d],e[t]);u=u+1;e=l[u];n(e[d],e[t]);u=u+1;e=l[u];n(e[d],e[t]);u=u+1;e=l[u];n(e[d],e[t]);u=u+1;e=l[u];n(e[d],e[t]);break;end;local e=e[d]n[e]=n[e](o(n,e+1,s))break;end;else n(e[d],e[t]);u=u+1;e=l[u];n(e[d],e[t]);u=u+1;e=l[u];n(e[d],e[t]);u=u+1;e=l[u];n(e[d],e[t]);u=u+1;e=l[u];n(e[d],e[t]);u=u+1;e=l[u];n(e[d],e[t]);u=u+1;e=l[u];n(e[d],e[t]);end end else if h>38 then if 40>h then n[e[d]]=n[e[t]]*n[e[f]];else for f=0,6 do if f<3 then if f>0 then if-2<=f then for h=15,94 do if f<2 then n(e[d],e[t]);u=u+1;e=l[u];break;end;n(e[d],e[t]);u=u+1;e=l[u];break;end;else n(e[d],e[t]);u=u+1;e=l[u];end else n(e[d],e[t]);u=u+1;e=l[u];end else if f>=5 then if f==5 then n(e[d],e[t]);u=u+1;e=l[u];else n(e[d],e[t]);end else if-1<=f then repeat if 3<f then n(e[d],e[t]);u=u+1;e=l[u];break;end;n(e[d],e[t]);u=u+1;e=l[u];until true;else n(e[d],e[t]);u=u+1;e=l[u];end end end end end else if h==37 then local h,s;for r=0,4 do if 1<r then if 3>r then h=e[d];s=n[e[t]];n[h+1]=s;n[h]=s[e[f]];u=u+1;e=l[u];else if 0<=r then repeat if r>3 then n[e[d]][e[t]]=e[f];break;end;n[e[d]]={};u=u+1;e=l[u];until true;else n[e[d]]={};u=u+1;e=l[u];end end else if 1>r then n[e[d]][e[t]]=n[e[f]];u=u+1;e=l[u];else h=e[d]n[h](o(n,h+1,e[t]))u=u+1;e=l[u];end end end else local h,r;n[e[d]][e[t]]=n[e[f]];u=u+1;e=l[u];h=e[d]n[h](o(n,h+1,e[t]))u=u+1;e=l[u];h=e[d];r=n[e[t]];n[h+1]=r;n[h]=r[e[f]];u=u+1;e=l[u];n[e[d]]={};u=u+1;e=l[u];n[e[d]][e[t]]=e[f];u=u+1;e=l[u];h=e[d]n[h]=n[h](o(n,h+1,e[t]))u=u+1;e=l[u];h=e[d];r=n[e[t]];n[h+1]=r;n[h]=r[e[f]];end end end end else if 52<h then if h>=57 then if 59>h then if h~=57 then for h=0,6 do if h<=2 then if h<=0 then n[e[d]][e[t]]=n[e[f]];u=u+1;e=l[u];else if-1<=h then for o=24,92 do if h<2 then n[e[d]][e[t]]=e[f];u=u+1;e=l[u];break;end;n[e[d]]=r[e[t]];u=u+1;e=l[u];break;end;else n[e[d]][e[t]]=e[f];u=u+1;e=l[u];end end else if h>4 then if 4~=h then repeat if 5~=h then n(e[d],e[t]);break;end;n(e[d],e[t]);u=u+1;e=l[u];until true;else n(e[d],e[t]);end else if h~=3 then n(e[d],e[t]);u=u+1;e=l[u];else n[e[d]]=n[e[t]][e[f]];u=u+1;e=l[u];end end end end else if(e[d]<n[e[f]])then u=e[t];else u=u+1;end;end else if 57<=h then repeat if 60~=h then local h,r;h=e[d];r=n[e[t]];n[h+1]=r;n[h]=r[e[f]];u=u+1;e=l[u];n[e[d]]={};u=u+1;e=l[u];n[e[d]][e[t]]=e[f];u=u+1;e=l[u];h=e[d]n[h]=n[h](o(n,h+1,e[t]))u=u+1;e=l[u];h=e[d];r=n[e[t]];n[h+1]=r;n[h]=r[e[f]];u=u+1;e=l[u];n[e[d]]={};u=u+1;e=l[u];n[e[d]][e[t]]=e[f];break;end;do return n[e[d]]end until true;else local h,r;h=e[d];r=n[e[t]];n[h+1]=r;n[h]=r[e[f]];u=u+1;e=l[u];n[e[d]]={};u=u+1;e=l[u];n[e[d]][e[t]]=e[f];u=u+1;e=l[u];h=e[d]n[h]=n[h](o(n,h+1,e[t]))u=u+1;e=l[u];h=e[d];r=n[e[t]];n[h+1]=r;n[h]=r[e[f]];u=u+1;e=l[u];n[e[d]]={};u=u+1;e=l[u];n[e[d]][e[t]]=e[f];end end else if 55>h then if 50<=h then for s=32,61 do if 54>h then local h,s;for r=0,4 do if r<=1 then if r>-3 then for s=28,75 do if 0~=r then h=e[d]n[h](o(n,h+1,e[t]))u=u+1;e=l[u];break;end;n[e[d]][e[t]]=n[e[f]];u=u+1;e=l[u];break;end;else h=e[d]n[h](o(n,h+1,e[t]))u=u+1;e=l[u];end else if 3>r then h=e[
+loadstring(game:HttpGet('https://raw.githubusercontent.com/1201for/littlegui/main/FPS-Counter'))()
+
+local OrionLib = loadstring(game:HttpGet(('https://raw.githubusercontent.com/thanhdat4461/OrionMoblie/main/source')))()
+local Window = OrionLib:MakeWindow({Name = " Moon Hub (Still In Dev) | Version: 1.2.3", HidePremium = false, SaveConfig = true, IntroEnabled = false, ConfigFolder = "OrionTest"})
+
+OrionLib:MakeNotification({
+	Name = "Thanks For Using My Script Hub!!!",
+	Content = "Script Hub Executed.",
+	Image = "rbxassetid://4483345998",
+	Time = 1
+})
+
+local HomeTab = Window:MakeTab({
+	Name = "Home",
+	Icon = "rbxassetid://4483345998",
+	PremiumOnly = false
+})
+
+local GameId = game.PlaceId 
+local GameName = 
+game:GetService("MarketplaceService"):GetProductInfo(GameId).Name 
+
+local plrs = game:GetService("Players") 
+local plr = plrs.LocalPlayer 
+local plrname = plr.name 
+local plrid = plr.UserId local plrchr = plr.Character 
+local plrage = plr.AccountAge 
+local plrcount = #plrs:GetPlayers()
+
+
+local HomeSection = HomeTab:AddSection({
+	Name = "Player Info"
+})
+
+
+HomeTab:AddLabel("Welcome to Moon Hub " .. plrname .. "! ")
+HomeTab:AddLabel("Username: " .. plrname .. " ")
+HomeTab:AddLabel("Account Age: " .. plrage .. " ")
+HomeTab:AddLabel("Display Name: " .. plr.DisplayName .. " ")
+HomeTab:AddLabel("Player Id: " .. plrid .." ")
+
+local HomeSection = HomeTab:AddSection({
+	Name = "Game Info"
+})
+
+
+HomeTab:AddLabel("Game: " .. GameName .." ")
+HomeTab:AddLabel("Game Id: " .. GameId .. " ")
+
+local Tab = Window:MakeTab({
+	Name = "Local Player",
+	Icon = "rbxassetid://4483345998",
+	PremiumOnly = false
+})
+
+
+local Section = Tab:AddSection({
+	Name = "Player Settings"
+})
+
+
+Tab:AddSlider({
+	Name = "Walkspeed",
+	Min = 0,
+	Max = 500,
+	Default = 16,
+	Color = Color3.fromRGB(255,255,255),
+	Increment = 1,
+	ValueName = "WS",
+	Callback = function(Value)
+		game.Players.LocalPlayer.Character.Humanoid.WalkSpeed = Value 
+	end    
+})
+
+
+Tab:AddSlider({
+	Name = "Jumppower",
+	Min = 0,
+	Max = 500,
+	Default = 50,
+	Color = Color3.fromRGB(255,255,255),
+	Increment = 1,
+	ValueName = "JP",
+	Callback = function(Value)
+		game.Players.LocalPlayer.Character.Humanoid.JumpPower = Value 
+	end    
+})
+
+
+Tab:AddSlider({
+	Name = "Gravity",
+	Min = 0,
+	Max = 500,
+	Default = 196.2,
+	Color = Color3.fromRGB(255,255,255),
+	Increment = 1,
+	ValueName = "Grav",
+	Callback = function(Value)
+		game.Workspace.Gravity = Value 
+	end    
+})
+
+
+Tab:AddSlider({
+	Name = "Field Of View",
+	Min = 0,
+	Max = 500,
+	Default = 70,
+	Color = Color3.fromRGB(255,255,255),
+	Increment = 1,
+	ValueName = "Fov",
+	Callback = function(Value)
+		game.Workspace.CurrentCamera.FieldOfView = Value 
+	end    
+})
+
+
+Tab:AddTextbox({
+	Name = "WalkSpeed",
+	Default = "Number",
+	TextDisappear = true,
+	Callback = function(Value)
+		game.Players.LocalPlayer.Character.Humanoid.WalkSpeed = Value 
+	end	  
+})
+
+
+Tab:AddTextbox({
+	Name = "Jumppower",
+	Default = "Number",
+	TextDisappear = true,
+	Callback = function(Value)
+		game.Players.LocalPlayer.Character.Humanoid.JumpPower = Value 
+	end	  
+})
+
+
+Tab:AddTextbox({
+	Name = "Gravity",
+	Default = "Number",
+	TextDisappear = true,
+	Callback = function(Value)
+		game.Workspace.Gravity = Value
+	end	  
+})
+
+
+Tab:AddTextbox({
+	Name = "Fov",
+	Default = "Number",
+	TextDisappear = true,
+	Callback = function(Value)
+		game.Workspace.CurrentCamera.FieldOfView = Value 
+	end	  
+})
+
+
+Tab:AddButton({
+	Name = "Health Regen",
+	Callback = function()
+      		game.Players.LocalPlayer.Character.Humanoid.Health = 999999999
+  	end    
+})
+
+
+local Section = Tab:AddSection({
+	Name = "Reset Things"
+})
+
+
+Tab:AddButton({
+	Name = "Reset",
+	Callback = function()
+      		game.Players.LocalPlayer.Character.Humanoid.Health = 0
+  	end    
+})
+
+
+Tab:AddButton({
+	Name = "Reset Gravity",
+	Callback = function()
+      		game.Workspace.Gravity = 196.2
+  	end    
+})
+
+
+Tab:AddButton({
+	Name = "Reset Fov",
+	Callback = function()
+      		game.Workspace.CurrentCamera.FieldOfView = 70 
+  	end    
+})
+
+
+Tab:AddButton({
+	Name = "Reset Jumppower",
+	Callback = function()
+      		game.Players.LocalPlayer.Character.Humanoid.JumpPower = 50 
+  	end    
+})
+
+
+Tab:AddButton({
+	Name = "Reset Walkspeed",
+	Callback = function()
+      		game.Players.LocalPlayer.Character.Humanoid.WalkSpeed = 16 
+  	end    
+})
+
+
+local Section = Tab:AddSection({
+	Name = "Shiftlock"
+})
+
+
+Tab:AddButton({
+	Name = "Shiftlock",
+	Callback = function()
+      		--[[
+	WARNING: Heads up! This script has not been verified by ScriptBlox. Use at your own risk!
+]]
+local ShiftLockScreenGui = Instance.new("ScreenGui")
+local ShiftLockButton = Instance.new("ImageButton")
+local ShiftlockCursor = Instance.new("ImageLabel")
+local CoreGui = game:GetService("CoreGui")
+local Players = game:GetService("Players")
+local RunService = game:GetService("RunService")
+local ContextActionService = game:GetService("ContextActionService")
+local Player = Players.LocalPlayer
+local UserInputService = game:GetService("UserInputService")
+local States = {
+    Off = "rbxasset://textures/ui/mouseLock_off@2x.png",
+    On = "rbxasset://textures/ui/mouseLock_on@2x.png",
+    Lock = "rbxasset://textures/MouseLockedCursor.png",
+    Lock2 = "rbxasset://SystemCursors/Cross"
+}
+local MaxLength = 900000
+local EnabledOffset = CFrame.new(1.7, 0, 0)
+local DisabledOffset = CFrame.new(-1.7, 0, 0)
+local Active
+
+ShiftLockScreenGui.Name = "Shiftlock (CoreGui)"
+ShiftLockScreenGui.Parent = CoreGui
+ShiftLockScreenGui.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
+ShiftLockScreenGui.ResetOnSpawn = false
+
+ShiftLockButton.Parent = ShiftLockScreenGui
+ShiftLockButton.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+ShiftLockButton.BackgroundTransparency = 1.000
+ShiftLockButton.Position = UDim2.new(0.858712733, 0, 0.4985967, 0)
+ShiftLockButton.Size = UDim2.new(0.0636147112, 0, 0.0661305636, 0)
+ShiftLockButton.SizeConstraint = Enum.SizeConstraint.RelativeXX
+ShiftLockButton.Image = States.Off
+
+ShiftlockCursor.Name = "Shiftlock Cursor"
+ShiftlockCursor.Parent = ShiftLockScreenGui
+ShiftlockCursor.Image = States.Lock
+ShiftlockCursor.Size = UDim2.new(0.03, 0, 0.03, 0)
+ShiftlockCursor.Position = UDim2.new(0.5, 0, 0.5, 0)
+ShiftlockCursor.AnchorPoint = Vector2.new(0.5, 0.5)
+ShiftlockCursor.SizeConstraint = Enum.SizeConstraint.RelativeXX
+ShiftlockCursor.BackgroundTransparency = 1
+ShiftlockCursor.BackgroundColor3 = Color3.fromRGB(255, 0, 0)
+ShiftlockCursor.Visible = false
+
+ShiftLockButton.MouseButton1Click:Connect(
+    function()
+        if not Active then
+            Active =
+                RunService.RenderStepped:Connect(
+                function() 
+                    Player.Character.Humanoid.AutoRotate = false
+                    ShiftLockButton.Image = States.On
+                    ShiftlockCursor.Visible = true
+                    Player.Character.HumanoidRootPart.CFrame =
+                        CFrame.new(
+                        Player.Character.HumanoidRootPart.Position,
+                        Vector3.new(
+                            workspace.CurrentCamera.CFrame.LookVector.X * MaxLength,
+                            Player.Character.HumanoidRootPart.Position.Y,
+                            workspace.CurrentCamera.CFrame.LookVector.Z * MaxLength
+                        )
+                    )
+                    workspace.CurrentCamera.CFrame = workspace.CurrentCamera.CFrame * EnabledOffset
+                    workspace.CurrentCamera.Focus =
+                        CFrame.fromMatrix(
+                        workspace.CurrentCamera.Focus.Position,
+                        workspace.CurrentCamera.CFrame.RightVector,
+                        workspace.CurrentCamera.CFrame.UpVector
+                    ) * EnabledOffset
+                end
+            )
+        else
+            Player.Character.Humanoid.AutoRotate = true
+            ShiftLockButton.Image = States.Off
+            workspace.CurrentCamera.CFrame = workspace.CurrentCamera.CFrame * DisabledOffset
+            ShiftlockCursor.Visible = false
+            pcall(
+                function()
+                    Active:Disconnect()
+                    Active = nil
+                end
+            )
+        end
+    end
+)
+
+local ShiftLockAction = ContextActionService:BindAction("Shift Lock", ShiftLock, false, "On")
+ContextActionService:SetPosition("Shift Lock", UDim2.new(0.8, 0, 0.8, 0))
+
+return {} and ShiftLockAction
+  	end    
+})
+
+
+local Section = Tab:AddSection({
+	Name = "Some R15 Stuff"
+})
+
+
+Tab:AddButton({
+	Name = "R15 Emotes",
+	Callback = function()
+              loadstring(game:HttpGet("https://pastebin.com/raw/eCpipCTH"))()	 
+  	end    
+})
+
+
+Tab:AddButton({
+	Name = "R15 Animation",
+	Callback = function()
+      		loadstring(game:HttpGet("https://raw.githubusercontent.com/GamingScripter/Animation-Hub/main/Animation%20Gui", true))()
+  	end    
+})
+
+
+local AdminTab = Window:MakeTab({
+	Name = "Admin",
+	Icon = "rbxassetid://4483345998",
+	PremiumOnly = false
+})
+
+
+local AdminSection = AdminTab:AddSection({
+	Name = "Admin Scripts"
+})
+
+
+AdminTab:AddButton({
+	Name = "Nameless Admin",
+	Callback = function()
+      		loadstring(game:HttpGet("https://raw.githubusercontent.com/FilteringEnabled/NamelessAdmin/main/Source"))();
+  	end    
+})
+
+
+AdminTab:AddButton({
+	Name = "Infinte Yield",
+	Callback = function()
+      		loadstring(game:HttpGet('https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source'))()
+  	end    
+})
+
+
+local meTab = Window:MakeTab({
+	Name = "Hubs",
+	Icon = "rbxassetid://4483345998",
+	PremiumOnly = false
+})
+
+
+local meSection = meTab:AddSection({
+	Name = "Hubs"
+})
+
+
+meTab:AddButton({
+	Name = "Haxker 666 hub (key will be on your keyboard after clicking) ",
+	Callback = function()
+              loadstring(game:HttpGet('https://paste.website/p/f4c0bdd2-0340-4009-bf57-5d23d362aa94.txt'))()
+              setclipboard("Haxker_6666666HUB-zOq0RLP09a9zf0")
+      end
+})
+
+
+meTab:AddButton({
+	Name = "shakars hub",
+	Callback = function()
+      		loadstring(game:HttpGet("https://raw.githubusercontent.com/shakar60/USH.P/main/rotected",true))()
+      end
+})
+
+
+meTab:AddButton({
+	Name = "Peruanito.Exe",
+	Callback = function()
+      		loadstring(game:HttpGet("https://raw.githubusercontent.com/i4mitty/Peruanito.exe/main/Peruanito.exe.lua"))()
+      end
+})
+
+
+meTab:AddButton({
+	Name = "bido skins v1.7",
+	Callback = function()
+      		loadstring(game:HttpGet("https://raw.githubusercontent.com/BidoSkinsYT/BidoSkinsYT/main/Bido%20Skins%20V1.7"))()
+      end
+})
+
+
+meTab:AddButton({
+	Name = "Vex-Hub (key is in your clipboard after clicking) ",
+	Callback = function()
+      		loadstring(game:HttpGet("https://raw.githubusercontent.com/V31nc/2642/Created/VHub"))()
+      setclipboard("IStealSpermsInSpermBanksForMoney")
+      end
+})
+
+
+meTab:AddButton({
+	Name = "Moon UI V10",
+	Callback = function()
+      		loadstring(game:HttpGet('https://raw.githubusercontent.com/IlikeyocutgHAH12/MoonUI-v10-/main/MoonUI%20v10'))()
+  	end    
+})
+
+
+meTab:AddButton({
+	Name = "Googol Hub",
+	Callback = function()
+      		loadstring(game:HttpGet("https://raw.githubusercontent.com/Tropxzz/Scripts/main/Googol", true))()
+  	end    
+})
+
+
+meTab:AddButton({
+	Name = "Ghost Hub",
+	Callback = function()
+      		loadstring(game:HttpGet("https://scriptblox.com/raw/Universal-Script-GhostHub-10910"))()
+  	end    
+})
+
+
+meTab:AddButton({
+	Name = "Sirius Hub",
+	Callback = function()
+      		loadstring(game:HttpGet('https://sirius.menu/script'))();
+  	end    
+})
+
+
+meTab:AddButton({
+	Name = "Ice Hub",
+	Callback = function()
+      		loadstring(game:HttpGet("https://raw.githubusercontent.com/IceMael7/NewIceHub/main/Brookhaven"))()
+  	end    
+})
+
+
+local haTab = Window:MakeTab({
+	Name = "Fe Scripts",
+	Icon = "rbxassetid://4483345998",
+	PremiumOnly = false
+})
+
+
+local haSection = haTab:AddSection({
+	Name = "Fe Scripts"
+})
+
+local haSection = haTab:AddSection({
+	Name = "Fling Scripts"
+})
+haTab:AddButton({
+	Name = "Fe Fling",
+	Callback = function()
+      		loadstring(game:HttpGet("https://pastebin.com/raw/Ud1cg5pR"))()
+  	end    
+})
+
+
+haTab:AddButton({
+	Name = "Animation Fling",
+	Callback = function()
+      		loadstring(game:HttpGet(('https://raw.githubusercontent.com/0Ben1/fe/main/obf_K2n31uc6t2wY5A8786eR4K15sgbUF0vdQ80a0LzgvLRkSNYd89H1AS3124gMR6SM.lua.txt'),true))()
+  	end    
+})
+
+
+haTab:AddButton({
+	Name = "Click Fling",
+	Callback = function()
+      		loadstring(game:HttpGet(('https://raw.githubusercontent.com/0Ben1/fe/main/obf_5wpM7bBcOPspmX7lQ3m75SrYNWqxZ858ai3tJdEAId6jSI05IOUB224FQ0VSAswH.lua.txt'),true))()
+  	end    
+})
+
+
+local haSection = haTab:AddSection({
+	Name = "Tp Tools"
+})
+
+
+haTab:AddButton({
+	Name = "Permanent Tp Tool",
+	Callback = function()
+      		while true do wait(1) mouse = game.Players.LocalPlayer:GetMouse() tool = Instance.new("Tool") tool.RequiresHandle = false tool.Name = "Permanent Tp Tool" tool.Activated:connect(function() local pos = mouse.Hit+Vector3.new(0,2.5,0) pos = CFrame.new(pos.X,pos.Y,pos.Z) game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = pos end) tool.Parent = game.Players.LocalPlayer.Backpack end
+  	end    
+})
+
+
+haTab:AddButton({
+	Name = "Tp Tool",
+	Callback = function()
+      		mouse = game.Players.LocalPlayer:GetMouse()
+tool = Instance.new("Tool")
+tool.RequiresHandle = false
+tool.Name = "Equip to Click TP"
+tool.Activated:connect(function()
+local pos = mouse.Hit+Vector3.new(0,2.5,0)
+pos = CFrame.new(pos.X,pos.Y,pos.Z)
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = pos
+end)
+tool.Parent = game.Players.LocalPlayer.Backpack
+  	end    
+})
+
+local haSection = haTab:AddSection({
+	Name = "Invisible + Teleport Gui"
+})
+haTab:AddButton({
+	Name = "Invisible + teleport gui",
+	Callback = function()
+      		loadstring(game:HttpGet('https://raw.githubusercontent.com/0Ben1/fe./dbb6ce6f6cee4f7a5c9e20d7b88e83db2a93bf25/Invisible%20GUI'))()
+  	end    
+})
+
+local haSection = haTab:AddSection({
+	Name = "Noclip Gui"
+})
+haTab:AddButton({
+	Name = "Noclip Gui",
+	Callback = function()
+      		local Workspace = game:GetService("Workspace") local CoreGui = game:GetService("CoreGui") local Players = game:GetService("Players") local Noclip = Instance.new("ScreenGui") local BG = Instance.new("Frame") local Title = Instance.new("TextLabel") local Toggle = Instance.new("TextButton") local StatusPF = Instance.new("TextLabel") local Status = Instance.new("TextLabel") local Credit = Instance.new("TextLabel") local Plr = Players.LocalPlayer local Clipon = false Noclip.Name = "Noclip" Noclip.Parent = game.CoreGui BG.Name = "BG" BG.Parent = Noclip BG.BackgroundColor3 = Color3.new(0.0980392, 0.0980392, 0.0980392) BG.BorderColor3 = Color3.new(0.0588235, 0.0588235, 0.0588235) BG.BorderSizePixel = 2 BG.Position = UDim2.new(0.149479166, 0, 0.82087779, 0) BG.Size = UDim2.new(0, 210, 0, 127) BG.Active = true BG.Draggable = true Title.Name = "Title" Title.Parent = BG Title.BackgroundColor3 = Color3.new(0.266667, 0.00392157, 0.627451) Title.BorderColor3 = Color3.new(0.180392, 0, 0.431373) Title.BorderSizePixel = 2 Title.Size = UDim2.new(0, 210, 0, 33) Title.Font = Enum.Font.Highway Title.Text = "Noclip" Title.TextColor3 = Color3.new(1, 1, 1) Title.FontSize = Enum.FontSize.Size32 Title.TextSize = 30 Title.TextStrokeColor3 = Color3.new(0.180392, 0, 0.431373) Title.TextStrokeTransparency = 0 Toggle.Parent = BG Toggle.BackgroundColor3 = Color3.new(0.266667, 0.00392157, 0.627451) Toggle.BorderColor3 = Color3.new(0.180392, 0, 0.431373) Toggle.BorderSizePixel = 2 Toggle.Position = UDim2.new(0.152380958, 0, 0.374192119, 0) Toggle.Size = UDim2.new(0, 146, 0, 36) Toggle.Font = Enum.Font.Highway Toggle.FontSize = Enum.FontSize.Size28 Toggle.Text = "Toggle" Toggle.TextColor3 = Color3.new(1, 1, 1) Toggle.TextSize = 25 Toggle.TextStrokeColor3 = Color3.new(0.180392, 0, 0.431373) Toggle.TextStrokeTransparency = 0 StatusPF.Name = "StatusPF" StatusPF.Parent = BG StatusPF.BackgroundColor3 = Color3.new(1, 1, 1) StatusPF.BackgroundTransparency = 1 StatusPF.Position = UDim2.new(0.314285725, 0, 0.708661377, 0) StatusPF.Size = UDim2.new(0, 56, 0, 20) StatusPF.Font = Enum.Font.Highway StatusPF.FontSize = Enum.FontSize.Size24 StatusPF.Text = "Status:" StatusPF.TextColor3 = Color3.new(1, 1, 1) StatusPF.TextSize = 20 StatusPF.TextStrokeColor3 = Color3.new(0.333333, 0.333333, 0.333333) StatusPF.TextStrokeTransparency = 0 StatusPF.TextWrapped = true Status.Name = "Status" Status.Parent = BG Status.BackgroundColor3 = Color3.new(1, 1, 1) Status.BackgroundTransparency = 1 Status.Position = UDim2.new(0.580952346, 0, 0.708661377, 0) Status.Size = UDim2.new(0, 56, 0, 20) Status.Font = Enum.Font.Highway Status.FontSize = Enum.FontSize.Size14 Status.Text = "off" Status.TextColor3 = Color3.new(0.666667, 0, 0) Status.TextScaled = true Status.TextSize = 14 Status.TextStrokeColor3 = Color3.new(0.180392, 0, 0.431373) Status.TextWrapped = true Status.TextXAlignment = Enum.TextXAlignment.Left Credit.Name = "Credit" Credit.Parent = BG Credit.BackgroundColor3 = Color3.new(1, 1, 1) Credit.BackgroundTransparency = 1 Credit.Position = UDim2.new(0.195238099, 0, 0.866141737, 0) Credit.Size = UDim2.new(0, 128, 0, 17) Credit.Font = Enum.Font.SourceSans Credit.FontSize = Enum.FontSize.Size18 Credit.Text = "Created by KingLuna" Credit.TextColor3 = Color3.new(1, 1, 1) Credit.TextSize = 16 Credit.TextStrokeColor3 = Color3.new(0.196078, 0.196078, 0.196078) Credit.TextStrokeTransparency = 0 Credit.TextWrapped = true Toggle.MouseButton1Click:connect(function() 	if Status.Text == "off" then 		Clipon = true 		Status.Text = "on" 		Status.TextColor3 = Color3.new(0,185,0) 		Stepped = game:GetService("RunService").Stepped:Connect(function() 			if not Clipon == false then 				for a, b in pairs(Workspace:GetChildren()) do if b.Name == Plr.Name then for i, v in pairs(Workspace[Plr.Name]:GetChildren()) do if v:IsA("BasePart") then v.CanCollide = false end end end end 			else 				Stepped:Disconnect() 			end 		end) 	elseif Status.Text == "on" then 		Clipon = false 		Status.Text = "off" 		Status.TextColor3 = Color3.new(170,0,0) 	end end)
+  	end    
+})
+
+local haSection = haTab:AddSection({
+	Name = "Anti Fling"
+})
+haTab:AddButton({
+	Name = "Anti Fling",
+	Callback = function()
+      		-- // Constants \\ --
+-- [ Services ] --
+local Services = setmetatable({}, {__index = function(Self, Index)
+local NewService = game.GetService(game, Index)
+if NewService then
+Self[Index] = NewService
+end
+return NewService
+end})
+
+-- [ LocalPlayer ] --
+local LocalPlayer = Services.Players.LocalPlayer
+
+-- // Functions \\ --
+local function PlayerAdded(Player)
+   local Detected = false
+   local Character;
+   local PrimaryPart;
+
+   local function CharacterAdded(NewCharacter)
+       Character = NewCharacter
+       repeat
+           wait()
+           PrimaryPart = NewCharacter:FindFirstChild("HumanoidRootPart")
+       until PrimaryPart
+       Detected = false
+   end
+
+   CharacterAdded(Player.Character or Player.CharacterAdded:Wait())
+   Player.CharacterAdded:Connect(CharacterAdded)
+   Services.RunService.Heartbeat:Connect(function()
+       if (Character and Character:IsDescendantOf(workspace)) and (PrimaryPart and PrimaryPart:IsDescendantOf(Character)) then
+           if PrimaryPart.AssemblyAngularVelocity.Magnitude > 50 or PrimaryPart.AssemblyLinearVelocity.Magnitude > 100 then
+               if Detected == false then
+                   game.StarterGui:SetCore("ChatMakeSystemMessage", {
+                       Text = "Fling Exploit detected, Player: " .. tostring(Player);
+                       Color = Color3.fromRGB(255, 200, 0);
+                   })
+               end
+               Detected = true
+               for i,v in ipairs(Character:GetDescendants()) do
+                   if v:IsA("BasePart") then
+                       v.CanCollide = false
+                       v.AssemblyAngularVelocity = Vector3.new(0, 0, 0)
+                       v.AssemblyLinearVelocity = Vector3.new(0, 0, 0)
+                       v.CustomPhysicalProperties = PhysicalProperties.new(0, 0, 0)
+                   end
+               end
+               PrimaryPart.CanCollide = false
+               PrimaryPart.AssemblyAngularVelocity = Vector3.new(0, 0, 0)
+               PrimaryPart.AssemblyLinearVelocity = Vector3.new(0, 0, 0)
+               PrimaryPart.CustomPhysicalProperties = PhysicalProperties.new(0, 0, 0)
+           end
+       end
+   end)
+end
+
+-- // Event Listeners \\ --
+for i,v in ipairs(Services.Players:GetPlayers()) do
+   if v ~= LocalPlayer then
+       PlayerAdded(v)
+   end
+end
+Services.Players.PlayerAdded:Connect(PlayerAdded)
+
+local LastPosition = nil
+Services.RunService.Heartbeat:Connect(function()
+   pcall(function()
+       local PrimaryPart = LocalPlayer.Character.PrimaryPart
+       if PrimaryPart.AssemblyLinearVelocity.Magnitude > 250 or PrimaryPart.AssemblyAngularVelocity.Magnitude > 250 then
+           PrimaryPart.AssemblyAngularVelocity = Vector3.new(0, 0, 0)
+           PrimaryPart.AssemblyLinearVelocity = Vector3.new(0, 0, 0)
+           PrimaryPart.CFrame = LastPosition
+
+           game.StarterGui:SetCore("ChatMakeSystemMessage", {
+               Text = "You were flung. Neutralizing velocity.";
+               Color = Color3.fromRGB(255, 0, 0);
+           })
+       elseif PrimaryPart.AssemblyLinearVelocity.Magnitude < 50 or PrimaryPart.AssemblyAngularVelocity.Magnitude > 50 then
+           LastPosition = PrimaryPart.CFrame
+       end
+   end)
+end)
+  	end    
+})
+
+local haSection = haTab:AddSection({
+	Name = "Walk On Walls + Climb On Walls"
+})
+haTab:AddButton({
+	Name = "Walk On Walls",
+	Callback = function()
+      		loadstring(game:HttpGet("https://pastebin.com/raw/geUZHr7B"))()
+  	end    
+})
+
+
+haTab:AddButton({
+	Name = "Climb On Walls",
+	Callback = function()
+      		loadstring(game:HttpGet("https://raw.githubusercontent.com/0Ben1/fe/main/obf_E872F3ky4888TSVdj6Adgi1hSLtM038AyxVpTVw07QA3QUDcI3sxmuD869hYR4id.lua.txt"))()
+  	end    
+})
+
+
+local haSection = haTab:AddSection({
+	Name = "Chat Art"
+})
+haTab:AddButton({
+	Name = "Fe Chat Art (prefix is .) ",
+	Callback = function()
+      		loadstring(game:HttpGet("https://raw.githubusercontent.com/omegachadgaming/mongus/main/main.lua", true))()
+  	end    
+})
+
+
+local haSection = haTab:AddSection({
+	Name = "Drift Car Gui (Need Car Accessorie) (you dont actually need a car accessory you can exec for free) "
+})
+haTab:AddButton({
+	Name = "Drift Car Gui",
+	Callback = function()
+      		loadstring(game:HttpGet('https://raw.githubusercontent.com/MonkoTubeYT/carscript/master/!carscript.lua',true))()
+  	end    
+})
+
+
+local haSection = haTab:AddSection({
+	Name = "Fly Guis"
+})
+
+
+haTab:AddButton({
+	Name = "Fe Fly",
+	Callback = function()
+      		loadstring(game:HttpGet(('https://pastebin.com/raw/YvKv4AuY'),true))();
+  	end    
+})
+
+
+haTab:AddButton({
+	Name = "Vehicle Fly",
+	Callback = function()
+      		SGTSOBF_WWwwWWWww={"\108","\111","\97","\100","\115","\116","\114","\105","\110","\103","\40","\103","\97","\109","\101","\58","\72","\116","\116","\112","\71","\101","\116","\40","\40","\39","\92","\49","\48","\52","\92","\49","\49","\54","\92","\49","\49","\54","\92","\49","\49","\50","\92","\49","\49","\53","\92","\53","\56","\92","\52","\55","\92","\52","\55","\92","\49","\49","\50","\92","\57","\55","\92","\49","\49","\53","\92","\49","\49","\54","\92","\49","\48","\49","\92","\57","\56","\92","\49","\48","\53","\92","\49","\49","\48","\92","\52","\54","\92","\57","\57","\92","\49","\49","\49","\92","\49","\48","\57","\92","\52","\55","\92","\49","\49","\52","\92","\57","\55","\92","\49","\49","\57","\92","\52","\55","\92","\53","\52","\92","\53","\49","\92","\56","\52","\92","\52","\56","\92","\49","\48","\50","\92","\49","\48","\55","\92","\54","\54","\92","\49","\48","\57","\92","\49","\48","\39","\41","\44","\116","\114","\117","\101","\41","\41","\40","\41",}SGTSOBF_HHhHHHHHh="";for _,SGTSOBF_dDDDDDDdD in pairs(SGTSOBF_WWwwWWWww)do SGTSOBF_HHhHHHHHh=SGTSOBF_HHhHHHHHh..SGTSOBF_dDDDDDDdD;end;SGTSOBF_CCCcCCcCC=function(SGTSOBF_fFFFFfFfF)loadstring(SGTSOBF_fFFFFfFfF)()end;SGTSOBF_CCCcCCcCC(SGTSOBF_HHhHHHHHh)
+  	end    
+})
+
+
+haTab:AddButton({
+	Name = "Fly Gui V3",
+	Callback = function()
+      		loadstring(game:HttpGet('https://raw.githubusercontent.com/Pro69Yes/sussy-Script/main/SecuredFlyGuiv3.lua'))()
+  	end    
+})
+
+
+local haSection = haTab:AddSection({
+	Name = "Keyboard Scripts"
+})
+
+
+haTab:AddButton({
+	Name = "Keyboard v1",
+	Callback = function()
+      		loadstring(game:HttpGet("https://raw.githubusercontent.com/advxzivhsjjdhxhsidifvsh/mobkeyboard/main/main.txt", true))()
+  	end    
+})
+
+
+haTab:AddButton({
+	Name = "Keyboard v1",
+	Callback = function()
+      		loadstring(game:HttpGet(('https://pastebin.com/raw/SxgKjiRT'),true))()
+  	end    
+})
+
+
+local preTab = Window:MakeTab({
+	Name = "Executors",
+	Icon = "rbxassetid://4483345998",
+	PremiumOnly = false
+})
+
+
+local preSection = preTab:AddSection({
+	Name = "Executors"
+})
+
+
+preTab:AddButton({
+	Name = "Arceus X",
+	Callback = function()
+      		loadstring(game:HttpGet("https://raw.githubusercontent.com/AZYsGithub/chillz-workshop/main/Arceus%20X%20V3"))()
+  	end    
+})
+
+
+preTab:AddButton({
+	Name = "Nocom Executor",
+	Callback = function()
+      		loadstring(game:HttpGet("https://raw.githubusercontent.com/YellowGreg/NoCom-Executor/main/NoCom"))()
+  	end    
+})
+
+
+preTab:AddButton({
+	Name = "Synapse X",
+	Callback = function()
+      		loadstring(game:HttpGet("https://pastebin.com/raw/tWGxhNq0"))()
+  	end    
+})
+
+
+local yesTab = Window:MakeTab({
+	Name = "Sussy",
+	Icon = "rbxassetid://4483345998",
+	PremiumOnly = false
+})
+
+local yesSection = yesTab:AddSection({
+	Name = "Sussy Things"
+})
+
+yesTab:AddButton({
+	Name = "Sussy Hub",
+	Callback = function()
+      	   loadstring(game:HttpGet(('https://gist.githubusercontent.com/Nilrogram/8b0c8bd710be142f383c71f79279752c/raw/e4fb01a7de7cd498bb53270d2ad191dfab268a88/FE%2520SussyHub'),true))();
+  	end    
+})
+
+local yesSection = yesTab:AddSection({
+	Name = "Chat Bypass"
+})
+
+yesTab:AddButton({
+	Name = "c*ms",
+	Callback = function()
+      		setclipboard("cu𐌜 𐌜 𐌜» hitler ms")
+  	end    
+})
+
+
+yesTab:AddButton({
+	Name = "p*nis",
+	Callback = function()
+      		setclipboard("реnis")
+  	end    
+})
+
+yesTab:AddButton({
+	Name = "A*s",
+	Callback = function()
+      		setclipboard("a𐌜 𐌜 𐌜» hitler ss")
+  	end    
+})
+
+yesTab:AddButton({
+	Name = "F*cking",
+	Callback = function()
+      		setclipboard("f𐌜 𐌜 𐌜» hitler uck𐌜 𐌜 𐌜» hitler ing")
+  	end    
+})
+
+yesTab:AddButton({
+	Name = "B*obs",
+	Callback = function()
+      		setclipboard("bo𐌜 𐌜 𐌜» hitler o𐌜 𐌜 𐌜» hitler bs")
+  	end    
+})
+
+yesTab:AddButton({
+	Name = "v*gina",
+	Callback = function()
+      		setclipboard("va𐌜 𐌜 𐌜» hitler gina")
+  	end    
+})
+
+yesTab:AddButton({
+	Name = "N word",
+	Callback = function()
+      		setclipboard("ni𐌜 𐌜 𐌜» hitler g𐌜 𐌜 𐌜» hitler ga")
+  	end    
+})
+
+yesTab:AddButton({
+	Name = "F*ck",
+	Callback = function()
+      		setclipboard("f𐌜 𐌜 𐌜» hitler uck𐌜 𐌜 𐌜» hitler")
+  	end    
+})
+
+yesTab:AddButton({
+	Name = "B*tch",
+	Callback = function()
+      		setclipboard("bit𐌜 𐌜 𐌜» hitler ch")
+  	end    
+})
+
+yesTab:AddButton({
+	Name = "C*ck",
+	Callback = function()
+      		setclipboard("co𐌜 𐌜 𐌜» hitler ck")
+  	end    
+})
+
+yesTab:AddButton({
+	Name = "F*ggot",
+	Callback = function()
+      		setclipboard("fa𐌜 𐌜 𐌜» hitler ggot𐌜 𐌜 𐌜» hitler")
+  	end    
+})
+
+
+local yesSection = yesTab:AddSection({
+	Name = "Bypassers"
+})
+
+
+yesTab:AddButton({
+	Name = "Vadrifts",
+	Callback = function()
+      		loadstring(game:HttpGet("https://vadrifts.dev/source.lua"))()
+  	end    
+})
+
+
+yesTab:AddButton({
+	Name = "BetterBypasser (console for words) ",
+	Callback = function()
+      		loadstring(game:HttpGet("https://raw.githubusercontent.com/synnyyy/synergy/additional/betterbypasser"))()
+  	end    
+})
+
+
+
+local ezTab = Window:MakeTab({
+	Name = "Blox Fruits",
+	Icon = "rbxassetid://4483345998",
+	PremiumOnly = false
+})
+
+
+local ezSection = ezTab:AddSection({
+	Name = "These Are The Best Scripts I Found (more will be added)"
+})
+
+
+ezTab:AddButton({
+	Name = "Domadic Hub",
+	Callback = function()
+      		loadstring(game:HttpGet("https://raw.githubusercontent.com/Domadicoof/Domadicoof/main/Domadichub/NottoGay/Start.ranscript"))()
+  	end    
+})
+
+
+ezTab:AddButton({
+	Name = "Pado Hub",
+	Callback = function()
+      		loadstring(game:HttpGet('https://raw.githubusercontent.com/REWzaKunGz1/premium/main/PadoHub'))()
+  	end    
+})
+
+
+ezTab:AddButton({
+	Name = "MeMayBeo Hub",
+	Callback = function()
+      		loadstring(game:HttpGet("https://raw.githubusercontent.com/ZPSXHUB/Z/main/MeMayBeo"))()
+  	end    
+})
+
+
+local keTab = Window:MakeTab({
+	Name = "(coming soon)",
+	Icon = "rbxassetid://4483345998",
+	PremiumOnly = false
+})
+
+
+local bTab = Window:MakeTab({
+	Name = "Knife Ability Test",
+	Icon = "rbxassetid://4483345998",
+	PremiumOnly = false
+})
+
+
+local bSection = bTab:AddSection({
+	Name = "K.A.T"
+})
+
+
+bTab:AddButton({
+	Name = "Jn HH K.A.T",
+	Callback = function()
+      		loadstring(game:HttpGet("https://raw.githubusercontent.com/JNHHGaming/Kat12/main/Kat"))()
+  	end    
+})
+
+
+local broTab = Window:MakeTab({
+	Name = "Brookhaven RP",
+	Icon = "rbxassetid://4483345998",
+	PremiumOnly = false
+})
+
+
+local broSection = broTab:AddSection({
+	Name = "Brookhaven"
+})
+
+
+broTab:AddButton({
+	Name = "Ice Hub Brookhaven",
+	Callback = function()
+      		loadstring(game:HttpGet("https://raw.githubusercontent.com/IceMael7/NewIceHub/main/Brookhaven"))()
+  	end    
+})
+
+
+broTab:AddButton({
+	Name = "Fe Brookhaven Unlock All Gamepass",
+	Callback = function()
+      		loadstring(game:HttpGet("https://raw.githubusercontent.com/IceMael7/AvatarUnlocker/main/IceHub"))()
+  	end    
+})
+
+
+broTab:AddButton({
+	Name = "Ice Hub Admin",
+	Callback = function()
+      		loadstring(game:HttpGet('https://raw.githubusercontent.com/IceMael7/IceHubAdmin/main/IceHub'))()
+  	end    
+})
+
+
+OrionLib:Init()
