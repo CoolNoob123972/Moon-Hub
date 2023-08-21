@@ -362,6 +362,38 @@ AdminTab:AddButton({
 })
 
 
+AdminTab:AddButton({
+	Name = "Iv Admin",
+	Callback = function()
+      		loadstring(game:HttpGet('https://raw.githubusercontent.com/BloodyBurns/Hex/main/Iv%20Admin%20v3.lua'))()
+  	end    
+})
+
+
+AdminTab:AddButton({
+	Name = "Home Brew Admin",
+	Callback = function()
+      		loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/Syntaxx64/HomebrewAdmin/master/Main"))()
+  	end    
+})
+
+
+AdminTab:AddButton({
+	Name = "Fates Admin",
+	Callback = function()
+      		loadstring(game:HttpGet("https://raw.githubusercontent.com/fatesc/fates-admin/main/main.lua"))();
+  	end    
+})
+
+
+AdminTab:AddButton({
+	Name = "Cmd X Admin",
+	Callback = function()
+      		loadstring(game:HttpGet("https://raw.githubusercontent.com/CMD-X/CMD-X/master/Source", true))()
+  	end    
+})
+
+
 local meTab = Window:MakeTab({
 	Name = "Hubs",
 	Icon = "rbxassetid://4483345998",
@@ -719,7 +751,7 @@ haTab:AddButton({
 
 
 haTab:AddButton({
-	Name = "Keyboard v1",
+	Name = "Keyboard v2",
 	Callback = function()
       		loadstring(game:HttpGet(('https://pastebin.com/raw/SxgKjiRT'),true))()
   	end    
@@ -921,7 +953,7 @@ ezTab:AddButton({
 
 
 local keTab = Window:MakeTab({
-	Name = "(coming soon)",
+	Name = "BedWars",
 	Icon = "rbxassetid://4483345998",
 	PremiumOnly = false
 })
