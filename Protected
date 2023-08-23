@@ -1,13 +1,13 @@
 loadstring(game:HttpGet('https://raw.githubusercontent.com/1201for/littlegui/main/FPS-Counter'))()
 
 local OrionLib = loadstring(game:HttpGet(('https://raw.githubusercontent.com/thanhdat4461/OrionMoblie/main/source')))()
-local Window = OrionLib:MakeWindow({Name = " MoonWare | Version: 1.0.0", HidePremium = false, SaveConfig = true, IntroEnabled = false, ConfigFolder = "OrionTest"})
+local Window = OrionLib:MakeWindow({Name = "🗿SigmaWare🗿 | Version: 1.0.0", HidePremium = false, SaveConfig = false, IntroEnabled = false})
 
 OrionLib:MakeNotification({
 	Name = "Thanks For Using My Script Hub!!!",
 	Content = "Script Hub Executed.",
 	Image = "rbxassetid://4483345998",
-	Time = 1
+	Time = 5
 })
 
 local HomeTab = Window:MakeTab({
@@ -1038,148 +1038,6 @@ preTab:AddButton({
 })
   	end    
 })
-
-
-local yesTab = Window:MakeTab({
-	Name = "Sussy",
-	Icon = "rbxassetid://4483345998",
-	PremiumOnly = false
-})
-
-local yesSection = yesTab:AddSection({
-	Name = "Sussy Things"
-})
-
-yesTab:AddButton({
-	Name = "Sussy Hub",
-	Callback = function()
-      	   loadstring(game:HttpGet(('https://gist.githubusercontent.com/Nilrogram/8b0c8bd710be142f383c71f79279752c/raw/e4fb01a7de7cd498bb53270d2ad191dfab268a88/FE%2520SussyHub'),true))();
-      OrionLib:MakeNotification({
-	Name = "Executed",
-	Content = "Script Executed",
-	Image = "rbxassetid://4483345998",
-	Time = 2
-})
-  	end    
-})
-
-local yesSection = yesTab:AddSection({
-	Name = "Chat Bypass"
-})
-
-yesTab:AddParagraph("Info","After Clicking Some Words, Check Your Clipboard ;) ")
-
-yesTab:AddButton({
-	Name = "c*ms",
-	Callback = function()
-      		setclipboard("cu𐌜 𐌜 𐌜» hitler ms")
-  	end    
-})
-
-
-yesTab:AddButton({
-	Name = "p*nis",
-	Callback = function()
-      		setclipboard("реnis")
-  	end    
-})
-
-yesTab:AddButton({
-	Name = "A*s",
-	Callback = function()
-      		setclipboard("a𐌜 𐌜 𐌜» hitler ss")
-  	end    
-})
-
-yesTab:AddButton({
-	Name = "F*cking",
-	Callback = function()
-      		setclipboard("f𐌜 𐌜 𐌜» hitler uck𐌜 𐌜 𐌜» hitler ing")
-  	end    
-})
-
-yesTab:AddButton({
-	Name = "B*obs",
-	Callback = function()
-      		setclipboard("bo𐌜 𐌜 𐌜» hitler o𐌜 𐌜 𐌜» hitler bs")
-  	end    
-})
-
-yesTab:AddButton({
-	Name = "v*gina",
-	Callback = function()
-      		setclipboard("va𐌜 𐌜 𐌜» hitler gina")
-  	end    
-})
-
-yesTab:AddButton({
-	Name = "N word",
-	Callback = function()
-      		setclipboard("ni𐌜 𐌜 𐌜» hitler g𐌜 𐌜 𐌜» hitler ga")
-  	end    
-})
-
-yesTab:AddButton({
-	Name = "F*ck",
-	Callback = function()
-      		setclipboard("f𐌜 𐌜 𐌜» hitler uck𐌜 𐌜 𐌜» hitler")
-  	end    
-})
-
-yesTab:AddButton({
-	Name = "B*tch",
-	Callback = function()
-      		setclipboard("bit𐌜 𐌜 𐌜» hitler ch")
-  	end    
-})
-
-yesTab:AddButton({
-	Name = "C*ck",
-	Callback = function()
-      		setclipboard("co𐌜 𐌜 𐌜» hitler ck")
-  	end    
-})
-
-yesTab:AddButton({
-	Name = "F*ggot",
-	Callback = function()
-      		setclipboard("fa𐌜 𐌜 𐌜» hitler ggot𐌜 𐌜 𐌜» hitler")
-  	end    
-})
-
-
-local yesSection = yesTab:AddSection({
-	Name = "Bypassers"
-})
-
-
-yesTab:AddButton({
-	Name = "Vadrifts",
-	Callback = function()
-      		loadstring(game:HttpGet("https://vadrifts.dev/source.lua"))()
-      OrionLib:MakeNotification({
-	Name = "Executed",
-	Content = "Script Executed",
-	Image = "rbxassetid://4483345998",
-	Time = 2
-})
-  	end    
-})
-
-
-yesTab:AddButton({
-	Name = "BetterBypasser (console for words) ",
-	Callback = function()
-      		loadstring(game:HttpGet("https://raw.githubusercontent.com/synnyyy/synergy/additional/betterbypasser"))()
-      OrionLib:MakeNotification({
-	Name = "Executed",
-	Content = "Script Executed",
-	Image = "rbxassetid://4483345998",
-	Time = 2
-})
-  	end    
-})
-
 
 
 local ezTab = Window:MakeTab({
